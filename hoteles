@@ -1,0 +1,1064 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1712069,
+          41.3834686
+        ]
+      },
+      "properties": {
+        "numero": 1,
+        "nombre": "1898",
+        "direccion": "La Rambla, 109",
+        "telefono": "935 529 552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1214617,
+          41.3892072
+        ]
+      },
+      "properties": {
+        "numero": 2,
+        "nombre": "AC Victoria Suites",
+        "direccion": "Beltrán i Rózpide, 7-9",
+        "telefono": "932 069 900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16152,
+          41.3931918
+        ]
+      },
+      "properties": {
+        "numero": 3,
+        "nombre": "Alexandra Barcelona a Doubletree by Hilton",
+        "direccion": "Mallorca, 251",
+        "telefono": "934 677 166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1573018,
+          41.3918244
+        ]
+      },
+      "properties": {
+        "numero": 4,
+        "nombre": "America Barcelona",
+        "direccion": "Provença, 195",
+        "telefono": "934 876 292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.196845109,
+          41.3869385
+        ]
+      },
+      "properties": {
+        "numero": 5,
+        "nombre": "Arts Barcelona",
+        "direccion": "Marina, 19-21",
+        "telefono": "932 211 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1715636,
+          41.3827894
+        ]
+      },
+      "properties": {
+        "numero": 6,
+        "nombre": "Bagués",
+        "direccion": "La Rambla, 105",
+        "telefono": "933 435 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1750481,
+          41.3848019
+        ]
+      },
+      "properties": {
+        "numero": 7,
+        "nombre": "Barcelona Catedral",
+        "direccion": "Capellans, 4",
+        "telefono": "933 042 255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1592614,
+          41.3917169
+        ]
+      },
+      "properties": {
+        "numero": 8,
+        "nombre": "Barcelona Center",
+        "direccion": "Balmes, 103-105",
+        "telefono": "932 730 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2186423,
+          41.4110114
+        ]
+      },
+      "properties": {
+        "numero": 9,
+        "nombre": "Barcelona Princess",
+        "direccion": "Av. Diagonal, 1",
+        "telefono": "933 561 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1560454368591304,
+          41.39202258979985
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "numero": 10,
+        "nombre": "Bcn Urban Hotels Gran Rosellón",
+        "direccion": "Rosselló, 174-176",
+        "telefono": "935 480 998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1505721,
+          41.3764927
+        ]
+      },
+      "properties": {
+        "numero": 11,
+        "nombre": "B-Hotel",
+        "direccion": "Gran Via de les Corts Catalanes, 389-391",
+        "telefono": "935 529 500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1483625,
+          41.3755385
+        ]
+      },
+      "properties": {
+        "numero": 12,
+        "nombre": "Catalonia Barcelona Plaza",
+        "direccion": "Pl. Espanya, 6-8",
+        "telefono": "933 262 600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1684151,
+          41.393599
+        ]
+      },
+      "properties": {
+        "numero": 13,
+        "nombre": "Catalonia Eixample 1864",
+        "direccion": "Roger de Llúria, 60",
+        "telefono": "932 720 050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1696699,
+          41.3901396
+        ]
+      },
+      "properties": {
+        "numero": 14,
+        "nombre": "Catalonia Passeig de Gràcia",
+        "direccion": "Gran Via de les Corts Catalanes, 644",
+        "telefono": "932 702 735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1668274,
+          41.3856387
+        ]
+      },
+      "properties": {
+        "numero": 15,
+        "nombre": "Catalonia Ramblas",
+        "direccion": "Pelai, 28",
+        "telefono": "933 168 400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1810506,
+          41.3858687
+        ]
+      },
+      "properties": {
+        "numero": 16,
+        "nombre": "Ciutat de Barcelona",
+        "direccion": "Princesa, 33-35",
+        "telefono": "932 697 475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1651078,
+          41.3944848
+        ]
+      },
+      "properties": {
+        "numero": 17,
+        "nombre": "Claris",
+        "direccion": "Pau Claris, 150",
+        "telefono": "934 876 262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1627098,
+          41.3935497
+        ]
+      },
+      "properties": {
+        "numero": 18,
+        "nombre": "Condes de Barcelona",
+        "direccion": "Pg. de Gràcia, 73",
+        "telefono": "934 450 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1748256,
+          41.3799929
+        ]
+      },
+      "properties": {
+        "numero": 19,
+        "nombre": "DO: Plaça Reial",
+        "direccion": "Pl. Reial, 1",
+        "telefono": "934 813 666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.180741,
+          41.3797824
+        ]
+      },
+      "properties": {
+        "numero": 20,
+        "nombre": "Duquesa de Cardona",
+        "direccion": "Pg. Colom, 12",
+        "telefono": "932 689 090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1728291,
+          41.3799487
+        ]
+      },
+      "properties": {
+        "numero": 21,
+        "nombre": "España Ramblas",
+        "direccion": "Sant Pau, 9-11",
+        "telefono": "935 500 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.181814907,
+          41.37128141
+        ]
+      },
+      "properties": {
+        "numero": 22,
+        "nombre": "Eurostars Grand Marina Hotel",
+        "direccion": "Moll de Barcelona, s/n",
+        "telefono": "936 039 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.142869101,
+          41.37926811
+        ]
+      },
+      "properties": {
+        "numero": 23,
+        "nombre": "Expo Hotel Barcelona",
+        "direccion": "Mallorca, 1-23",
+        "telefono": "936 003 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1096609,
+          41.3829388
+        ]
+      },
+      "properties": {
+        "numero": 24,
+        "nombre": "Fairmont Rey Juan Carlos I",
+        "direccion": "Av. Diagonal, 661-671",
+        "telefono": "933 644 040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1593099,
+          41.3949242
+        ]
+      },
+      "properties": {
+        "numero": 25,
+        "nombre": "Gallery Hotel",
+        "direccion": "Rosselló, 249",
+        "telefono": "934 159 911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1211028,
+          41.4253332
+        ]
+      },
+      "properties": {
+        "numero": 26,
+        "nombre": "Gran Hotel La Florida",
+        "direccion": "Ctra. Vallvidrera al Tibidabo, 83-93",
+        "telefono": "932 593 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1568447,
+          41.3918439
+        ]
+      },
+      "properties": {
+        "numero": 27,
+        "nombre": "Granados 83",
+        "direccion": "Enric Granados, 83",
+        "telefono": "934 929 670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1695056,
+          41.3900159
+        ]
+      },
+      "properties": {
+        "numero": 28,
+        "nombre": "Granvía",
+        "direccion": "Gran Via de les Corts Catalanes, 642",
+        "telefono": "933 181 900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1570077,
+          41.3919928
+        ]
+      },
+      "properties": {
+        "numero": 29,
+        "nombre": "H10 Art Gallery",
+        "direccion": "Enric Granados, 62-64",
+        "telefono": "932 142 030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1609471,
+          41.3842608
+        ]
+      },
+      "properties": {
+        "numero": 30,
+        "nombre": "H10 Casanova",
+        "direccion": "Gran Via de les Corts Catalanes, 559",
+        "telefono": "933 964 800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1731556,
+          41.388024
+        ]
+      },
+      "properties": {
+        "numero": 31,
+        "nombre": "H10 Cubik",
+        "direccion": "Via Laietana, 69",
+        "telefono": "933 202 200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1923601,
+          41.3929354
+        ]
+      },
+      "properties": {
+        "numero": 32,
+        "nombre": "H10 Marina Barcelona",
+        "direccion": "Av. Bogatell, 64-68",
+        "telefono": "933 097 917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.167727,
+          41.3877641
+        ]
+      },
+      "properties": {
+        "numero": 33,
+        "nombre": "H10 Metropolitan",
+        "direccion": "Rbla. Catalunya, 7-9",
+        "telefono": "932 140 721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1784808,
+          41.3843854
+        ]
+      },
+      "properties": {
+        "numero": 34,
+        "nombre": "H10 Montcada Boutique Hotel",
+        "direccion": "Via Laietana, 24",
+        "telefono": "932 688 570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1838458,
+          41.3815625
+        ]
+      },
+      "properties": {
+        "numero": 35,
+        "nombre": "H10 Port Vell",
+        "direccion": "Pas de Sota Muralla, 9",
+        "telefono": "933 103 065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1665338,
+          41.3869565
+        ]
+      },
+      "properties": {
+        "numero": 36,
+        "nombre": "H10 Universitat",
+        "direccion": "Ronda Universitat, 21",
+        "telefono": "933 427 850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1726015,
+          41.3892128
+        ]
+      },
+      "properties": {
+        "numero": 37,
+        "nombre": "H10 Urquinaona Plaza",
+        "direccion": "Pl. Urquinaona, 2",
+        "telefono": "932 382 040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1312557,
+          41.3888551
+        ]
+      },
+      "properties": {
+        "numero": 38,
+        "nombre": "Hilton Barcelona",
+        "direccion": "Av. Diagonal, 589-591",
+        "telefono": "934 957 777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2166315,
+          41.4082734
+        ]
+      },
+      "properties": {
+        "numero": 39,
+        "nombre": "Hilton Diagonal Mar Barcelona",
+        "direccion": "Pg. del Taulat, 262-264",
+        "telefono": "935 070 092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1718415,
+          41.3916972
+        ]
+      },
+      "properties": {
+        "numero": 40,
+        "nombre": "Hotel Cotton House",
+        "direccion": "Gran Via de les Corts Catalanes, 670",
+        "telefono": "934 505 045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1702477,
+          41.3912552
+        ]
+      },
+      "properties": {
+        "numero": 41,
+        "nombre": "Hotel Indigo Barcelona - Plaza Catalunya",
+        "direccion": "Gran Via de les Corts Catalanes, 629",
+        "telefono": "936 026 690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1754511,
+          41.3831744
+        ]
+      },
+      "properties": {
+        "numero": 42,
+        "nombre": "Hotel Neri",
+        "direccion": "St. Sever, 5",
+        "telefono": "933 040 655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.219752072,
+          41.41210516
+        ]
+      },
+      "properties": {
+        "numero": 43,
+        "nombre": "Hotel SB Diagonal Zero Barcelona",
+        "direccion": "Pl. de Llevant, s/n",
+        "telefono": "935 078 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1993915,
+          41.3935591
+        ]
+      },
+      "properties": {
+        "numero": 44,
+        "nombre": "Hotel SB Icaria Barcelona",
+        "direccion": "Av. Icaria, 195",
+        "telefono": "932 218 200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.180688,
+          41.3801815
+        ]
+      },
+      "properties": {
+        "numero": 45,
+        "nombre": "Hotel The Serras",
+        "direccion": "Pg. Colom, 9",
+        "telefono": "931 691 868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1658813,
+          41.3859359
+        ]
+      },
+      "properties": {
+        "numero": 46,
+        "nombre": "Jazz",
+        "direccion": "Pelai, 3",
+        "telefono": "935 529 696"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1639813,
+          41.3935179
+        ]
+      },
+      "properties": {
+        "numero": 47,
+        "nombre": "Majestic Hotel & Spa Barcelona",
+        "direccion": "Pg. de Gràcia, 68",
+        "telefono": "934 881 717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1669995,
+          41.3914471
+        ]
+      },
+      "properties": {
+        "numero": 48,
+        "nombre": "Mandarin Oriental, Barcelona",
+        "direccion": "Pg. de Gràcia, 38-40",
+        "telefono": "931 518 888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1703523,
+          41.370818
+        ]
+      },
+      "properties": {
+        "numero": 49,
+        "nombre": "Miramar Barcelona",
+        "direccion": "Pl. Carlos Ibáñez, 3",
+        "telefono": "932 811 600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1725836,
+          41.3904187
+        ]
+      },
+      "properties": {
+        "numero": 50,
+        "nombre": "Negresco Princess",
+        "direccion": "Roger de Llúria, 16-18",
+        "telefono": "932 150 051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1776823,
+          41.3917382
+        ]
+      },
+      "properties": {
+        "numero": 51,
+        "nombre": "NH Barcelona Pódium",
+        "direccion": "Bailén, 4-6",
+        "telefono": "932 650 202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1911894,
+          41.4038774
+        ]
+      },
+      "properties": {
+        "numero": 52,
+        "nombre": "Novotel Barcelona City",
+        "direccion": "Av. Diagonal, 201",
+        "telefono": "933 262 499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.174336,
+          41.3870479
+        ]
+      },
+      "properties": {
+        "numero": 53,
+        "nombre": "Ohla Barcelona",
+        "direccion": "Via Laietana, 49",
+        "telefono": "933 415 050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1564353,
+          41.3944574
+        ]
+      },
+      "properties": {
+        "numero": 54,
+        "nombre": "Ohla Eixample",
+        "direccion": "Còrsega, 289-291",
+        "telefono": "937 377 977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1608452,
+          41.3961014
+        ]
+      },
+      "properties": {
+        "numero": 55,
+        "nombre": "Omm",
+        "direccion": "Rosselló, 265",
+        "telefono": "934 454 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1682914,
+          41.386136
+        ]
+      },
+      "properties": {
+        "numero": 56,
+        "nombre": "Pulitzer",
+        "direccion": "Bergara, 8",
+        "telefono": "934 816 767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19473,
+          41.3860183
+        ]
+      },
+      "properties": {
+        "numero": 57,
+        "nombre": "Pullman Barcelona Skipper",
+        "direccion": "Av. Litoral, 10",
+        "telefono": "932 216 565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1673975,
+          41.3927888
+        ]
+      },
+      "properties": {
+        "numero": 58,
+        "nombre": "Renaissance Barcelona Hotel",
+        "direccion": "Pau Claris, 122",
+        "telefono": "932 723 810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.162638,
+          41.3946775
+        ]
+      },
+      "properties": {
+        "numero": 59,
+        "nombre": "Royal Passeig de Gràcia",
+        "direccion": "Pg. de Gràcia, 84",
+        "telefono": "937 370 010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1515228,
+          41.3843457
+        ]
+      },
+      "properties": {
+        "numero": 60,
+        "nombre": "Sercotel Ámister Art Hotel",
+        "direccion": "Av. Roma, 93-95",
+        "telefono": "933 633 468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1904034,
+          41.4037682
+        ]
+      },
+      "properties": {
+        "numero": 61,
+        "nombre": "Silken Diagonal Barcelona",
+        "direccion": "Av. Diagonal, 205",
+        "telefono": "934 895 300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1722139,
+          41.3927101
+        ]
+      },
+      "properties": {
+        "numero": 62,
+        "nombre": "Silken Gran Hotel Havana",
+        "direccion": "Gran Via de les Corts Catalanes, 647",
+        "telefono": "933 417 000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1541149,
+          41.3802469
+        ]
+      },
+      "properties": {
+        "numero": 63,
+        "nombre": "Villa Emilia Barcelona",
+        "direccion": "Calàbria, 115-117",
+        "telefono": "932 525 285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1747136,
+          41.3895263
+        ]
+      },
+      "properties": {
+        "numero": 64,
+        "nombre": "Vincci Gala",
+        "direccion": "Ronda de Sant Pere, 32",
+        "telefono": "935 083 200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2112949,
+          41.4077523
+        ]
+      },
+      "properties": {
+        "numero": 65,
+        "nombre": "Vincci Marítimo",
+        "direccion": "Llull, 340",
+        "telefono": "933 562 600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1760942,
+          41.3889808
+        ]
+      },
+      "properties": {
+        "numero": 66,
+        "nombre": "Yurbban Trafalgar Hotel",
+        "direccion": "Trafalgar, 30",
+        "telefono": "932 680 727"
+      }
+    }
+  ]
+}
