@@ -1,0 +1,141 @@
+[
+[
+ {
+   "Company": "Gesop",
+   "Client": "EL PERIÓDICO",
+   "Method": "Teléfono",
+   "From": 1508112000,
+   "To": 1508371200,
+   "Sample Size": 800,
+   "ERC": 28.1,
+   "PDECat": 12,
+   "CUP": 7.8,
+   "Cs": 16.8,
+   "PSC": 14.5,
+   "CeC": 9,
+   "PP": 7.5,
+   "Source": "Archivo",
+   "PDF": "http://www.panelbase.com/media/polls/W10470w7tablesforpublication.pdf"
+ },
+ {
+   "Company": "Sigma Dos",
+   "Client": "El Mundo",
+   "Method": "Teléfono",
+   "From": 1508716800,
+   "To": 1508976000,
+   "Sample Size": 1100,
+   "ERC": 26.4,
+   "PDECat": 9.8,
+   "CUP": 6.3,
+   "Cs": 19.6,
+   "PSC": 15.1,
+   "CeC": 11,
+   "PP": 8.7,
+   "Source": "Archivo",
+   "PDF": "https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/d8zsb99eyd/TimesResults_FINAL%20CALL_GB_June2017_W.pdf"
+ },
+ {
+   "Company": "SocioMétrica",
+   "Client": "El Español",
+   "Method": "Teléfono/online",
+   "From": 1509062400,
+   "To": 1509408000,
+   "Sample Size": 1000,
+   "ERC": 31.2,
+   "PDECat": 10.1,
+   "CUP": 5.7,
+   "Cs": 18.3,
+   "PSC": 12.2,
+   "CeC": 10,
+   "PP": 9,
+   "Source": "El Español",
+   "PDF": "https://www.elespanol.com/espana/20171101/258724920_0.html"
+ },
+ {
+   "Company": "GAD3",
+   "Client": "La Vanguardia",
+   "Method": "Teléfono/online",
+   "From": 1509321600,
+   "To": 1509667200,
+   "Sample Size": 1233,
+   "ERC": 29.3,
+   "PDECat": 10.4,
+   "CUP": 6.3,
+   "Cs": 20.6,
+   "PSC": 14.6,
+   "CeC": 8.3,
+   "PP": 8.7,
+   "Source": "Archivo",
+   "PDF": "http://www.tns-bmrb.co.uk/sites/tns-bmrb/files/KPUK%20GE2017%20final%20tables%20-%207.6.2017.pdf"
+ },
+ {
+   "Company": "NC Report",
+   "Client": "La Razón",
+   "Method": "Teléfono",
+   "From": 1509321600,
+   "To": 1509667200,
+   "Sample Size": 1000,
+   "ERC": 26.3,
+   "PDECat": 10.7,
+   "CUP": 6.3,
+   "Cs": 19.6,
+   "PSC": 13.6,
+   "CeC": 10.4,
+   "PP": 10.5,
+   "Source": "Archivo",
+   "PDF": "http://www.bmgresearch.co.uk/wp-content/uploads/2017/06/CONFIDENTIAL-BMG-HERALD-POLL-FINAL-GE2017-070617.xlsx"
+ }
+],
+    [
+ {
+   "date": 1508371200,
+   "ERC": 0.281,
+   "PDECat": 0.12,
+   "CUP": 0.078,
+   "Cs": 0.168,
+   "PSC": 0.145,
+   "CeC": 0.09,
+   "PP": 0.075
+ },
+ {
+   "date": 1508976000,
+   "ERC": 0.264,
+   "PDECat": 0.098,
+   "CUP": 0.063,
+   "Cs": 0.196,
+   "PSC": 0.151,
+   "CeC": 0.11,
+   "PP": 0.087
+ },
+ {
+   "date": 1509408000,
+   "ERC": 0.312,
+   "PDECat": 0.101,
+   "CUP": 0.057,
+   "Cs": 0.183,
+   "PSC": 0.122,
+   "CeC": 0.1,
+   "PP": 0.09
+ },
+ {
+   "date": 1509667200,
+   "ERC": 0.293,
+   "PDECat": 0.104,
+   "CUP": 0.063,
+   "Cs": 0.206,
+   "PSC": 0.146,
+   "CeC": 0.083,
+   "PP": 0.087
+ },
+ {
+   "date": 1509667200,
+   "ERC": 0.263,
+   "PDECat": 0.107,
+   "CUP": 0.063,
+   "Cs": 0.196,
+   "PSC": 0.136,
+   "CeC": 0.104,
+   "PP": 0.105
+ }
+]
+]
