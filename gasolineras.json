@@ -1,0 +1,2805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "TUSSAM EXTERIOR",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "Av. de Andalucía, 11",
+        "localidad": "Sevilla",
+        "provincia": "Sevilla",
+        "comaut": "Andalucía",
+        "cp": 41007,
+        "pais": "España",
+        "fecha": 2014,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "No",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.947771,
+          37.387297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "HAM Sevilla",
+        "tipocomb": "GNL",
+        "propietario": "HAM",
+        "direccion": "Enlace entre SE30 y A-92 km.3",
+        "localidad": "Alcalá de Guadaira",
+        "provincia": "Sevilla",
+        "comaut": "Andalucía",
+        "cp": 41500,
+        "pais": "España",
+        "fecha": 2012,
+        "puntos": 1,
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "HAM",
+        "bandera": "HAM",
+        "telefono": "Susana Amat, 937704760",
+        "mail": "ham@ham.es",
+        "web": "www.ham.es",
+        "servicios": "No ofrecemos servicios extra directamente. En algunos puntos hay otros servicios ofrecidos por terceros. Cualquier duda por parte de los transportistas interesados pueden contactar a través de la web.",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.909031,
+          37.376117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "VIA GAS",
+        "tipocomb": "GNC-GNL",
+        "propietario": "Vía Augusta Gas",
+        "direccion": "Autopista A-2, km 328",
+        "localidad": "Zaragoza",
+        "provincia": "Zaragoza",
+        "comaut": "Aragón",
+        "cp": 50016,
+        "pais": "España",
+        "fecha": 2013,
+        "puntos": "2GNC/1GNL",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "Crédito / débito, Gasogas, Monfort, HAM\n (con PIN)",
+        "bandera": "",
+        "telefono": 976570930,
+        "mail": "ramon.pascual@viagas.es",
+        "web": "www.viagas.es",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.81294,
+          41.66693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "AUTOTAXI ZARAGOZA",
+        "tipocomb": "GNC",
+        "propietario": "ENDESA",
+        "direccion": "Calle Alcalde Gómez Laguna",
+        "localidad": "Zaragoza",
+        "provincia": "Zaragoza",
+        "comaut": "Aragón",
+        "cp": 50012,
+        "pais": "España",
+        "fecha": 2017,
+        "puntos": "1GNC",
+        "horario": "24h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "ENDESA/CRÉDITO",
+        "bandera": "Cooperativa autotaxi Zaragoza",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "Baños, tienda",
+        "camion-friendly": "Furgoneta",
+        "servicio": "Autoservicio",
+        "comentarios": "INFORMACIÓN: endesagnv@enel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9239167,
+          41.6340278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "ROCES",
+        "tipocomb": "GNC",
+        "propietario": "EDP Servicios Energéticos",
+        "direccion": "C/ Avenida de Oviedo,176",
+        "localidad": "Gijón",
+        "provincia": "Gijón",
+        "comaut": "Asturias",
+        "cp": 33211,
+        "pais": "España",
+        "fecha": 2016,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "Crédito / tarjeta cliente EDP",
+        "bandera": "EDP",
+        "telefono": 902830100,
+        "mail": "movilidadsostenible@edpenergia.es",
+        "web": "http://www.edpenergia.es/",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.686806,
+          43.51797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "EMT PALMA DE MALLORCA",
+        "tipocomb": "GNC",
+        "propietario": "ENDESA",
+        "direccion": "Camí Fondo s/n. E coll den Rebassa",
+        "localidad": "Palma de Mallorca",
+        "provincia": "Mallorca",
+        "comaut": "Baleares",
+        "cp": 7007,
+        "pais": "España",
+        "fecha": 2010,
+        "puntos": "1GNC doble",
+        "horario": "24h/365 días al año",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "ENDESA",
+        "bandera": "ENDESA",
+        "telefono": "",
+        "mail": "endesagnv@enel.com",
+        "web": "",
+        "servicios": "No",
+        "camion-friendly": "Camión rígido",
+        "servicio": "Autoservicio*",
+        "comentarios": "requieren contacto previo con Endesa para solicitud de autorización de acceso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.693278,
+          39.56175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "MONEGAS SA",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "N-320, km 71",
+        "localidad": "Motilla del Palancar",
+        "provincia": "Cuenca",
+        "comaut": "Castilla la Mancha",
+        "cp": 16200,
+        "pais": "España",
+        "fecha": 2013,
+        "puntos": "2 GNC / 1 GNL*",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí (GNL)",
+        "tipotarjeta": "GNF + Crédito solo GNC",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "Máquina vending",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "*Acceso a GNL para usuarios acreditados. Los servicios extra no son propiedad de la estación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.902823,
+          39.55351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "GUADALAJARA",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ Guadalajara-Jalisco, 9",
+        "localidad": "Guadalajara",
+        "provincia": "Guadalajara",
+        "comaut": "Castilla la Mancha",
+        "cp": 19004,
+        "pais": "España",
+        "fecha": 2013,
+        "puntos": 6,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.185264,
+          40.655932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "J. SANTOS (ALOVERA)",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "A-2, km 47,5 (Salida 48). Ctra. Madrid, 47",
+        "localidad": "Alovera",
+        "provincia": "Guadalajara",
+        "comaut": "Castilla la Mancha",
+        "cp": 19208,
+        "pais": "España",
+        "fecha": 2012,
+        "puntos": "2 GNC / 1 GNL*",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí (GNL)",
+        "tipotarjeta": "GNF + Crédito solo GNC",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "Restaurante,lavadero y tienda",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "*Acceso a GNL para usuarios acreditados.  Los servicios extra no son propiedad de la estación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.225521,
+          40.595006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "HAM TORREMOCHA",
+        "tipocomb": "GNC-GNL",
+        "propietario": "HAM",
+        "direccion": "N-II, Km. 117. E.S. Petromiralles",
+        "localidad": "Torremocha del Campo",
+        "provincia": "Guadalajara",
+        "comaut": "Castilla la Mancha",
+        "cp": 19268,
+        "pais": "España",
+        "fecha": 2010,
+        "puntos": "2 GNC/1 GNL",
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "",
+        "bandera": "HAM",
+        "telefono": "Susana Amat, 937704760",
+        "mail": "ham@ham.es",
+        "web": "www.ham.es",
+        "servicios": "No ofrecemos servicios extra directamente. En algunos puntos hay otros servicios ofrecidos por terceros. Cualquier duda por parte de los transportistas interesados pueden contactar a través de la web.",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.617005,
+          40.972636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "SESEÑA",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "Ctra. Andalucía, 13",
+        "localidad": "Seseña",
+        "provincia": "Toledo",
+        "comaut": "Castilla la Mancha",
+        "cp": 45224,
+        "pais": "España",
+        "fecha": "",
+        "puntos": "",
+        "horario": "24 h",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.645003,
+          40.105006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "SANTA BARBARA",
+        "tipocomb": "GNC",
+        "propietario": "SERPAUTO ALPÍ",
+        "direccion": "Paseo de la Rosa, 156",
+        "localidad": "Toledo",
+        "provincia": "Toledo",
+        "comaut": "Castilla la Mancha",
+        "cp": 45006,
+        "pais": "España",
+        "fecha": 2011,
+        "puntos": 2,
+        "horario": "07:00-23:00",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "Tarjeta de crédito y metálico",
+        "bandera": "CEPSA",
+        "telefono": 925221038,
+        "mail": "serpautojmm@gmail.com",
+        "web": "",
+        "servicios": "Baños y lavadero",
+        "camion-friendly": "",
+        "servicio": "Atendida",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0033,
+          39.8620376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "FONTIOSO",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "Carretera Madrid-Irún, Km 187,700",
+        "localidad": "Fontioso",
+        "provincia": "Burgos",
+        "comaut": "Castilla y León",
+        "cp": 9349,
+        "pais": "España",
+        "fecha": "",
+        "puntos": "",
+        "horario": "24 h",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.75101,
+          41.915801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "BEROIL RUBENA",
+        "tipocomb": "GNL",
+        "propietario": "Beroil",
+        "direccion": "Carretera Madrid-Irún, km 247",
+        "localidad": "Rubena",
+        "provincia": "Burgos",
+        "comaut": "Castilla y León",
+        "cp": 9199,
+        "pais": "España",
+        "fecha": 2015,
+        "puntos": 1,
+        "horario": "07:00-23:00",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "",
+        "bandera": "Beroil",
+        "telefono": "947 473 302",
+        "mail": "comercialberoil@beroil.es",
+        "web": "www.beroil.es",
+        "servicios": "Restaurante, parking vigilado y baños",
+        "camion-friendly": "Sí",
+        "servicio": "Mixta",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.591056,
+          42.37659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "MARENOSTRUM",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ Doctor Aiguader / Pza. del Gas, 1. Cinturón Litoral",
+        "localidad": "Barcelona",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8003,
+        "pais": "España",
+        "fecha": 2012,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí por lado derecho",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189785,
+          41.383561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "URBASER Bon Pastor",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ Fra Juníper Serra, 75",
+        "localidad": "Barcelona",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8030,
+        "pais": "España",
+        "fecha": 2009,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.202953,
+          41.433336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "PETRONIEVES",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "Calle B nº 15 Zona Franca",
+        "localidad": "Barcelona",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8040,
+        "pais": "España",
+        "fecha": 42767,
+        "puntos": "2 GNC / 1 GNL*",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí (GNL)",
+        "tipotarjeta": "GNF + Crédito solo GNC",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "Restaurante y tienda",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "*Acceso a GNL para usuarios acreditados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.134667,
+          41.331892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "MARINÉ",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "B-142, km 0,5",
+        "localidad": "Santa Perpètua de Mogoda",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8130,
+        "pais": "España",
+        "fecha": 2014,
+        "puntos": "2 GNC / 1 GNL*",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí (GNL)",
+        "tipotarjeta": "GNF + Crédito solo GNC",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "Lavadero",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "*Acceso a GNL para usuarios acreditados. Los servicios extra no son propiedad de la estación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.164108,
+          41.5388194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "HAM ABRERA",
+        "tipocomb": "GNC-GNL",
+        "propietario": "HAM",
+        "direccion": "N-II. Km. 582",
+        "localidad": "Abrera",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8630,
+        "pais": "España",
+        "fecha": 2000,
+        "puntos": "6 GNC / 2 GNL",
+        "horario": "L-D: 24h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "",
+        "bandera": "HAM",
+        "telefono": "Susana Amat, 937704760",
+        "mail": "ham@ham.es",
+        "web": "www.ham.es",
+        "servicios": "No ofrecemos servicios extra directamente. En algunos puntos hay otros servicios ofrecidos por terceros. Cualquier duda por parte de los transportistas interesados pueden contactar a través de la web.",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.89773,
+          41.515318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "HAM IGUALADA",
+        "tipocomb": "GNC",
+        "propietario": "HAM",
+        "direccion": "E.S. Repsol.  Av. Europa, 2",
+        "localidad": "Igualada",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8700,
+        "pais": "España",
+        "fecha": 2010,
+        "puntos": 2,
+        "horario": "L-D: 24h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "",
+        "bandera": "HAM",
+        "telefono": "Susana Amat, 937704760",
+        "mail": "ham@ham.es",
+        "web": "www.ham.es",
+        "servicios": "No ofrecemos servicios extra directamente. En algunos puntos hay otros servicios ofrecidos por terceros. Cualquier duda por parte de los transportistas interesados pueden contactar a través de la web.",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.631647,
+          41.595861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "HAM SANT SADURNÍ",
+        "tipocomb": "GNC-GNL",
+        "propietario": "HAM",
+        "direccion": "C/ d'Alemanya, 19. Polígono Can Ferrer, AP7",
+        "localidad": "Sant Sadurní d'Anoia",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8770,
+        "pais": "España",
+        "fecha": 2012,
+        "puntos": "1 GNC / 1 GNL",
+        "horario": "L-D: 24h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "",
+        "bandera": "HAM",
+        "telefono": "Susana Amat, 937704760",
+        "mail": "ham@ham.es",
+        "web": "www.ham.es",
+        "servicios": "No ofrecemos servicios extra directamente. En algunos puntos hay otros servicios ofrecidos por terceros. Cualquier duda por parte de los transportistas interesados pueden contactar a través de la web.",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.77805,
+          41.435544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "VILADECANS",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "Av. Progrés. 4E",
+        "localidad": "Viladecans",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8840,
+        "pais": "España",
+        "fecha": 2015,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.03580833,
+          41.3181806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "HAM HOSPITALET",
+        "tipocomb": "GNC",
+        "propietario": "HAM",
+        "direccion": "Ctra. Del Mig, 36",
+        "localidad": "L'Hospitalet de Llobregat",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8903,
+        "pais": "España",
+        "fecha": 2010,
+        "puntos": 3,
+        "horario": "L-D: 24h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "",
+        "bandera": "HAM",
+        "telefono": "Susana Amat, 937704760",
+        "mail": "ham@ham.es",
+        "web": "www.ham.es",
+        "servicios": "No ofrecemos servicios extra directamente. En algunos puntos hay otros servicios ofrecidos por terceros. Cualquier duda por parte de los transportistas interesados pueden contactar a través de la web.",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11303,
+          41.35841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "GALP Cornellá C/. Progrés",
+        "tipocomb": "GNC",
+        "propietario": "Galp",
+        "direccion": "C/ Progreso esq. C/ Albert Einstein (Pol. Almeda)",
+        "localidad": "Cornellá de Llobregat",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8940,
+        "pais": "España",
+        "fecha": 2017,
+        "puntos": "",
+        "horario": "",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "GALP",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08672222222222,
+          41.3574183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "BOTÁNICA",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ Botánica, 114",
+        "localidad": "L'Hospitalet del Llobregat",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8908,
+        "pais": "España",
+        "fecha": 2011,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.124848,
+          41.348865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "SALT",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "Disseminat el Sitjar, 1",
+        "localidad": "Salt",
+        "provincia": "Girona",
+        "comaut": "Cataluña",
+        "cp": 17190,
+        "pais": "España",
+        "fecha": 2011,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "GNF",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "*Acceso a GNC para usuarios acreditados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.78798611,
+          41.9657278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "HAM BIONET",
+        "tipocomb": "GNC-GNL",
+        "propietario": "HAM",
+        "direccion": "C/ Sofre nº 3. Políg Ind Riu Clar.",
+        "localidad": "Tarragona",
+        "provincia": "Tarragona",
+        "comaut": "Cataluña",
+        "cp": 43006,
+        "pais": "España",
+        "fecha": 2010,
+        "puntos": "1 GNC / 1 GNL",
+        "horario": "L-V: 06-22:00;      S: 07:00-15:00",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "",
+        "bandera": "HAM",
+        "telefono": "Susana Amat, 937704760",
+        "mail": "ham@ham.es",
+        "web": "www.ham.es",
+        "servicios": "No ofrecemos servicios extra directamente. En algunos puntos hay otros servicios ofrecidos por terceros. Cualquier duda por parte de los transportistas interesados pueden contactar a través de la web.",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.22387,
+          41.139284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "EST. MÓVIL VILAR DO COLO",
+        "tipocomb": "GNL",
+        "propietario": "HAM",
+        "direccion": "Rua Catavento PI Vilar Do Colo",
+        "localidad": "Fene",
+        "provincia": "A Coruña",
+        "comaut": "Galicia",
+        "cp": 15500,
+        "pais": "España",
+        "fecha": 2012,
+        "puntos": 1,
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "HAM",
+        "bandera": "HAM",
+        "telefono": "Susana Amat, 937704760",
+        "mail": "ham@ham.es",
+        "web": "www.ham.es",
+        "servicios": "No ofrecemos servicios extra directamente. En algunos puntos hay otros servicios ofrecidos por terceros. Cualquier duda por parte de los transportistas interesados pueden contactar a través de la web.",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.169742,
+          43.449624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "SAN CIBRAO",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ Ricardo Martín Esperanza nº 12",
+        "localidad": "San Cibrao das Viñas",
+        "provincia": "Orense",
+        "comaut": "Galicia",
+        "cp": 32901,
+        "pais": "España",
+        "fecha": 2014,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "Hostal, restaurante, lavadero y tienda",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "Los servicios extra no son propiedad de la estación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.816939,
+          42.289826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "MEGINO",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ Ebanistas, 2. Pol. Ind. Urtinsa",
+        "localidad": "Alcorcón",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28923,
+        "pais": "España",
+        "fecha": 2014,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.805716,
+          40.341893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "VILLAVERDE",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ Piñuecar, 53",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28021,
+        "pais": "España",
+        "fecha": 2015,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.717845,
+          40.336032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "ARAVACA",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ Rafael Boti, 5",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28023,
+        "pais": "España",
+        "fecha": 2015,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.804863,
+          40.463819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "Avda. de los Poblados",
+        "tipocomb": "GNC",
+        "propietario": "ALIARA ENERGIA SA",
+        "direccion": "Avenida de los Poblados, 147",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28041,
+        "pais": "España",
+        "fecha": 42767,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "Aliara + Crédito",
+        "bandera": "ALIARA",
+        "telefono": "91 589 97 81",
+        "mail": "fjsaez@aliaraenergia.es",
+        "web": "https://aliaraenergia.es/",
+        "servicios": "No",
+        "camion-friendly": "Sí furgonetas y camiones",
+        "servicio": "Autoservicio",
+        "comentarios": "Estación no atendida. Mail de contacto: Admin@aliaraenergia.es\nWeb: www.aliaraenergia.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.717037,
+          40.373698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "SAN BLAS",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ San Romualdo, 13",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28037,
+        "pais": "España",
+        "fecha": 2013,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "No",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.621586,
+          40.438619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "EMT SANCHINARRO EXTERIOR",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "Av. Francisco Pi y Margall, 5",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28050,
+        "pais": "España",
+        "fecha": 2011,
+        "puntos": 5,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.645499,
+          40.485188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "VICÁLVARO",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ Rivas, 14",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28052,
+        "pais": "España",
+        "fecha": 2015,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.588751,
+          40.398158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "CTM",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "Av. Eje Central, 7. Centro Transportes Madrid",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28053,
+        "pais": "España",
+        "fecha": 2011,
+        "puntos": 4,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65621,
+          40.363861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "SERPARLA",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "M-408 / c/ Pinto. Centro Comercial el Ferial",
+        "localidad": "Parla",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28983,
+        "pais": "España",
+        "fecha": 2012,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "Restaurante y tienda",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "Los servicios extra no son propiedad de la estación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.753548,
+          40.24032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "HAM Tres Cantos",
+        "tipocomb": "GNL",
+        "propietario": "HAM",
+        "direccion": "Autovía Tres Cantos-Colmenar Viejo",
+        "localidad": "Tres Cantos",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28049,
+        "pais": "España",
+        "fecha": 2011,
+        "puntos": 1,
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "HAM",
+        "bandera": "HAM",
+        "telefono": "Susana Amat, 937704760",
+        "mail": "ham@ham.es",
+        "web": "www.ham.es",
+        "servicios": "No ofrecemos servicios extra directamente. En algunos puntos hay otros servicios ofrecidos por terceros. Cualquier duda por parte de los transportistas interesados pueden contactar a través de la web.",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.711192,
+          40.561531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "AISA-VALDEMORO",
+        "tipocomb": "GNC-GNL",
+        "propietario": "ENDESA",
+        "direccion": "Calle Narciso Monturiol",
+        "localidad": "Valdemoro",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28341,
+        "pais": "España",
+        "fecha": 42401,
+        "puntos": "2GNC/1GNL dobles",
+        "horario": "24h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "ENDESA/CRÉDITO",
+        "bandera": "ENDESA",
+        "telefono": "",
+        "mail": "endesagnv@enel.com",
+        "web": "",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio*",
+        "comentarios": "requieren contacto previo con Endesa para solicitud de autorización de acceso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6656328,
+          40.1673765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "FUEMBELLIDA",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ Fuembellida, 3",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28022,
+        "pais": "España",
+        "fecha": 42736,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí por lado izquierdo",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.573144,
+          40.449051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "DISFRIMUR MURCIA",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "RM-611 (Av. de la Paloma, Era Alta)",
+        "localidad": "Murcia",
+        "provincia": "Murcia",
+        "comaut": "Murcia",
+        "cp": 30168,
+        "pais": "España",
+        "fecha": 2011,
+        "puntos": 6,
+        "horario": "7:00 a 22:00 horas",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.169881,
+          37.962623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "ANAIZ EZCABA",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "Ctra. NA-2517, km 4 (Av. de Pamplona, s/n)",
+        "localidad": "Villava",
+        "provincia": "Navarra",
+        "comaut": "Navarra",
+        "cp": 31610,
+        "pais": "España",
+        "fecha": 2011,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "Hostal, restaurante, lavadero, tienda y máquina vending",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "Los servicios extra no son propiedad de la estación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.609577,
+          42.835194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "VITORIA",
+        "tipocomb": "GNC",
+        "propietario": "EDP Servicios Energéticos",
+        "direccion": "C/ Vitorialanda,12",
+        "localidad": "Vitoria - Gazteiz",
+        "provincia": "Álava",
+        "comaut": "País Vasco",
+        "cp": 1010,
+        "pais": "España",
+        "fecha": 42552,
+        "puntos": 2,
+        "horario": "24h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "Crédito / tarjeta cliente EDP",
+        "bandera": "EDP",
+        "telefono": 902830100,
+        "mail": "movilidadsostenible@edpenergia.es",
+        "web": "",
+        "servicios": "Sí",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.703306,
+          42.86008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "EUROCAM",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "A-1, km 342. Pol. Ind. Subillabide",
+        "localidad": "Nanclares de la Oca",
+        "provincia": "Álava",
+        "comaut": "País Vasco",
+        "cp": 1230,
+        "pais": "España",
+        "fecha": 2012,
+        "puntos": "2 GNC / 1 GNL*",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí (GNL)",
+        "tipotarjeta": "GNF + Crédito solo GNC",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "*Acceso a GNL para usuarios acreditados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.772653,
+          42.824035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "HAM TRANSORZIA",
+        "tipocomb": "GNL",
+        "propietario": "HAM",
+        "direccion": "Antxotxipi Kalea, 4, Zaisa III",
+        "localidad": "Irún",
+        "provincia": "Guipúzcoa",
+        "comaut": "País Vasco",
+        "cp": 20305,
+        "pais": "España",
+        "fecha": 42767,
+        "puntos": 1,
+        "horario": 24,
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "HAM",
+        "bandera": "HAM",
+        "telefono": "Susana Amat, 937704760",
+        "mail": "ham@ham.es",
+        "web": "www.ham.es",
+        "servicios": "No ofrecemos servicios extra directamente. En algunos puntos hay otros servicios ofrecidos por terceros. Cualquier duda por parte de los transportistas interesados pueden contactar a través de la web.",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": "*Acceso con tarjeta HAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.764162,
+          43.339588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "GASOGAS OLABERRIA",
+        "tipocomb": "GNC-GNL",
+        "propietario": "TRANSPORTES VICUÑA",
+        "direccion": "CARRETERA N-1, KM417",
+        "localidad": "OLABERRIA",
+        "provincia": "Guipúzcoa",
+        "comaut": "País Vasco",
+        "cp": 20212,
+        "pais": "España",
+        "fecha": 2009,
+        "puntos": "3 GNC/1GNL",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "visa, mastercard, h24, isxx1, valcarce, Gasogas, Via Gas, Monfort y Ham",
+        "bandera": "AVIA",
+        "telefono": 943880161,
+        "mail": "gasogas@gasogas.net",
+        "web": "www.gasogas.es",
+        "servicios": "Tienda, cafetería y baño",
+        "camion-friendly": "Sí",
+        "servicio": "Atendida*",
+        "comentarios": "*5:30-10:30, fuera de ese horario es autoservicio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.203379,
+          43.026885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "ZIERBENA",
+        "tipocomb": "GNC-GNL",
+        "propietario": "HAM",
+        "direccion": "Combustibles Coatra, barrio Refradigas Nº3",
+        "localidad": "Zierbena",
+        "provincia": "Vizcaya",
+        "comaut": "País Vasco",
+        "cp": 48001,
+        "pais": "España",
+        "fecha": 2011,
+        "puntos": "2 GNC / 1 GNL",
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "",
+        "bandera": "HAM",
+        "telefono": "Susana Amat, 937704760",
+        "mail": "ham@ham.es",
+        "web": "www.ham.es",
+        "servicios": "No ofrecemos servicios extra directamente. En algunos puntos hay otros servicios ofrecidos por terceros. Cualquier duda por parte de los transportistas interesados pueden contactar a través de la web.",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.073372,
+          43.350691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "DISFRIMUR ALICANTE",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "C/ Antonio Machado / c/ Fidel, Pol. Ind. La Granadina",
+        "localidad": "San Isidro",
+        "provincia": "Alicante",
+        "comaut": "Valencia",
+        "cp": 3349,
+        "pais": "España",
+        "fecha": 2012,
+        "puntos": "1 GNC / 1 GNL*",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí (GNL)",
+        "tipotarjeta": "GNF + Crédito solo GNC",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "*Acceso a GNL para usuarios acreditados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.853299,
+          38.1697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "TRANS. MONFORT",
+        "tipocomb": "GNC-GNL",
+        "propietario": "MONFORT",
+        "direccion": "C/ Dinamarca esquina C/ Cuadra Saboner",
+        "localidad": "Castellón de la Plana",
+        "provincia": "Castellón",
+        "comaut": "Valencia",
+        "cp": 12006,
+        "pais": "España",
+        "fecha": 2007,
+        "puntos": "3 GNC / 1 GNL*",
+        "horario": "24 h*",
+        "tarjetaacreditada": "Sí (GNL)*",
+        "tipotarjeta": "Monfort + HAM + Crédico",
+        "bandera": "Monfort",
+        "telefono": 964341102,
+        "mail": "info@monfort.es",
+        "web": "www.monfort.es",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "* Para personal no acreditado se puede pagar con VISA en horario laboral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.074363,
+          39.973563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "TAXCO",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ dels Gremis, 18. Pol. Vara de Quart",
+        "localidad": "Valencia",
+        "provincia": "Valencia",
+        "comaut": "Valencia",
+        "cp": 46014,
+        "pais": "España",
+        "fecha": 2008,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "Restaurante, lavadero y tienda",
+        "camion-friendly": "No",
+        "servicio": "Autoservicio",
+        "comentarios": "Los servicios extra no son propiedad de la estación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.409275,
+          39.4578944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "VALENCIA",
+        "tipocomb": "GNL",
+        "propietario": "TRANSNUGON",
+        "direccion": "C/Mariana Pineda",
+        "localidad": "Alaquàs",
+        "provincia": "Valencia",
+        "comaut": "Valencia",
+        "cp": 46970,
+        "pais": "España",
+        "fecha": 2016,
+        "puntos": "1 GNL",
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "",
+        "bandera": "HAM",
+        "telefono": "961 553 810",
+        "mail": "transportes@transnugon.com; antonio@transnugon.com",
+        "web": "www.transnugon.com",
+        "servicios": "Lavadero, duchas y aparcamiento (bajo petición)",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio asistido",
+        "comentarios": "Solicitar tarjeta HAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.48741666,
+          39.4459444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "DISFRIMUR VALENCIA",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "C/ dels Pedrapiquers, 2",
+        "localidad": "Riba-roja de Túria",
+        "provincia": "Valencia",
+        "comaut": "Valencia",
+        "cp": 46190,
+        "pais": "España",
+        "fecha": 2012,
+        "puntos": "2 GNC / 1 GNL*",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí (GNL)",
+        "tipotarjeta": "GNF + Crédito solo GNC",
+        "bandera": "GNF",
+        "telefono": 900402020,
+        "mail": "comercialgnv@gasnaturalfenosa.com",
+        "web": "www.gasnaturalfenosa.es/movilidadsostenible",
+        "servicios": "Lavadero",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "*Acceso a GNL para usuarios acreditados.  Los servicios extra no son propiedad de la estación"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5482,
+          39.4755944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "CARRIS",
+        "tipocomb": "GNC",
+        "propietario": "CARRIS",
+        "direccion": "Av. Dr. Augusto de Castro X Av. Mar. Gomes da Costa",
+        "localidad": "Lisboa",
+        "provincia": "Portugal",
+        "comaut": "",
+        "cp": 1950,
+        "pais": "Portugal",
+        "fecha": 2015,
+        "puntos": "1 GNC",
+        "horario": "9h30-16h30 | 21-24h (l-j)",
+        "tarjetaacreditada": "NO",
+        "tipotarjeta": "-",
+        "bandera": "Dourogás",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.111722,
+          38.757941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "Carregado",
+        "tipocomb": "GNC-GNL",
+        "propietario": "Dourogás",
+        "direccion": "Quinta da Mendanha",
+        "localidad": "Alenquer",
+        "provincia": "Portugal",
+        "comaut": "",
+        "cp": 2580,
+        "pais": "Portugal",
+        "fecha": 2014,
+        "puntos": "2GNC/2GNL",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "debit card/credit card/VISA/fuel card",
+        "bandera": "Dourogás",
+        "telefono": "351 259 100 918",
+        "mail": "COMERCIAL@DOUROGASGNV.PT",
+        "web": "http://www.dourogasgnv.pt/postos/",
+        "servicios": "Baños",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.978782,
+          39.033844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "Elvas",
+        "tipocomb": "GNC-GNL",
+        "propietario": "Dourogás",
+        "direccion": "Lugar de Caia",
+        "localidad": "Elvas",
+        "provincia": "",
+        "comaut": "",
+        "cp": 7350,
+        "pais": "Portugal",
+        "fecha": 2016,
+        "puntos": "2GNC/1GNL",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí (y cash)",
+        "tipotarjeta": "debit card/credit card/VISA/fuel card",
+        "bandera": "Dourogás",
+        "telefono": "351 259 100 918",
+        "mail": "COMERCIAL@DOUROGASGNV.PT",
+        "web": "http://www.dourogasgnv.pt/postos/",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.052551,
+          38.875339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "Loures",
+        "tipocomb": "GNC",
+        "propietario": "Dourogás",
+        "direccion": "Rua José Malhoa, Lote 16, Casal do Monte",
+        "localidad": "Loures",
+        "provincia": "Portugal",
+        "comaut": "",
+        "cp": 2661,
+        "pais": "Portugal",
+        "fecha": 2015,
+        "puntos": "4 GNC",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "debit card/credit card/VISA/fuel card",
+        "bandera": "Dourogás",
+        "telefono": "351 259 100 918",
+        "mail": "COMERCIAL@DOUROGASGNV.PT",
+        "web": "http://www.dourogasgnv.pt/postos/",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.168611,
+          38.807222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Abierta",
+        "nombre": "STCP",
+        "tipocomb": "GNC",
+        "propietario": "STCP",
+        "direccion": "Rua Eng. Luís Delgado dos Santos",
+        "localidad": "Porto",
+        "provincia": "Portugal",
+        "comaut": "",
+        "cp": 4100,
+        "pais": "Portugal",
+        "fecha": 2014,
+        "puntos": "1 GNC",
+        "horario": "9:00 a 20 h (l-j)",
+        "tarjetaacreditada": "NO",
+        "tipotarjeta": "-",
+        "bandera": "Dourogás",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.642329,
+          41.169885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "Picoto",
+        "tipocomb": "GNC-GNL",
+        "propietario": "Dourogás",
+        "direccion": "EN 1, Mozelos",
+        "localidad": "Santa Maria da Feira",
+        "provincia": "Portugal",
+        "comaut": "",
+        "cp": 4505,
+        "pais": "Portugal",
+        "fecha": 2015,
+        "puntos": "2GNC/1GNL",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "debit card/credit card/VISA/fuel card",
+        "bandera": "Dourogás",
+        "telefono": "351 259 100 918",
+        "mail": "COMERCIAL@DOUROGASGNV.PT",
+        "web": "http://www.dourogasgnv.pt/postos/",
+        "servicios": "Baños",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.554456,
+          41.008214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "Escariz",
+        "tipocomb": "GNC",
+        "propietario": "Dourogás",
+        "direccion": "Rua do Couto, Escariz",
+        "localidad": "Vila Real",
+        "provincia": "Portugal",
+        "comaut": "",
+        "cp": 5000,
+        "pais": "Portugal",
+        "fecha": 2014,
+        "puntos": "2 GNC",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "debit card/credit card/VISA/fuel card",
+        "bandera": "Dourogás",
+        "telefono": "351 259 100 918",
+        "mail": "COMERCIAL@DOUROGASGNV.PT",
+        "web": "http://www.dourogasgnv.pt/postos/",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.720263,
+          41.352244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "Urjais",
+        "tipocomb": "GNC",
+        "propietario": "Dourogás",
+        "direccion": "Cachão-Frechas",
+        "localidad": "Mirandela",
+        "provincia": "Portugal",
+        "comaut": "",
+        "cp": 5370,
+        "pais": "Portugal",
+        "fecha": 2013,
+        "puntos": "2 GNC",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "debit card/credit card/VISA/fuel card",
+        "bandera": "Dourogás",
+        "telefono": "351 259 100 918",
+        "mail": "COMERCIAL@DOUROGASGNV.PT",
+        "web": "http://www.dourogasgnv.pt/postos/",
+        "servicios": "No",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.143153,
+          41.373997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "AS A4 Galp Matosinhos",
+        "tipocomb": "GNC-GNL",
+        "propietario": "Galp",
+        "direccion": "3,8 e 4,1 do sublnço N",
+        "localidad": "Matosinhos",
+        "provincia": "Porto",
+        "comaut": "",
+        "cp": null,
+        "pais": "Portugal",
+        "fecha": 2016,
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "Galp Frota",
+        "bandera": "Galp",
+        "telefono": "Jorge Alegria - +351 961 502 901",
+        "mail": "gn.veiculos@galpenergia.com",
+        "web": "",
+        "servicios": "Tienda, cafetería, restaurante y taller de automóviles Midas",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "gn.veicular@galp.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.639731,
+          41.2045472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "restringido",
+        "nombre": "AS Galp Azambuja",
+        "tipocomb": "GNC-GNL",
+        "propietario": "Galp",
+        "direccion": "E.N. 3 km 8,9",
+        "localidad": "Azambuja",
+        "provincia": "Lisboa",
+        "comaut": "",
+        "cp": null,
+        "pais": "Portugal",
+        "fecha": 2016,
+        "puntos": 2,
+        "horario": "6am -21 pm",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "Galp Frota",
+        "bandera": "Galp",
+        "telefono": "Jorge Alegria - +351 961 502 901",
+        "mail": "gn.veiculos@galpenergia.com",
+        "web": "",
+        "servicios": "Cafetería",
+        "camion-friendly": "Sí",
+        "servicio": "Autoservicio",
+        "comentarios": "gn.veicular@galp.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.890277,
+          39.0589167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "AIRPORT GRANADA",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "Carretera del Aeropuerto KM 0,5",
+        "localidad": "Santa Fe",
+        "provincia": "Granada",
+        "comaut": "Andalucía",
+        "cp": 18320,
+        "pais": "España",
+        "fecha": "",
+        "puntos": "2 GNC / 1 GNL*",
+        "horario": "24 h",
+        "tarjetaacreditada": "Sí (GNL)",
+        "tipotarjeta": "GNF + Crédito solo GNC",
+        "bandera": "GNF",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.769388,
+          37.183208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "ALGECIRAS",
+        "tipocomb": "GNC-GNL",
+        "propietario": "ENDESA",
+        "direccion": "Sector Pp Menacha Ejecutado, 27",
+        "localidad": "Algeciras",
+        "provincia": "Cádiz",
+        "comaut": "Andalucía",
+        "cp": 11205,
+        "pais": "España",
+        "fecha": 2017,
+        "puntos": "1GNC/1GNL dobles",
+        "horario": "24h",
+        "tarjetaacreditada": "Sí",
+        "tipotarjeta": "ENDESA/CRÉDITO",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "Sí",
+        "servicio": "",
+        "comentarios": "REQUIERE TARJETA ACCESO A ESTACIÓN, INFORMACIÓN: endesagnv@enel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.46104305,
+          36.1622461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "HAM ZARAGOZA",
+        "tipocomb": "GNC",
+        "propietario": "HAM",
+        "direccion": "Alfarín",
+        "localidad": "Alfajarín",
+        "provincia": "Zaragoza",
+        "comaut": "Aragón",
+        "cp": null,
+        "pais": "España",
+        "fecha": "proyecto",
+        "puntos": "",
+        "horario": "",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.46104305,
+          36.1622461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "EDP Oviego",
+        "tipocomb": "GNC",
+        "propietario": "EDP Servicios Energéticos",
+        "direccion": "Calle Corredoria Alta,41",
+        "localidad": "Oviedo",
+        "provincia": "Asturias",
+        "comaut": "Asturias",
+        "cp": null,
+        "pais": "España",
+        "fecha": "proyecto",
+        "puntos": 2,
+        "horario": "",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.827538,
+          43.382438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "GROWSMARTER",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "C/ Tánger con C/Roc Boronat",
+        "localidad": "Barcelona",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8018,
+        "pais": "España",
+        "fecha": "",
+        "puntos": 2,
+        "horario": "24 h",
+        "tarjetaacreditada": "No",
+        "tipotarjeta": "GNF + Crédito",
+        "bandera": "GNF",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "Autoservicio",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19382,
+          41.403235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "Barcelona-Calle Y",
+        "tipocomb": "GNL",
+        "propietario": "Concesión Pto. Barcelona",
+        "direccion": "Calle \"Y\" Pto. Autónomo Barcelona",
+        "localidad": "Barcelona",
+        "provincia": "Barcelona",
+        "comaut": "Cataluña",
+        "cp": 8040,
+        "pais": "España",
+        "fecha": 2017,
+        "puntos": "",
+        "horario": "",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "GALP",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15230555555556,
+          41.3466944444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "HAM La Junquera",
+        "tipocomb": "GNC-GNL",
+        "propietario": "HAM",
+        "direccion": "",
+        "localidad": "Girona",
+        "provincia": "Girona",
+        "comaut": "Cataluña",
+        "cp": null,
+        "pais": "España",
+        "fecha": "proyecto",
+        "puntos": "",
+        "horario": "",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.876107,
+          42.411156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "GALP ES Jarama",
+        "tipocomb": "GNC-GNL",
+        "propietario": "Galp",
+        "direccion": "Autovía A-1 pk. 26,200",
+        "localidad": "San Sebastián de los Reyes",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": 28700,
+        "pais": "España",
+        "fecha": 2017,
+        "puntos": "",
+        "horario": "",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "GALP",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.579,
+          40.608694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "Calle Portomarín",
+        "tipocomb": "GNC",
+        "propietario": "ALIARA ENERGIA SA",
+        "direccion": "Calle Portomarín, 19A",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": null,
+        "pais": "España",
+        "fecha": 2017,
+        "puntos": "",
+        "horario": "",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.670349,
+          40.513429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "Avda. de la Democracia",
+        "tipocomb": "GNC",
+        "propietario": "Pdt de adjudicación",
+        "direccion": "Avenida de la Demogracia, 7",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": null,
+        "pais": "España",
+        "fecha": 2017,
+        "puntos": "",
+        "horario": "",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.624473,
+          40.384901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "Avda. de Córdoba",
+        "tipocomb": "GNC",
+        "propietario": "ALIARA ENERGIA SA",
+        "direccion": "Avenida de Cordoba,41",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": null,
+        "pais": "España",
+        "fecha": 2017,
+        "puntos": "",
+        "horario": "",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.696001,
+          40.377982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "Calle Fuente de Lima",
+        "tipocomb": "GNC",
+        "propietario": "ALIARA ENERGIA SA",
+        "direccion": "",
+        "localidad": "Madrid",
+        "provincia": "Madrid",
+        "comaut": "Madrid",
+        "cp": null,
+        "pais": "España",
+        "fecha": 2017,
+        "puntos": "",
+        "horario": "",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78216,
+          40.383027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "GUARROMAN",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "Autovía de Andalucía, Km. 280, Salida 280",
+        "localidad": "Guarroman",
+        "provincia": "Jaén",
+        "comaut": "Andalucía",
+        "cp": 23210,
+        "pais": "España",
+        "fecha": "",
+        "puntos": "",
+        "horario": "24 h",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.672223,
+          38.193362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "MOJO GALLARDO",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "A-381 Jerez-Algeciras",
+        "localidad": "Mojo Gallardo",
+        "provincia": "Cádiz",
+        "comaut": "Andalucía",
+        "cp": 97067,
+        "pais": "España",
+        "fecha": "",
+        "puntos": "",
+        "horario": "24h",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.023455,
+          36.568957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "SSTT LLEIDA",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "Carrer de l'Enginyer Pablo Agustin, 301",
+        "localidad": "Lleida",
+        "provincia": "Lleida",
+        "comaut": "Cataluña",
+        "cp": 25191,
+        "pais": "España",
+        "fecha": "",
+        "puntos": "",
+        "horario": "24h",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.657629,
+          41.620032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "SANTIAGO COMPOSTELA",
+        "tipocomb": "GNC",
+        "propietario": "GNF",
+        "direccion": "Via de la Cierva, s/n",
+        "localidad": "Santiago de Compostela",
+        "provincia": "Coruña",
+        "comaut": "Galicia",
+        "cp": 15890,
+        "pais": "España",
+        "fecha": "",
+        "puntos": "",
+        "horario": "7h - 23h",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.526483,
+          42.917942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "estado": "Proyecto",
+        "nombre": "SAN SEBASTIAN DE LOS REYES",
+        "tipocomb": "GNC-GNL",
+        "propietario": "GNF",
+        "direccion": "",
+        "localidad": "",
+        "provincia": "",
+        "comaut": "",
+        "cp": null,
+        "pais": "España",
+        "fecha": "",
+        "puntos": "",
+        "horario": "",
+        "tarjetaacreditada": "",
+        "tipotarjeta": "",
+        "bandera": "",
+        "telefono": "",
+        "mail": "",
+        "web": "",
+        "servicios": "",
+        "camion-friendly": "",
+        "servicio": "",
+        "comentarios": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.526483,
+          42.917942
+        ]
+      }
+    }
+  ]
+}
