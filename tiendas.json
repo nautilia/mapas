@@ -1,0 +1,325 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.21625,41.412199 ]
+    },
+    "properties": {
+    "dir":"Carrer Llull, 395",
+    "cola":"Barcelona, (08019) Barcelona",
+    "telefono":675049528,
+    "link":"https://www.calfruitos.com/es/tienda/1",
+    "Address":"Carrer Llull, 395 Barcelona, (08019) Barcelona",
+    "returned":"Carrer de Llull, 395, 08019 Barcelona, Espanya",
+    "titulo":"publico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.17949,41.395083 ]
+    },
+    "properties": {
+    "dir":"Carrer Nàpols 113",
+    "cola":"Barcelona, (08013) Barcelona",
+    "telefono":605681174,
+    "link":"https://www.calfruitos.com/es/tienda/2",
+    "Address":"Carrer Nàpols 113 Barcelona, (08013) Barcelona",
+    "returned":"Carrer de Nàpols, 113, 08013 Barcelona, Espanya",
+    "titulo":"publico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.174145,41.397158 ]
+    },
+    "properties": {
+    "dir":"Carrer Consell de Cent 418,",
+    "cola":"Barcelona, (08009) Barcelona",
+    "telefono":675612858,
+    "link":"https://www.calfruitos.com/es/tienda/3",
+    "Address":"Carrer Consell de Cent 418, Barcelona, (08009) Barcelona",
+    "returned":"Carrer del Consell de Cent, 418, 08009 Barcelona, Espanya",
+    "titulo":"publico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.158723,41.407893 ]
+    },
+    "properties": {
+    "dir":"Carrer Providencia, 69",
+    "cola":"Barcelona, (08024) Barcelona",
+    "telefono":605014296,
+    "link":"https://www.calfruitos.com/es/tienda/4",
+    "Address":"Carrer Providencia, 69 Barcelona, (08024) Barcelona",
+    "returned":"Carrer de la Providència, 69, 08024 Barcelona, Espanya",
+    "titulo":"publico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.163771,41.407666 ]
+    },
+    "properties": {
+    "dir":"Carrer Pi i Margall 42-44",
+    "cola":"Barcelona, (08025) Barcelona",
+    "telefono":691468704,
+    "link":"https://www.calfruitos.com/es/tienda/5",
+    "Address":"Carrer Pi i Margall 42-44 Barcelona, (08025) Barcelona",
+    "returned":"Carrer de Pi i Margall, 44, 08025 Barcelona, Espanya",
+    "titulo":"publico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.203229,41.416505 ]
+    },
+    "properties": {
+    "dir":"Carrer Agricultura, 211-213 Bajos",
+    "cola":"Barcelona, (08020) Barcelona",
+    "telefono":605680533,
+    "link":"https://www.calfruitos.com/es/tienda/6",
+    "Address":"Carrer Agricultura, 211-213 Bajos Barcelona, (08020) Barcelona",
+    "returned":"Carrer de l'Agricultura, 211, 08020 Barcelona, Espanya",
+    "titulo":"publico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.200346,41.420974 ]
+    },
+    "properties": {
+    "dir":"Carrer de Cantabria, 42",
+    "cola":"Barcelona, (08020) Barcelona",
+    "telefono":605014187,
+    "link":"https://www.calfruitos.com/es/tienda/7",
+    "Address":"Carrer de Cantabria, 42 Barcelona, (08020) Barcelona",
+    "returned":"Carrer de Cantàbria, 42, 08020 Barcelona, Espanya",
+    "titulo":"publico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.204014,41.419331 ]
+    },
+    "properties": {
+    "dir":"Carrer de Pugicerdà, 211-235",
+    "cola":"Barcelona, (08020) Barcelona",
+    "telefono":605680532,
+    "link":"https://www.calfruitos.com/es/tienda/8",
+    "Address":"Carrer de Pugicerdà, 211-235 Barcelona, (08020) Barcelona",
+    "returned":"Carrer de Puigcerdà, 235, 08020 Barcelona, Espanya",
+    "titulo":"publico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.204594,41.420868 ]
+    },
+    "properties": {
+    "dir":"Carrer del Maresme, 238",
+    "cola":"Barcelona, (08020) Barcelona",
+    "telefono":605014133,
+    "link":"https://www.calfruitos.com/es/tienda/9",
+    "Address":"Carrer del Maresme, 238 Barcelona, (08020) Barcelona",
+    "returned":"Carrer del Maresme, 238, 08020 Barcelona, Espanya",
+    "titulo":"publico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.130799,41.382543 ]
+    },
+    "properties": {
+    "dir":"Carrer Lluça 38 – 40",
+    "cola":"Barcelona, (08028) Barcelona",
+    "telefono":934906896,
+    "link":"https://www.calfruitos.com/es/tienda/10",
+    "Address":"Carrer Lluça 38 – 40 Barcelona, (08028) Barcelona",
+    "returned":"Carrer de Lluçà, 40, 08028 Barcelona, Espanya",
+    "titulo":"publico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.129778,41.383954 ]
+    },
+    "properties": {
+    "dir":"Mercat Municipal, Travessera de les Corts, 215 Barcelona",
+    "cola":"Barcelona, (08028)",
+    "telefono":931721419,
+    "link":"https://www.calfruitos.com/es/tienda/12",
+    "Address":"Mercat Municipal, Travessera de les Corts, 215 Barcelona Barcelona, (08028)",
+    "returned":"Travessera de les Corts, 215, 08028 Barcelona, Espanya",
+    "titulo":"privado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.203154,41.402988 ]
+    },
+    "properties": {
+    "dir":"Carrer Bilbao 65",
+    "cola":"Barcelona, (08010) Barcelona",
+    "telefono":605681070,
+    "link":"https://www.calfruitos.com/es/tienda/13",
+    "Address":"Carrer Bilbao 65 Barcelona, (08010) Barcelona",
+    "returned":"Carrer de Bilbao, 65, 08005 Barcelona, Espanya",
+    "titulo":"privado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.196553,41.404898 ]
+    },
+    "properties": {
+    "dir":"Rambla de Poblenou 138-140",
+    "cola":"Barcelona, Barcelona",
+    "telefono":605680489,
+    "link":"https://www.calfruitos.com/es/tienda/15",
+    "Address":"Rambla de Poblenou 138-140 Barcelona, Barcelona",
+    "returned":"Rambla del Poblenou, 140, 08018 Barcelona, Espanya",
+    "titulo":"privado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.204369,41.402094 ]
+    },
+    "properties": {
+    "dir":"Carrer Bilbao 41-43",
+    "cola":"Barcelona, (08010) Barcelona",
+    "telefono":675026267,
+    "link":"https://www.calfruitos.com/es/tienda/16",
+    "Address":"Carrer Bilbao 41-43 Barcelona, (08010) Barcelona",
+    "returned":"Carrer de Bilbao, 43, 08005 Barcelona, Espanya",
+    "titulo":"privado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.186632,41.423364 ]
+    },
+    "properties": {
+    "dir":"Avinguda Meridiana 291",
+    "cola":"Barcelona, (08027) Barcelona",
+    "telefono":605014274,
+    "link":"https://www.calfruitos.com/es/tienda/19",
+    "Address":"Avinguda Meridiana 291 Barcelona, (08027) Barcelona",
+    "returned":"Avinguda Meridiana, 291, 08027 Barcelona, Espanya",
+    "titulo":"privado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.196625,41.418091 ]
+    },
+    "properties": {
+    "dir":"Carrer de la Selva de Mar, 257-259",
+    "cola":"Barcelona, (08020) Barcelona",
+    "telefono":605014136,
+    "link":"https://www.calfruitos.com/es/tienda/20",
+    "Address":"Carrer de la Selva de Mar, 257-259 Barcelona, (08020) Barcelona",
+    "returned":"Carrer de la Selva de Mar, 259, 08020 Barcelona, Espanya",
+    "titulo":"privado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.188625,41.43893 ]
+    },
+    "properties": {
+    "dir":"Carrer Gran de Sant Andreu, 379",
+    "cola":"Barcelona, (08030) Barcelona",
+    "telefono":695098261,
+    "link":"https://www.calfruitos.com/es/tienda/21",
+    "Address":"Carrer Gran de Sant Andreu, 379 Barcelona, (08030) Barcelona",
+    "returned":"Carrer Gran de Sant Andreu, 379, 08030 Barcelona, Espanya",
+    "titulo":"privado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.190984,41.43714 ]
+    },
+    "properties": {
+    "dir":"Carrer Torras i Bages 13",
+    "cola":"Barcelona, (08030) Barcelona",
+    "telefono":695260115,
+    "link":"https://www.calfruitos.com/es/tienda/22",
+    "Address":"Carrer Torras i Bages 13 Barcelona, (08030) Barcelona",
+    "returned":"Passeig de Torras i Bages, 13, 08030 Barcelona, Espanya",
+    "titulo":"privado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.189423,41.431792 ]
+    },
+    "properties": {
+    "dir":"Carrer Gran de Sant Andreu, 146",
+    "cola":"Barcelona, (08030) Barcelona",
+    "telefono":695076936,
+    "link":"https://www.calfruitos.com/es/tienda/23",
+    "Address":"Carrer Gran de Sant Andreu, 146 Barcelona, (08030) Barcelona",
+    "returned":"Carrer Gran de Sant Andreu, 146, 08030 Barcelona, Espanya",
+    "titulo":"privado"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.192523,41.429937 ]
+    },
+    "properties": {
+    "dir":"Rambla de l’Onze de Septembre, 33-35 Bajos 1",
+    "cola":"Barcelona, (08030) Barcelona",
+    "telefono":665786758,
+    "link":"https://www.calfruitos.com/es/tienda/24",
+    "Address":"Rambla de l’Onze de Septembre, 33-35 Bajos 1 Barcelona, (08030) Barcelona",
+    "returned":"Rambla de l'Onze de Setembre, 33, 08030 Barcelona, Espanya",
+    "titulo":"privado"
+    }
+  }
+]
+}
