@@ -1,0 +1,1705 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1147737,41.4022631 ]
+    },
+    "properties": {
+    "name":"PARC DE JOAN REVENTÓS",
+    "cronica":"Reggae contra el fascismo",
+    "categoria":"",
+    "genero":"PARQUE",
+    "description":"<img src=\"https://estaticos.elperiodico.com/resources/jpg/7/6/zentauroepp43515443-barcelona-barcelon-2018-icult-otros-escenario180610204933-1528656754167.jpg\" height=\"200\" width=\"auto\" /><br><br>https://https://www.elperiodico.com/es/ocio-y-cultura/20180610/fiesta-reivindicativa-ateneu-popular-sarria-otros-escenarios-6869510",
+    "gx_media_links":"",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180610/fiesta-reivindicativa-ateneu-popular-sarria-otros-escenarios-6869510",
+    "test":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1967788,41.3988392 ]
+    },
+    "properties": {
+    "name":"ULTRA-LOCAL RECORDS",
+    "cronica":"No somos ovejas de nadie",
+    "categoria":"",
+    "genero":"TIENDA DE DISCOS",
+    "description":"<img src=\"https://lh3.googleusercontent.com/mdfrjsxDEMxWEfNHTyVXdb2-cwTcAJg7cmmO2xsJ2N-vcwQGvFRu1wXO-K0D-6ohbNUrT_6eeV0n7A7gcETCfYtEGd9OHTJ2hwf2kOKl0niZwen6X_aPrm9R4W0QxBdAJQ=s408\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180603/otros-escenarios-posibles-no-somos-ovejas-de-nadie-6854933",
+    "gx_media_links":"https://lh3.googleusercontent.com/mdfrjsxDEMxWEfNHTyVXdb2-cwTcAJg7cmmO2xsJ2N-vcwQGvFRu1wXO-K0D-6ohbNUrT_6eeV0n7A7gcETCfYtEGd9OHTJ2hwf2kOKl0niZwen6X_aPrm9R4W0QxBdAJQ=s408",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180603/otros-escenarios-posibles-no-somos-ovejas-de-nadie-6854933",
+    "test":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1687698,41.3748281 ]
+    },
+    "properties": {
+    "name":"TEATRE VICTÒRIA                                 ",
+    "cronica":"Carnavales a final de mayo",
+    "categoria":"",
+    "genero":"TEATRO",
+    "description":"<img src=\"https://lh3.googleusercontent.com/bZ2vW9oXk520N3UZ__QAZEEsgzadfYIShFftD2HozbescaHCv6tcqWYibLi01JMBspDLzs-jH2JBes3lwnz9UipU2eIQpgJjyWcahzJOiU2EanH_jO9MzD6MWiSrvITi\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180527/angeles-guarda-otros-escenarios-posibles-6842421",
+    "gx_media_links":"https://lh3.googleusercontent.com/bZ2vW9oXk520N3UZ__QAZEEsgzadfYIShFftD2HozbescaHCv6tcqWYibLi01JMBspDLzs-jH2JBes3lwnz9UipU2eIQpgJjyWcahzJOiU2EanH_jO9MzD6MWiSrvITi",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180527/angeles-guarda-otros-escenarios-posibles-6842421",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0298448,41.3569485 ]
+    },
+    "properties": {
+    "name":"CASAL CIUTAT COOPERATIVA        ",
+    "cronica":"Unas rumbitas para ir tirando",
+    "categoria":"",
+    "genero":"CASAL",
+    "description":"<img src=\"https://lh5.googleusercontent.com/qN5ZKZXdFrl5psDkPnMu8PgUe-Ou0BJgBN6dWbs3p84K4iO4shzllhsHTEM4GqeYRWwBh5-ictR1Cto5iXUGeTcQBp4Jl4dpRSq2z0c9ogK4Sutk9ICvOHRq-IaQO_eN\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180520/cronica-pantanito-sant-boi-6829892",
+    "gx_media_links":"https://lh5.googleusercontent.com/qN5ZKZXdFrl5psDkPnMu8PgUe-Ou0BJgBN6dWbs3p84K4iO4shzllhsHTEM4GqeYRWwBh5-ictR1Cto5iXUGeTcQBp4Jl4dpRSq2z0c9ogK4Sutk9ICvOHRq-IaQO_eN",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180520/cronica-pantanito-sant-boi-6829892",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1421838,41.3701423 ]
+    },
+    "properties": {
+    "name":"HOSTAFRANCS BLOCK PARTY            ",
+    "cronica":"Una fiesta que cambia vidas",
+    "categoria":"",
+    "genero":"CENTRO CÍVICO",
+    "description":"<img src=\"https://lh3.googleusercontent.com/QUX12Ham0i329vprHf43VNuWCTemjBIv4Qu7N9tuJQ154UQKqZzwyM272Wg4iZA5Wq6EUARrxgmDB5n9uZVBH5VY9bQj8MsBicivUfkM1SrHhrbO95d-0r3yOaU3AMMlJA\" height=\"200\" width=\"auto\" /><br><br><br><br><img src=\"https://lh5.googleusercontent.com/CvxXFiPrxeMVhH3pemV_hrR4J2awUP0_AFbQKj1UZm9kX9ufeebfMX82C6CrSFZH1q5QIBQeehgTtXkmmSgcQZWw0Irx0yb5aWackm8dWKf0twtrhgaGl4Yto5RGxKvH\" height=\"200\" width=\"auto\" />",
+    "gx_media_links":"https://lh3.googleusercontent.com/QUX12Ham0i329vprHf43VNuWCTemjBIv4Qu7N9tuJQ154UQKqZzwyM272Wg4iZA5Wq6EUARrxgmDB5n9uZVBH5VY9bQj8MsBicivUfkM1SrHhrbO95d-0r3yOaU3AMMlJA https://lh5.googleusercontent.com/CvxXFiPrxeMVhH3pemV_hrR4J2awUP0_AFbQKj1UZm9kX9ufeebfMX82C6CrSFZH1q5QIBQeehgTtXkmmSgcQZWw0Irx0yb5aWackm8dWKf0twtrhgaGl4Yto5RGxKvH",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180513/hostafrancs-block-party-otros-escenarios-posibles-6816862",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1875668,41.4050241 ]
+    },
+    "properties": {
+    "name":"¡QUE NO CUMBIA EL PÁNICO!          ",
+    "cronica":"Miedo a un planeta latino",
+    "categoria":"",
+    "genero":"CASAL DE JOVES",
+    "description":"<img src=\"https://lh3.googleusercontent.com/SRDbvuwv1kwC2bFoAUabajq5H8tzSwBC2lsprI67ElYi-Yi_Odga4cHnleMj44QKV6LLLEAzIf-YNBc2-5C-9YXyMT_qViS6J_z8VfXC4F5vwZJ6LUjtqAiwqbFVEZIz\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180506/otros-escenarios-festival-que-no-cumbia-el-panico-6803275",
+    "gx_media_links":"https://lh3.googleusercontent.com/SRDbvuwv1kwC2bFoAUabajq5H8tzSwBC2lsprI67ElYi-Yi_Odga4cHnleMj44QKV6LLLEAzIf-YNBc2-5C-9YXyMT_qViS6J_z8VfXC4F5vwZJ6LUjtqAiwqbFVEZIz",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180506/otros-escenarios-festival-que-no-cumbia-el-panico-6803275",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1758401,41.42821 ]
+    },
+    "properties": {
+    "name":"RIFF ROCK BAR                                    ",
+    "cronica":"Un concierto a 400 metros de casa",
+    "categoria":"",
+    "genero":"BAR",
+    "description":"<img src=\"https://lh6.googleusercontent.com/Exxj9pBf2jDn6RLGzY_W8AGb5u8O3qMA7S1dH6sahj_642B4JGp0aHQ4hq5OAwsbzaf1SMNPc8fYB_ZaVq6Otbti_ly8jRt-zrZLN2gv3F7-Rc_Tq4hg7YqVrEpQyjKx\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180429/un-concierto-a-400-metros-de-casa-6791927",
+    "gx_media_links":"https://lh6.googleusercontent.com/Exxj9pBf2jDn6RLGzY_W8AGb5u8O3qMA7S1dH6sahj_642B4JGp0aHQ4hq5OAwsbzaf1SMNPc8fYB_ZaVq6Otbti_ly8jRt-zrZLN2gv3F7-Rc_Tq4hg7YqVrEpQyjKx",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180429/un-concierto-a-400-metros-de-casa-6791927",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1089888,41.3724288 ]
+    },
+    "properties": {
+    "name":"FESTIVAL MEÉEC!                                 ",
+    "cronica":"¡Defended la música de calle!",
+    "categoria":"",
+    "genero":"ESPACIO PÚBLICO",
+    "description":"<img src=\"https://lh3.googleusercontent.com/JfKf-KrpVCvd0Q6YwNEMMOL7TgYy_XA0XBY6y6yVm-wqrwAaKRZQgFr6_BZ5ULv2a-yWwlkXja3Gj4_AGOkJS8CFcI4RETNRI4lAM-OP0rpyX2t-io5bhfFHG06wA39O2g\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180422/defended-la-musica-de-calle-otros-escenarios-posibles-nando-cruz-6776322",
+    "gx_media_links":"https://lh3.googleusercontent.com/JfKf-KrpVCvd0Q6YwNEMMOL7TgYy_XA0XBY6y6yVm-wqrwAaKRZQgFr6_BZ5ULv2a-yWwlkXja3Gj4_AGOkJS8CFcI4RETNRI4lAM-OP0rpyX2t-io5bhfFHG06wA39O2g",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180422/defended-la-musica-de-calle-otros-escenarios-posibles-nando-cruz-6776322",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1447587,41.3829751 ]
+    },
+    "properties": {
+    "name":"CÁRCEL MODELO                                     ",
+    "cronica":"Un piano terrorista",
+    "categoria":"",
+    "genero":"CÁRCEL",
+    "description":"<img src=\"https://lh6.googleusercontent.com/XJSPuCvhtKulzH8cbvrAH8y7HH5bPPB3YY9t_4vg_tKpgGK40hdX6ZBKfZkKcIQyCAwmQCkccrfxt9PMYNOiDqcNDqdakmcth2LZdq8gmsNqspXMgT8EZY0sl96Av_5eLA\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180415/otros-escenarios-concierto-de-piano-en-la-carcel-modelo-6758404",
+    "gx_media_links":"https://lh6.googleusercontent.com/XJSPuCvhtKulzH8cbvrAH8y7HH5bPPB3YY9t_4vg_tKpgGK40hdX6ZBKfZkKcIQyCAwmQCkccrfxt9PMYNOiDqcNDqdakmcth2LZdq8gmsNqspXMgT8EZY0sl96Av_5eLA",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180415/otros-escenarios-concierto-de-piano-en-la-carcel-modelo-6758404",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1653527,41.3825344 ]
+    },
+    "properties": {
+    "name":"INUSUAL PROJECT                                ",
+    "cronica":"Un quitamiedos triunfal",
+    "categoria":"",
+    "genero":"ASOCIACIÓN CULTURAL",
+    "description":"<img src=\"https://lh5.googleusercontent.com/rUQ4RrRhkNWgFEY_AQDqYPwJ-WUYFT3bp3LeSC8SM4Yr5LAfJpr_sN-UWMjdQLQGshHcNybXy608CXVsG3TjogGgOYcENty-1Dq42ZYxzPX82Zobkd5qj29Mme7KQz9_\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180408/jam-session-mujeres-y-musica-inusual-project-6743064",
+    "gx_media_links":"https://lh5.googleusercontent.com/rUQ4RrRhkNWgFEY_AQDqYPwJ-WUYFT3bp3LeSC8SM4Yr5LAfJpr_sN-UWMjdQLQGshHcNybXy608CXVsG3TjogGgOYcENty-1Dq42ZYxzPX82Zobkd5qj29Mme7KQz9_",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180408/jam-session-mujeres-y-musica-inusual-project-6743064",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1869123,41.4214745 ]
+    },
+    "properties": {
+    "name":"LÍNIA 1 DEL METRO                             ",
+    "cronica":"Esta guitarra combate desahucios",
+    "categoria":"",
+    "genero":"METRO",
+    "description":"<img src=\"https://lh4.googleusercontent.com/5GM82xxwftyGVeKl7qvVS8U2KCmHrlmiBUe_o9OQCSYej3eq4M4sCNWMCWdyJcYjbbs-tQVvLb-bL-vAiLn5LC438Tr9AERGIzd2_S8tCtI2BELjPfdozoZmPss_qLuW\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180401/juanma-luque-metro-desahucios-6728285",
+    "gx_media_links":"https://lh4.googleusercontent.com/5GM82xxwftyGVeKl7qvVS8U2KCmHrlmiBUe_o9OQCSYej3eq4M4sCNWMCWdyJcYjbbs-tQVvLb-bL-vAiLn5LC438Tr9AERGIzd2_S8tCtI2BELjPfdozoZmPss_qLuW",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180401/juanma-luque-metro-desahucios-6728285",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.152006,41.4115863 ]
+    },
+    "properties": {
+    "name":"BLOKES FANTASMA                        ",
+    "cronica":"Apología de la supervivencia",
+    "categoria":"",
+    "genero":"OKUPA",
+    "description":"<img src=\"https://lh5.googleusercontent.com/RFFIL4869YpdaBCsQ00lOhxZX2ACs2QdivCT6Xi7CPl7xJa-k3mg8AhgZoPFhH79ziHAXNBRK55fTkqae9dsFpzX_t604_o2uxi3L2eIex9-jSyVczDQOTVtuhFfmEg\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180325/otros-escenarios-posibles-apologia-de-la-supervivencia-6715103",
+    "gx_media_links":"https://lh5.googleusercontent.com/RFFIL4869YpdaBCsQ00lOhxZX2ACs2QdivCT6Xi7CPl7xJa-k3mg8AhgZoPFhH79ziHAXNBRK55fTkqae9dsFpzX_t604_o2uxi3L2eIex9-jSyVczDQOTVtuhFfmEg",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180325/otros-escenarios-posibles-apologia-de-la-supervivencia-6715103",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1731901,41.3746187 ]
+    },
+    "properties": {
+    "name":"BRISAS DE LUXE                                       ",
+    "cronica":"Fumando shisha y bailando salsa",
+    "categoria":"",
+    "genero":"DISCOTECA",
+    "description":"<img src=\"https://lh4.googleusercontent.com/VCkj43Q3ZebfbMRH3vpIeEg05cSCrNIf7zSmfHnpnhPVIdMCQI-oT2b8AFGDZbiKut47RrxmPoaOURcpx4DfUDA6E5RvTGIV3IFcwJhqsxhSA55Jz0bg1kmSj5rAO3XN\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180318/david-kada-otros-escenarios-posibles-6698810",
+    "gx_media_links":"https://lh4.googleusercontent.com/VCkj43Q3ZebfbMRH3vpIeEg05cSCrNIf7zSmfHnpnhPVIdMCQI-oT2b8AFGDZbiKut47RrxmPoaOURcpx4DfUDA6E5RvTGIV3IFcwJhqsxhSA55Jz0bg1kmSj5rAO3XN",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180318/david-kada-otros-escenarios-posibles-6698810",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1603048,41.4035314 ]
+    },
+    "properties": {
+    "name":"HELIOGÀBAL                                          ",
+    "cronica":"Un filandón con mucha munición",
+    "categoria":"",
+    "genero":"BAR",
+    "description":"<img src=\"https://lh5.googleusercontent.com/dVVw20V9To1OaxR3G_gxQVX4iYDHquP2t81iGxKSVOW1w2WtnBnLdWtYF6kAP2ulRoNwS_IHN37wL7lnNVfzSIWGnMVtMIZ_l_EYTu58bf6joIvqvAQMkGbXeVnha8k\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180311/cronica-concierto-del-duo-ajuar-en-heliogabal-6682361<br><br><img src=\"https://lh6.googleusercontent.com/AN_UCDAwtWwukZn9Aq1giOgbb85xL2GLdTUzGlWb2ODoPmu7ZiLSz5lGOkBb1US9eWr8xFXXvjf1XEr-4luo9xCy_b17lV84g2_oL0UFyKFtPXugArsQyK4lF-1E4hg\" height=\"200\" width=\"auto\" />",
+    "gx_media_links":"https://lh5.googleusercontent.com/dVVw20V9To1OaxR3G_gxQVX4iYDHquP2t81iGxKSVOW1w2WtnBnLdWtYF6kAP2ulRoNwS_IHN37wL7lnNVfzSIWGnMVtMIZ_l_EYTu58bf6joIvqvAQMkGbXeVnha8k https://lh6.googleusercontent.com/AN_UCDAwtWwukZn9Aq1giOgbb85xL2GLdTUzGlWb2ODoPmu7ZiLSz5lGOkBb1US9eWr8xFXXvjf1XEr-4luo9xCy_b17lV84g2_oL0UFyKFtPXugArsQyK4lF-1E4hg",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180311/cronica-concierto-del-duo-ajuar-en-heliogabal-6682361<br",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1725571,41.4253482 ]
+    },
+    "properties": {
+    "name":"CSOA LA LLAMBORDA                       ",
+    "cronica":"Matinal hardcore en la casa okupa",
+    "categoria":"",
+    "genero":"OKUPA",
+    "description":"<img src=\"https://lh4.googleusercontent.com/rCmUIMiUJH9DgDiBfXlvXGDS1TcwaeddiUUm5hvwMrg6hYj0OorFYkYBoOnKHyrhGEK6mgi2H3J0gyBJogUCibAL-1QvAq-1JBqQBpguRTI43QV_nzJ5XyPHhljUmYYTfA\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180304/matinal-hardcore-okupa-6666825",
+    "gx_media_links":"https://lh4.googleusercontent.com/rCmUIMiUJH9DgDiBfXlvXGDS1TcwaeddiUUm5hvwMrg6hYj0OorFYkYBoOnKHyrhGEK6mgi2H3J0gyBJogUCibAL-1QvAq-1JBqQBpguRTI43QV_nzJ5XyPHhljUmYYTfA",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180304/matinal-hardcore-okupa-6666825",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0101172,41.5643479 ]
+    },
+    "properties": {
+    "name":"FAKTORIA D'ARTS                               ",
+    "cronica":"¡No nos libramos del fascismo!",
+    "categoria":"",
+    "genero":"SALA DE CONCIERTOS",
+    "description":"<img src=\"https://lh3.googleusercontent.com/8MBgLG8_3n7nJTPPFj-ENCccknereOhSrTXyP1f59vpCk5IXcEG-aTIwwEcRdzQhHz0qEZYBROAyyLljh11JWzKmvtkjlT8yPwx44xZD-X9bcWW_NZlH1I8Zkz2rGfk\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180225/otros-escenarios-posibles-soziedad-alkoholika-faktoria-arts-terrassa-6649561",
+    "gx_media_links":"https://lh3.googleusercontent.com/8MBgLG8_3n7nJTPPFj-ENCccknereOhSrTXyP1f59vpCk5IXcEG-aTIwwEcRdzQhHz0qEZYBROAyyLljh11JWzKmvtkjlT8yPwx44xZD-X9bcWW_NZlH1I8Zkz2rGfk",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180225/otros-escenarios-posibles-soziedad-alkoholika-faktoria-arts-terrassa-6649561",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1844876,41.3914833 ]
+    },
+    "properties": {
+    "name":"CENTRE CÍVIC PARC-SANDARU             ",
+    "cronica":"El Dorado, más que un club",
+    "categoria":"",
+    "genero":"CENTRO CÍVICO",
+    "description":"<img src=\"https://lh3.googleusercontent.com/nHlrIqxCuC_MKqZh3INXYPsajMPpv4vNvbUIH1cWCNkEW9DYeNt7OGRlQk7oqSqddFKecITS_mdCblDDWtA9Nb7tPOmn23_6H1mZcQcQK8KPRL0XHcZDj5d0e2vual8\" height=\"200\" width=\"auto\" /><br><br>https://www.elperiodico.com/es/ocio-y-cultura/20180218/maria-terremoto-el-dorado-6633394",
+    "gx_media_links":"https://lh3.googleusercontent.com/nHlrIqxCuC_MKqZh3INXYPsajMPpv4vNvbUIH1cWCNkEW9DYeNt7OGRlQk7oqSqddFKecITS_mdCblDDWtA9Nb7tPOmn23_6H1mZcQcQK8KPRL0XHcZDj5d0e2vual8",
+    "link_periodico":"https://www.elperiodico.com/es/ocio-y-cultura/20180218/maria-terremoto-el-dorado-6633394",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1999693,41.3984452 ]
+    },
+    "properties": {
+    "name":"SALA BÓVEDA                                     ",
+    "cronica":"¡Este garito lo vamos a quemar!",
+    "categoria":"",
+    "genero":"SALA DE CONCIERTOS",
+    "description":"<img src=\"https://lh3.googleusercontent.com/MRSxh7JVWskJScy_Y6MXv6FZ0qKY7F1UAz4HsN-qCNxHeZmRx9O6espqwafIxtY5HAZWCDN_disgDvItkeUJ8gQwNvp_xs5ru5SAN1XOZRviSg69yWLMzQ-4OX-sqHtV\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20180211/otros-escenarios-posibles-concierto-gigatron-sala-boveda-6614007",
+    "gx_media_links":"https://lh3.googleusercontent.com/MRSxh7JVWskJScy_Y6MXv6FZ0qKY7F1UAz4HsN-qCNxHeZmRx9O6espqwafIxtY5HAZWCDN_disgDvItkeUJ8gQwNvp_xs5ru5SAN1XOZRviSg69yWLMzQ-4OX-sqHtV",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20180211/otros-escenarios-posibles-concierto-gigatron-sala-boveda-6614007",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1669191,41.385869 ]
+    },
+    "properties": {
+    "name":"IMAGIN CAFÉ                                        ",
+    "cronica":"Cómo bailar en una sucursal bancaria",
+    "categoria":"",
+    "genero":"ESPACIO MULTIUSOS",
+    "description":"<img src=\"https://lh4.googleusercontent.com/ZHZAYfRBnb6HBr7mLMJoKv85lh_qBfXCzD4pLasFbYTaLh0qIalrNoh_s1k_CTq4ZqfEdLULWC8gL5XPJwEp6_D6gCUG6ElUG6Hub0Y70iVHwydWt_HLgmR1veth0d-U\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20180204/equiknoxx-concierto-otros-escenarios-posibles-6600871",
+    "gx_media_links":"https://lh4.googleusercontent.com/ZHZAYfRBnb6HBr7mLMJoKv85lh_qBfXCzD4pLasFbYTaLh0qIalrNoh_s1k_CTq4ZqfEdLULWC8gL5XPJwEp6_D6gCUG6ElUG6Hub0Y70iVHwydWt_HLgmR1veth0d-U",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20180204/equiknoxx-concierto-otros-escenarios-posibles-6600871",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1910429,41.3977692 ]
+    },
+    "properties": {
+    "name":"CLUB FUEGO",
+    "cronica":"¿Qué vale más, tu vida o la mía?",
+    "categoria":"",
+    "genero":"DISCOTECA",
+    "description":"<img src=\"https://lh5.googleusercontent.com/13m17k9v47KEhAAapmDqKhVMpZNLLOLYYB7E1E8qYgeICDAXWbOyZINWoR_T3OJ7VLrp_0Lfmck3xqN7Vldn8A9_YLOE7BQIHZ4EZhoCdqlZiMB-QZXLnaFQkmFwZNrP\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20180128/concierto-la-zowi-cub-fuego-6584178",
+    "gx_media_links":"https://lh5.googleusercontent.com/13m17k9v47KEhAAapmDqKhVMpZNLLOLYYB7E1E8qYgeICDAXWbOyZINWoR_T3OJ7VLrp_0Lfmck3xqN7Vldn8A9_YLOE7BQIHZ4EZhoCdqlZiMB-QZXLnaFQkmFwZNrP",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20180128/concierto-la-zowi-cub-fuego-6584178",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1739009,41.377837 ]
+    },
+    "properties": {
+    "name":"GALERIA MISCELANEA                       ",
+    "cronica":"Techno especiado en el Raval",
+    "categoria":"",
+    "genero":"GALERIA DE ARTE",
+    "description":"<img src=\"https://lh5.googleusercontent.com/mkK4aLDk4IplsWBJkpqHHWlb4q3Z76Wkew1gbBcJ5W5peVXNVpQvmaTuN-MoiNU09nOHg2i9E7xCnAEjkPzN5CYdajMEhKe6WAopRnWcrb9fdj7X1TYTS16A8EazGOg\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20180121/nene-h-wara-galeria-miscelanea-raval-techno-6567731",
+    "gx_media_links":"https://lh5.googleusercontent.com/mkK4aLDk4IplsWBJkpqHHWlb4q3Z76Wkew1gbBcJ5W5peVXNVpQvmaTuN-MoiNU09nOHg2i9E7xCnAEjkPzN5CYdajMEhKe6WAopRnWcrb9fdj7X1TYTS16A8EazGOg",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20180121/nene-h-wara-galeria-miscelanea-raval-techno-6567731",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.139641,41.3903001 ]
+    },
+    "properties": {
+    "name":"BARBARA ANN                                          ",
+    "cronica":"El rocanrol murió y les da igual",
+    "categoria":"",
+    "genero":"BAR",
+    "description":"<img src=\"https://lh3.googleusercontent.com/e1f4XxeIxefdRSHpXvyGIZH4193sPbLBTWSArLxZcrdEXwI22jA5QlW5jUyhX3-bMQpCrtavHlLvbA0eMXOVnEjsOnPb21ncu2NxEK3l0CpijUF6k-8Ut6zxplL2tJ6l\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20180114/otros-escenarios-posibles-barbara-ann-6551938",
+    "gx_media_links":"https://lh3.googleusercontent.com/e1f4XxeIxefdRSHpXvyGIZH4193sPbLBTWSArLxZcrdEXwI22jA5QlW5jUyhX3-bMQpCrtavHlLvbA0eMXOVnEjsOnPb21ncu2NxEK3l0CpijUF6k-8Ut6zxplL2tJ6l",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20180114/otros-escenarios-posibles-barbara-ann-6551938",
+    "test":"a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1459563,41.4110753 ]
+    },
+    "properties": {
+    "name":"ATENEU POPULAR DE VALLCARCA  ",
+    "cronica":"Purificando el aire del barrio",
+    "categoria":"",
+    "genero":"ATENEU",
+    "description":"<img src=\"https://lh4.googleusercontent.com/Dr7HLfZPc2L7-8rWO9B7j7l3gO0njDdSWdWHM70LT-n6Pks90KvDeVU0dH58oDbS1YqVqsGviLfZowxPEp-6llgyJTeedFpIr7KxzQW678Y_SgrtSJZfo7f4gYjNnoWIXA\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20180107/gordo-del-puru-ateneu-popular-vallcarca-6536250",
+    "gx_media_links":"https://lh4.googleusercontent.com/Dr7HLfZPc2L7-8rWO9B7j7l3gO0njDdSWdWHM70LT-n6Pks90KvDeVU0dH58oDbS1YqVqsGviLfZowxPEp-6llgyJTeedFpIr7KxzQW678Y_SgrtSJZfo7f4gYjNnoWIXA",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20180107/gordo-del-puru-ateneu-popular-vallcarca-6536250",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1606696,41.4327609 ]
+    },
+    "properties": {
+    "name":"CENTRE CÍVIC MATAS I RAMIS         ",
+    "cronica":"Cuatro golondrinas se instalan en Horta",
+    "categoria":"",
+    "genero":"CENTRO CÍVICO",
+    "description":"<img src=\"https://lh3.googleusercontent.com/P8Dt5PpCoT4TQDTtQTOhPtBC_7EmJYJk5x8wBahpYTawgsEyBeNy5mDeddrslDrKF0xYM3i7cQSOL1tnQL4s0kW0V47aLgOPiez0hY4eTGFR-jIopDwUZH52KTgVmBo\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171224/concierto-2princesesbarbudes-otros-escenarios-posibles-6516250",
+    "gx_media_links":"https://lh3.googleusercontent.com/P8Dt5PpCoT4TQDTtQTOhPtBC_7EmJYJk5x8wBahpYTawgsEyBeNy5mDeddrslDrKF0xYM3i7cQSOL1tnQL4s0kW0V47aLgOPiez0hY4eTGFR-jIopDwUZH52KTgVmBo",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171224/concierto-2princesesbarbudes-otros-escenarios-posibles-6516250",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1373719,41.373709 ]
+    },
+    "properties": {
+    "name":"KOITTON CLUB                                           ",
+    "cronica":"Su culo es suyo y solo suyo",
+    "categoria":"",
+    "genero":"SALA DE CONCIERTOS",
+    "description":"<img src=\"https://lh4.googleusercontent.com/iK7J59SgpRani6vgvbflH6S30xDIEm12LzRa2tmk1QYsui4sGzsR1xwtsyp4ai3Nd9XAQTZDwW27eWr4GIe6IQFeo_06u0jVEpxRdpN3ozqgIEuo-P0e6ndpRanKtzSZfQ\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171217/otros-escenarios-su-culo-es-suyo-y-solo-suyo-6501606",
+    "gx_media_links":"https://lh4.googleusercontent.com/iK7J59SgpRani6vgvbflH6S30xDIEm12LzRa2tmk1QYsui4sGzsR1xwtsyp4ai3Nd9XAQTZDwW27eWr4GIe6IQFeo_06u0jVEpxRdpN3ozqgIEuo-P0e6ndpRanKtzSZfQ",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171217/otros-escenarios-su-culo-es-suyo-y-solo-suyo-6501606",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1898037,41.4353751 ]
+    },
+    "properties": {
+    "name":"FESTES DE SANT ANDREU                   ",
+    "cronica":"No más punkies muertos",
+    "categoria":"",
+    "genero":"PLAZA",
+    "description":"<img src=\"https://lh4.googleusercontent.com/6_s-NUBv9m29jRire-8HoYeFSnv6XhPJSKWgBOym2KrcV-OaMM0U8sgao7LWVPxCmT2AavOjJRIi44TC_c3dMCI4kP52K0a5lLwLI11UnaEjq1VowVl8l9X4Tfj3vydm\" height=\"200\" width=\"auto\" /><br><br>www.elperiodico.com/es/ocio-y-cultura/20171210/otros-escenarios-posibles-no-mas-punkies-muertos-6485826",
+    "gx_media_links":"https://lh4.googleusercontent.com/6_s-NUBv9m29jRire-8HoYeFSnv6XhPJSKWgBOym2KrcV-OaMM0U8sgao7LWVPxCmT2AavOjJRIi44TC_c3dMCI4kP52K0a5lLwLI11UnaEjq1VowVl8l9X4Tfj3vydm",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171210/otros-escenarios-posibles-no-mas-punkies-muertos-6485826",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.277689,41.6080946 ]
+    },
+    "properties": {
+    "name":"DANIEL'S EXCLUSIVE DISCOTECK   ",
+    "cronica":"¡Orgullosamente ecuatorianos!",
+    "categoria":"",
+    "genero":"DISCOTECA",
+    "description":"<img src=\"https://lh3.googleusercontent.com/MRCccPQAKmzurdwONsNXOBobR7sXbpwAdpD3Pm3H3qps-hpkCyGSBqD9l4bDLlNVgCUi-nuCKydUdwjWyRRTQKsCuYHKzWI9iZZb1BIaIdrK56axD6vqBjw4zf9HpuI\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171203/concierto-banda-24-mayo-otros-escenarios-posibles-6467427",
+    "gx_media_links":"https://lh3.googleusercontent.com/MRCccPQAKmzurdwONsNXOBobR7sXbpwAdpD3Pm3H3qps-hpkCyGSBqD9l4bDLlNVgCUi-nuCKydUdwjWyRRTQKsCuYHKzWI9iZZb1BIaIdrK56axD6vqBjw4zf9HpuI",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171203/concierto-banda-24-mayo-otros-escenarios-posibles-6467427",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1431708,41.4027427 ]
+    },
+    "properties": {
+    "name":"ROSAS 5                                                   ",
+    "cronica":"Atar es liberar",
+    "categoria":"",
+    "genero":"CLUB PRIVADO DE BDSM",
+    "description":"<img src=\"https://lh6.googleusercontent.com/w9pQ2XHn-xfn2Nt2_tjZn3j4KzTFkswv2hbmnTixPM0pUzx2B3bExMSSgdEazH_Nc6b8b2bNNDaRAojwsdC4Bh52u9Sr7HpERVvRCgK0ZOC7mE5TK7edOMfi2gLztu2s\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171126/concierto-coagul-club-sadomaso-6451101",
+    "gx_media_links":"https://lh6.googleusercontent.com/w9pQ2XHn-xfn2Nt2_tjZn3j4KzTFkswv2hbmnTixPM0pUzx2B3bExMSSgdEazH_Nc6b8b2bNNDaRAojwsdC4Bh52u9Sr7HpERVvRCgK0ZOC7mE5TK7edOMfi2gLztu2s",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171126/concierto-coagul-club-sadomaso-6451101",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1246207,41.3983607 ]
+    },
+    "properties": {
+    "name":"CASA ORLANDAI                               ",
+    "cronica":"Papa papapa papapa pa ¡pa!",
+    "categoria":"",
+    "genero":"CENTRO CÍVICO",
+    "description":"<img src=\"https://lh4.googleusercontent.com/k_RPH5efLyXt6eckBEl45WblkR9MaQUhrny4HQqGAFzQOQGW5IudF5MzEfOI8pOYSbqCB3L3rh7fVvBwnrhx5uX5wSjp-hAcJSES4DnxGGlMcAjbB7KDTDAOWEpr10Ac\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171119/compania-comsona-casa-orlandai-espectaculo-musical-bebes-6434949",
+    "gx_media_links":"https://lh4.googleusercontent.com/k_RPH5efLyXt6eckBEl45WblkR9MaQUhrny4HQqGAFzQOQGW5IudF5MzEfOI8pOYSbqCB3L3rh7fVvBwnrhx5uX5wSjp-hAcJSES4DnxGGlMcAjbB7KDTDAOWEpr10Ac",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171119/compania-comsona-casa-orlandai-espectaculo-musical-bebes-6434949",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.200141,41.4464258 ]
+    },
+    "properties": {
+    "name":"CENTRE CÍVIC BARÓ DE VIVER          ",
+    "cronica":"Fiestón mandinga en Baró de Viver",
+    "categoria":"",
+    "genero":"CENTRO CÍVICO",
+    "description":"<img src=\"https://lh3.googleusercontent.com/JUxMefKPbTDEoiyy0l2pPlqkeuz7GLsNCO-T7P5nEXie_vxF_rokW9wbPcMnorPFxcny8Fw5KGCBMigisfg6Nb06YtAF3fxB2snWt7Ogwa5tY7qaaztHfed7OgHRJZh4\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171110/rodrigo-cuevas-entrevista-folclore-tecno-cabaret-6414811",
+    "gx_media_links":"https://lh3.googleusercontent.com/JUxMefKPbTDEoiyy0l2pPlqkeuz7GLsNCO-T7P5nEXie_vxF_rokW9wbPcMnorPFxcny8Fw5KGCBMigisfg6Nb06YtAF3fxB2snWt7Ogwa5tY7qaaztHfed7OgHRJZh4",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171110/rodrigo-cuevas-entrevista-folclore-tecno-cabaret-6414811",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1512175,41.3742001 ]
+    },
+    "properties": {
+    "name":"SALÓ DEL MANGA                                     ",
+    "cronica":"El sueño japonés de María López",
+    "categoria":"",
+    "genero":"FESTIVAL",
+    "description":"<img src=\"https://lh5.googleusercontent.com/gNcVeav8Iwh9RoxOsS2T7AMqn8pQIb_EdaM8XEfwmCq0lwB7BjI5phKgE3G_TpEe4_B3BeCjYS4ypJ9HEjwmeocHD6TG3bpQSkHEes-N1yIg-c1Jp81x-EKdPX-tgL6q5A\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171105/maria-lopez-pop-anime-salo-manga-6403385",
+    "gx_media_links":"https://lh5.googleusercontent.com/gNcVeav8Iwh9RoxOsS2T7AMqn8pQIb_EdaM8XEfwmCq0lwB7BjI5phKgE3G_TpEe4_B3BeCjYS4ypJ9HEjwmeocHD6TG3bpQSkHEes-N1yIg-c1Jp81x-EKdPX-tgL6q5A",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171105/maria-lopez-pop-anime-salo-manga-6403385",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4538779,41.6961801 ]
+    },
+    "properties": {
+    "name":"FESTIVAL MONTMUSIC                          ",
+    "cronica":"La montaña te abre los oídos",
+    "categoria":"",
+    "genero":"ENTORNO RURAL",
+    "description":"<img src=\"https://lh5.googleusercontent.com/TrRlzbEyG_t6v0ivCp7z1yawIyyh8Qt9TXGP74FDYhtjp26WB4to_Ixzwj7ydxEPYUE-7iSh6N58-HC4AiCeCkUsbwN-2M9WzmZyZhQQWKBCDfmKetfgeZpSGWhuRjZU\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171029/montmusic-montseny-otros-escenarios-6388909",
+    "gx_media_links":"https://lh5.googleusercontent.com/TrRlzbEyG_t6v0ivCp7z1yawIyyh8Qt9TXGP74FDYhtjp26WB4to_Ixzwj7ydxEPYUE-7iSh6N58-HC4AiCeCkUsbwN-2M9WzmZyZhQQWKBCDfmKetfgeZpSGWhuRjZU",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171029/montmusic-montseny-otros-escenarios-6388909",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1118212,41.5542124 ]
+    },
+    "properties": {
+    "name":"ANTIGA CASERNA DE LA GUARDIA CIVIL ",
+    "cronica":"Todos los otros presos políticos",
+    "categoria":"",
+    "genero":"ESPACIO AUTOGESTIONADO",
+    "description":"<img src=\"https://lh4.googleusercontent.com/30fUy2_5h5_3IdJb9EPLlxyPe_hSgzCAu6mXxsf5-k7u2XfP-04nuLyraxVVUT1u1tcN03kpZGtakZPWi9P7X6kd01XP98GzCXiRL-pP_QxznlEJivu54NZL26bJ1lirmQ\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171022/otros-escenarios-posibles-concierto-guardia-civil-sabadell-elgio-6371501",
+    "gx_media_links":"https://lh4.googleusercontent.com/30fUy2_5h5_3IdJb9EPLlxyPe_hSgzCAu6mXxsf5-k7u2XfP-04nuLyraxVVUT1u1tcN03kpZGtakZPWi9P7X6kd01XP98GzCXiRL-pP_QxznlEJivu54NZL26bJ1lirmQ",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171022/otros-escenarios-posibles-concierto-guardia-civil-sabadell-elgio-6371501",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1350598,41.3768126 ]
+    },
+    "properties": {
+    "name":"ESCOLA BARRUFET                               ",
+    "cronica":"Una sorpresa a la salida del colegio",
+    "categoria":"",
+    "genero":"COLEGIO",
+    "description":"<img src=\"https://lh4.googleusercontent.com/TiAxWtMRYyas0m7KKzgsbfp2dBu-pO8GHm_bNRSuUajp0qpsFLdV2NgeW-xKQLTRj1bz_MAR1QBVHcyv2PYBbKGnlzF3GsOKVyzZvHg0g4HhU9ffXJxJipUkHnx5LHwDhA\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171015/danza-de-las-tijeras-bailarines-peruanos-biblioteca-vapor-vell-6354166",
+    "gx_media_links":"https://lh4.googleusercontent.com/TiAxWtMRYyas0m7KKzgsbfp2dBu-pO8GHm_bNRSuUajp0qpsFLdV2NgeW-xKQLTRj1bz_MAR1QBVHcyv2PYBbKGnlzF3GsOKVyzZvHg0g4HhU9ffXJxJipUkHnx5LHwDhA",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171015/danza-de-las-tijeras-bailarines-peruanos-biblioteca-vapor-vell-6354166",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1719241,41.3740511 ]
+    },
+    "properties": {
+    "name":"PERIFERIA BEAT                                       ",
+    "cronica":"Un festival para la salud vecinal",
+    "categoria":"",
+    "genero":"PARQUE",
+    "description":"<img src=\"https://lh5.googleusercontent.com/ozCLqZYRvZ71AJuRadFdLciPnp_WmK0qKItg5lhCH_zucrlEc2krntdTXzy3jyaU4TvNu3hxbWorvTL2jZRDEldHrRUvHeX8kQ_Uvo_DvkKinnuLiY_uAlj6NGFHSmGj\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171008/otros-escenarios-posibles-periferia-beat-tres-xemeneies-6340118",
+    "gx_media_links":"https://lh5.googleusercontent.com/ozCLqZYRvZ71AJuRadFdLciPnp_WmK0qKItg5lhCH_zucrlEc2krntdTXzy3jyaU4TvNu3hxbWorvTL2jZRDEldHrRUvHeX8kQ_Uvo_DvkKinnuLiY_uAlj6NGFHSmGj",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171008/otros-escenarios-posibles-periferia-beat-tres-xemeneies-6340118",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1659428,41.379111 ]
+    },
+    "properties": {
+    "name":"BIG BANG                                               ",
+    "cronica":"Micro abierto y boca cerrada",
+    "categoria":"",
+    "genero":"BAR",
+    "description":"<img src=\"https://lh5.googleusercontent.com/OYmZEIYJmol71aUbXgqLYFkDELnFzjx7jxskDAcD_YFROoV-mVJaI3Y7JWdXlbdH5nJVN-LE3x64eUhA-MS1XnNrJ4plKyw8jfyebGR06zxowt-Ko30YNt1VVTjyrqA2MA\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20171001/big-bang-raval-otros-escenarios-posibles-6323877",
+    "gx_media_links":"https://lh5.googleusercontent.com/OYmZEIYJmol71aUbXgqLYFkDELnFzjx7jxskDAcD_YFROoV-mVJaI3Y7JWdXlbdH5nJVN-LE3x64eUhA-MS1XnNrJ4plKyw8jfyebGR06zxowt-Ko30YNt1VVTjyrqA2MA",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20171001/big-bang-raval-otros-escenarios-posibles-6323877",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1903884,41.3972702 ]
+    },
+    "properties": {
+    "name":"ROCKSOUND                                              ",
+    "cronica":"¡Viva 'Barceloca', cabrones!",
+    "categoria":"",
+    "genero":"SALA DE CONCIERTOS",
+    "description":"<img src=\"https://lh5.googleusercontent.com/EqtrDjzwyEfW-nIPzdxq5zD8MOFDGh5CTukS4WC8SjPX6cce3P6dcEeC770pDr3i9ccJc4pQrja6SLfimNn6h3KHvQWaDpJMcExRymeR7qZ5TjqJv-zJGD8AtSOoP68ZGQ\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20170924/otros-escenarios-posibles-concierto-joe-king-carrasco-rocksound-6307993",
+    "gx_media_links":"https://lh5.googleusercontent.com/EqtrDjzwyEfW-nIPzdxq5zD8MOFDGh5CTukS4WC8SjPX6cce3P6dcEeC770pDr3i9ccJc4pQrja6SLfimNn6h3KHvQWaDpJMcExRymeR7qZ5TjqJv-zJGD8AtSOoP68ZGQ",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20170924/otros-escenarios-posibles-concierto-joe-king-carrasco-rocksound-6307993",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1108341,41.3483512 ]
+    },
+    "properties": {
+    "name":"FESTELPARC (FESTES DE BELLVITGE)",
+    "cronica":"Chicas de barrio con dos ovarios",
+    "categoria":"",
+    "genero":"PARQUE",
+    "description":"<img src=\"https://lh5.googleusercontent.com/oeucq844i0t0kaYN6ZD4_owRoif_dFK57ZV45IpH-6PHrHNAIcFcnHX4rFq1_d37b8roeeNdU-luiVCYjJ48fNKZdP2Y__YGMsXPpzTD6VnSEnUmWuiZv6H6lWQ_TOaT\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20170917/concierto-feminismo-bellvitges-6292050<br><br><img src=\"https://lh6.googleusercontent.com/NhgKcBPf-PVpyysIGvDeUnd17cAO7DbPNdbUm_untRMuXuHKep0cTDF1PC0KS1rCLh25JJRoUmEhHiTe7hGov0IIUobviGaOnq3dwhpbMHoCZSnMmUiohCEC3hoWAxPYkA\" height=\"200\" width=\"auto\" />",
+    "gx_media_links":"https://lh5.googleusercontent.com/oeucq844i0t0kaYN6ZD4_owRoif_dFK57ZV45IpH-6PHrHNAIcFcnHX4rFq1_d37b8roeeNdU-luiVCYjJ48fNKZdP2Y__YGMsXPpzTD6VnSEnUmWuiZv6H6lWQ_TOaT https://lh6.googleusercontent.com/NhgKcBPf-PVpyysIGvDeUnd17cAO7DbPNdbUm_untRMuXuHKep0cTDF1PC0KS1rCLh25JJRoUmEhHiTe7hGov0IIUobviGaOnq3dwhpbMHoCZSnMmUiohCEC3hoWAxPYkA",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20170917/concierto-feminismo-bellvitges-6292050<br",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1562707,41.4066456 ]
+    },
+    "properties": {
+    "name":"MÀGIA ROJA                                         ",
+    "cronica":"Estamos todos juntos en esto, ¿no?",
+    "categoria":"",
+    "genero":"ASOCIACIÓN CULTURAL",
+    "description":"<img src=\"https://lh6.googleusercontent.com/ktCUP4eq7DAJTVU8zAEWKsVwNOTxI_C9nIH7qWqn5O51FEIDPkKRj79UqpWPZC5DkqzRg-rSWyQ0Cd8Yhe4jbVgNW87HRBHiGb2BEkjAImr6V5dVHcYaQITam1BrIHI\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20170910/actuacion-de-muyassar-kurdi-en-magia-roja-6277017",
+    "gx_media_links":"https://lh6.googleusercontent.com/ktCUP4eq7DAJTVU8zAEWKsVwNOTxI_C9nIH7qWqn5O51FEIDPkKRj79UqpWPZC5DkqzRg-rSWyQ0Cd8Yhe4jbVgNW87HRBHiGb2BEkjAImr6V5dVHcYaQITam1BrIHI",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20170910/actuacion-de-muyassar-kurdi-en-magia-roja-6277017",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1768808,41.3801244 ]
+    },
+    "properties": {
+    "name":"MARULA CAFÉ                                          ",
+    "cronica":"Bailando en defensa del pueblo mapuche",
+    "categoria":"",
+    "genero":"SALA DE CONCIERTOS",
+    "description":"<img src=\"https://lh4.googleusercontent.com/xc1SJyGv19JItPLZ55258Va8v5nY5HBcNEKlT7MDoKen8nOjrJW-ThVtbMpHhMIQ7cW0kEkjgAyH3BF-vSM12gWTwoTWZj80SJ8iOuqlnwWHos9kv8dQ3hFAQSavPZ8f\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20170903/newen-afrobeat-marula-cafe-pueblo-mapuche-6261526",
+    "gx_media_links":"https://lh4.googleusercontent.com/xc1SJyGv19JItPLZ55258Va8v5nY5HBcNEKlT7MDoKen8nOjrJW-ThVtbMpHhMIQ7cW0kEkjgAyH3BF-vSM12gWTwoTWZj80SJ8iOuqlnwWHos9kv8dQ3hFAQSavPZ8f",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20170903/newen-afrobeat-marula-cafe-pueblo-mapuche-6261526",
+    "test":"b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3337097,42.770203 ]
+    },
+    "properties": {
+    "name":"PIRINEOS SUR                                          ",
+    "cronica":"La música infantil no existe",
+    "categoria":"",
+    "genero":"ENTORNO RURAL",
+    "description":"<img src=\"https://lh3.googleusercontent.com/ZAM0556wiOsoefW-MurPEEA_pAZSQuHLPAEp0tWp1qsmBlCHy8uAzLzW3SuGCvtaE3SktDYSfFGonRakSQ7yFMIGZGG2jontMV2ePsLBXBj881WY3Ee7Ab3hBFOZkM98\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-pirineos-sur-musica-infantil-no-existe-6199023",
+    "gx_media_links":"https://lh3.googleusercontent.com/ZAM0556wiOsoefW-MurPEEA_pAZSQuHLPAEp0tWp1qsmBlCHy8uAzLzW3SuGCvtaE3SktDYSfFGonRakSQ7yFMIGZGG2jontMV2ePsLBXBj881WY3Ee7Ab3hBFOZkM98",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-pirineos-sur-musica-infantil-no-existe-6199023",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1033669,41.3300011 ]
+    },
+    "properties": {
+    "name":"LA CAPSA                                                 ",
+    "cronica":"De vacaciones en El Prat",
+    "categoria":"",
+    "genero":"CENTRO CULTURAL",
+    "description":"<img src=\"https://lh6.googleusercontent.com/8EaUNtugIxiKFyH4_7I4AhrbVRBEcAa4SmOlx4yYAKMHhPgR_PQJUM4O1hbzvD1tKRCy8zjGpvg0fNoFTrv9fYMrH4xD4Wpddp2Hg2gPUR87DY1Gkr_CHfL3UEsLjD1b\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/ocio-y-cultura/20170723/tatchenko-la-capsa-prat-6185948",
+    "gx_media_links":"https://lh6.googleusercontent.com/8EaUNtugIxiKFyH4_7I4AhrbVRBEcAa4SmOlx4yYAKMHhPgR_PQJUM4O1hbzvD1tKRCy8zjGpvg0fNoFTrv9fYMrH4xD4Wpddp2Hg2gPUR87DY1Gkr_CHfL3UEsLjD1b",
+    "link_periodico":"http://www.elperiodico.com/es/ocio-y-cultura/20170723/tatchenko-la-capsa-prat-6185948",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1360254,41.3796343 ]
+    },
+    "properties": {
+    "name":"BAR SINESTESIA                                      ",
+    "cronica":"A la selva, al fondo del mar y al cosmos",
+    "categoria":"",
+    "genero":"BAR",
+    "description":"<img src=\"https://lh6.googleusercontent.com/UU4KaOfQd6gHzVtvbH9SPINMrFqQ-w-1ZukSdUbOEQpOC_AN61F6Vc6RI-KkAMDa7FKgnqBmBMwJObUGMLaWu5CApxwixAJfa7AXRGjNULp3z_DODpbkewabI_-O-yxh\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/selva-fondo-del-mar-cosmos-6171901<br><br><img src=\"https://lh4.googleusercontent.com/N7EHN0J6RpYplJ-mHLGMqi58OaEZnGTFbCxk96wq3XLf5qGXtvzxpWey82YepqmOQq0b213yP_24JzCBrP842Fy3yykwIeHhyNIZU4hEar_ZHSXAAgRG-aIanEptV2Fw\" height=\"200\" width=\"auto\" />",
+    "gx_media_links":"https://lh6.googleusercontent.com/UU4KaOfQd6gHzVtvbH9SPINMrFqQ-w-1ZukSdUbOEQpOC_AN61F6Vc6RI-KkAMDa7FKgnqBmBMwJObUGMLaWu5CApxwixAJfa7AXRGjNULp3z_DODpbkewabI_-O-yxh https://lh4.googleusercontent.com/N7EHN0J6RpYplJ-mHLGMqi58OaEZnGTFbCxk96wq3XLf5qGXtvzxpWey82YepqmOQq0b213yP_24JzCBrP842Fy3yykwIeHhyNIZU4hEar_ZHSXAAgRG-aIanEptV2Fw",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/selva-fondo-del-mar-cosmos-6171901<br",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1852601,41.3579431 ]
+    },
+    "properties": {
+    "name":"ROMPEOLAS                                          ",
+    "cronica":"Una marching band resucita el rompeolas",
+    "categoria":"",
+    "genero":"ESPACIO PÚBLICO",
+    "description":"<img src=\"https://lh5.googleusercontent.com/R0f2iFDLmYDFYXRKNomHgDJjOEUR8MVIrPCXG9MnA12yuunzErw_6LUhoe7hwpxG02AXy7IHf8rJCj6CBPw3jS1I5qoqH1gd7sjk8ZHxaYE5PdFNCVELVTZK6wYgVldv\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/mission-delirium-rompeolas-otros-escenarios-6157470",
+    "gx_media_links":"https://lh5.googleusercontent.com/R0f2iFDLmYDFYXRKNomHgDJjOEUR8MVIrPCXG9MnA12yuunzErw_6LUhoe7hwpxG02AXy7IHf8rJCj6CBPw3jS1I5qoqH1gd7sjk8ZHxaYE5PdFNCVELVTZK6wYgVldv",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/mission-delirium-rompeolas-otros-escenarios-6157470",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1758723,41.3871529 ]
+    },
+    "properties": {
+    "name":"ANTIC TEATRE                                           ",
+    "cronica":"Silencio en la zona cero",
+    "categoria":"",
+    "genero":"TEATRO",
+    "description":"<img src=\"https://lh3.googleusercontent.com/Cnzraeb7aCvqGuQhhL2yNzPBtbWMSdw1G20ntAEV1Ve0_Wo6Lr9FRz4LlvxlHBpx-Dnf0EQE17KoBQpMOod3ZyJUCpEP-_HUThyx60v_VgKHgNn0UilcgOcrX5LprHH4\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-concierto-antic-teatre-piano-amateur-6142571",
+    "gx_media_links":"https://lh3.googleusercontent.com/Cnzraeb7aCvqGuQhhL2yNzPBtbWMSdw1G20ntAEV1Ve0_Wo6Lr9FRz4LlvxlHBpx-Dnf0EQE17KoBQpMOod3ZyJUCpEP-_HUThyx60v_VgKHgNn0UilcgOcrX5LprHH4",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-concierto-antic-teatre-piano-amateur-6142571",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0725107,41.44341 ]
+    },
+    "properties": {
+    "name":"CASINO LA FLORESTA                            ",
+    "cronica":"Un africano en Collserola",
+    "categoria":"",
+    "genero":"CENTRO CULTURAL",
+    "description":"<img src=\"https://lh3.googleusercontent.com/QNwN4FwV7vy_8v-lMRqpljI0Mto1yRurRLxoqBaa8VlemP9lJzK5hKncE7nifVEmUCDp4hfzYtXX699HG5nDPq7Vg8DX5D1gLpZuTIurKaUlKLivVQIZr09PclU3B5Lk\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/africano-collserola-6128018",
+    "gx_media_links":"https://lh3.googleusercontent.com/QNwN4FwV7vy_8v-lMRqpljI0Mto1yRurRLxoqBaa8VlemP9lJzK5hKncE7nifVEmUCDp4hfzYtXX699HG5nDPq7Vg8DX5D1gLpZuTIurKaUlKLivVQIZr09PclU3B5Lk",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/africano-collserola-6128018",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1810865,41.3994754 ]
+    },
+    "properties": {
+    "name":"PLAZA DE TOROS MONUMENTAL      ",
+    "cronica":"Bailando techno en la plaza de toros",
+    "categoria":"",
+    "genero":"PLAZA DE TOROS",
+    "description":"<img src=\"https://lh4.googleusercontent.com/p1WPGNu1DOxUEFsTEuj6RN6CounEtAfgSLA0PtXvcpvJKcyUIziII56FNkJPaEBz_mcAr1upcBAf5kWYZeVRqMsd1twrrBzV6_Y-rY-xre-Jooqm7Rv_uLIyoav4uCs\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-fiesta-gran-corrida-cultural-monumental-get-physical-6113291",
+    "gx_media_links":"https://lh4.googleusercontent.com/p1WPGNu1DOxUEFsTEuj6RN6CounEtAfgSLA0PtXvcpvJKcyUIziII56FNkJPaEBz_mcAr1upcBAf5kWYZeVRqMsd1twrrBzV6_Y-rY-xre-Jooqm7Rv_uLIyoav4uCs",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-fiesta-gran-corrida-cultural-monumental-get-physical-6113291",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1791017,41.4421875 ]
+    },
+    "properties": {
+    "name":"DINAMO DIY ESPAI                               ",
+    "cronica":"Aprende a generar tu propio ruido",
+    "categoria":"",
+    "genero":"LOCAL AUTOGESTIONADO",
+    "description":"<img src=\"https://lh3.googleusercontent.com/FJvlvtVP82fjsImAvy0cMtAagtSK7udodBvJs8SCZWU8B2q5QD3g30z6JdTZDZsgYMShhm8GB2OvMfsJ0d-QikECeta4TmgLmgh2sSmsryLF2alcjJgzop4gWxyhmiL1\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/dinamo-diy-espai-prosperitat-taller-6097121",
+    "gx_media_links":"https://lh3.googleusercontent.com/FJvlvtVP82fjsImAvy0cMtAagtSK7udodBvJs8SCZWU8B2q5QD3g30z6JdTZDZsgYMShhm8GB2OvMfsJ0d-QikECeta4TmgLmgh2sSmsryLF2alcjJgzop4gWxyhmiL1",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/dinamo-diy-espai-prosperitat-taller-6097121",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1852493,41.3989361 ]
+    },
+    "properties": {
+    "name":"MUSEU DE LA MÚSICA                              ",
+    "cronica":"El concierto más irrepetible de la historia",
+    "categoria":"",
+    "genero":"MUSEO",
+    "description":"<img src=\"https://lh6.googleusercontent.com/2QYPJh-Rlv6dn8Y-gC8qey12htzRVfxccQkNF6VTGjVzKmyF4o43NG0uVW-CgeIOkAd9-I4qSctKi_MAERsGXzeOMANm4HW0LYGlqm6uMjutzTnARUqK6-X6gKAWz81M\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/concierto-irrepetible-juan-rubia-claviorgano-del-siglo-xvi-6083065",
+    "gx_media_links":"https://lh6.googleusercontent.com/2QYPJh-Rlv6dn8Y-gC8qey12htzRVfxccQkNF6VTGjVzKmyF4o43NG0uVW-CgeIOkAd9-I4qSctKi_MAERsGXzeOMANm4HW0LYGlqm6uMjutzTnARUqK6-X6gKAWz81M",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/concierto-irrepetible-juan-rubia-claviorgano-del-siglo-xvi-6083065",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1649155,41.3836936 ]
+    },
+    "properties": {
+    "name":"EL ARCO DE LA VIRGEN                      ",
+    "cronica":"Cerrado por gentrificación",
+    "categoria":"",
+    "genero":"ASOCIACIÓN CULTURAL",
+    "description":"<img src=\"https://lh5.googleusercontent.com/MVnd3Jno7ckZLJPFM708JoiiE4siN0XMfJ2HwrqNA8pTQaWWGrdhFlsCTa54UJgwd1UdMoEuGS0lIKbCGrpEt-6ra0wckLgsjdgPtXPkjQwL8uoTVViLAE-nuBf0y_sf7A\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/arco-virgen-cierra-6067767",
+    "gx_media_links":"https://lh5.googleusercontent.com/MVnd3Jno7ckZLJPFM708JoiiE4siN0XMfJ2HwrqNA8pTQaWWGrdhFlsCTa54UJgwd1UdMoEuGS0lIKbCGrpEt-6ra0wckLgsjdgPtXPkjQwL8uoTVViLAE-nuBf0y_sf7A",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/arco-virgen-cierra-6067767",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1997547,41.4082309 ]
+    },
+    "properties": {
+    "name":"CASAL DE JOVES CAN RICART      ",
+    "cronica":"Prohibido a mayores de 16 años",
+    "categoria":"",
+    "genero":"CASAL DE JOVES",
+    "description":"<img src=\"https://lh5.googleusercontent.com/s4iN_i1r0CTNi8ULi7V0_6NcT0-mgUPN6OroT-ufftKVBzKjqtYbeO2l-Wy7PSWVNBGyidDAz9kzmaOZYcCGSWDQ36d8uycrJ5l29bcHw4W2WJr5aDqi7wTGMrxVnM34\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/festival-nou-pop-can-ricart-otros-escenarios-posibles-6051301",
+    "gx_media_links":"https://lh5.googleusercontent.com/s4iN_i1r0CTNi8ULi7V0_6NcT0-mgUPN6OroT-ufftKVBzKjqtYbeO2l-Wy7PSWVNBGyidDAz9kzmaOZYcCGSWDQ36d8uycrJ5l29bcHw4W2WJr5aDqi7wTGMrxVnM34",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/festival-nou-pop-can-ricart-otros-escenarios-posibles-6051301",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1365565,41.3744738 ]
+    },
+    "properties": {
+    "name":"PLAÇA DE BENET I MUIXÍ              ",
+    "cronica":"Veinte años de rabia",
+    "categoria":"",
+    "genero":"PLAZA",
+    "description":"<img src=\"https://lh3.googleusercontent.com/D571VDrzO1kb2bfmXFUMZn1JOkJg5GsdLZ1EzJBmBI6ET2DpO07_22kEZjMqmUvyTnumT-v7va7bqdJomAoEqta8Lza2tczuY9vmYPysVMUdzpwgTGXiVpy-iZ8lADrr\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/rabia-positiva-can-vies-otros-escenarios-posibles-6038227",
+    "gx_media_links":"https://lh3.googleusercontent.com/D571VDrzO1kb2bfmXFUMZn1JOkJg5GsdLZ1EzJBmBI6ET2DpO07_22kEZjMqmUvyTnumT-v7va7bqdJomAoEqta8Lza2tczuY9vmYPysVMUdzpwgTGXiVpy-iZ8lADrr",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/rabia-positiva-can-vies-otros-escenarios-posibles-6038227",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0814264,41.3494063 ]
+    },
+    "properties": {
+    "name":"AUDITORI DE CORNELLÀ",
+    "cronica":"Desenfreno punjabi en la grada",
+    "categoria":"",
+    "genero":"AUDITORIO",
+    "description":"<img src=\"https://lh6.googleusercontent.com/ys0a8TNDzPhXlz30k8slnWPbusLBnovRoJx1JuNtsU32ZfEXeUSz_8hdHjo4F7rOz68CEoQQspYusRESU145nb-xYP-xgudRYcqwdefmh59YFMNTF_6WxZ6ATIWAsPc\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/kulwinder-auditori-cornella-6021948",
+    "gx_media_links":"https://lh6.googleusercontent.com/ys0a8TNDzPhXlz30k8slnWPbusLBnovRoJx1JuNtsU32ZfEXeUSz_8hdHjo4F7rOz68CEoQQspYusRESU145nb-xYP-xgudRYcqwdefmh59YFMNTF_6WxZ6ATIWAsPc",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/kulwinder-auditori-cornella-6021948",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1707547,41.3796745 ]
+    },
+    "properties": {
+    "name":"ROBADORS 23                                       ",
+    "cronica":"Siempre fuego y siempre leña",
+    "categoria":"",
+    "genero":"SALA DE CONCIERTOS",
+    "description":"<img src=\"https://lh4.googleusercontent.com/bqpRAtvmRwnLl_yd18wh-EYzmqOAgP4n-a35qnsPxUOvoF2tOzlAXFF6XDnGzqLPYCsCQHapDT4UmRjd8dnlCSj2gVwNVwTEV37c_c_Er_F-EfigK394FMGpQhMZZ_4\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-robadors-rap-6008125",
+    "gx_media_links":"https://lh4.googleusercontent.com/bqpRAtvmRwnLl_yd18wh-EYzmqOAgP4n-a35qnsPxUOvoF2tOzlAXFF6XDnGzqLPYCsCQHapDT4UmRjd8dnlCSj2gVwNVwTEV37c_c_Er_F-EfigK394FMGpQhMZZ_4",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-robadors-rap-6008125",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1601439,41.3774043 ]
+    },
+    "properties": {
+    "name":"SANTÍSIMO AGAVE                                ",
+    "cronica":"De Colombia a Serbia en un bar mexicano",
+    "categoria":"",
+    "genero":"BAR",
+    "description":"<img src=\"https://lh6.googleusercontent.com/c2GG60PA4iv1ztdUzF9creJ6U2cGkxByi21Ow4UBliwmIzvN6wk_pNguKa3M4_ih9i9_rdT0iSL5ji1afCuL0UyC1zOwgpghLhrfB_DnY7Q4f5LvBEjZz4t0CYPkzoY8Ww\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/balkumbia-santisimo-agave-otros-escenarios-nando-cruz-5990958",
+    "gx_media_links":"https://lh6.googleusercontent.com/c2GG60PA4iv1ztdUzF9creJ6U2cGkxByi21Ow4UBliwmIzvN6wk_pNguKa3M4_ih9i9_rdT0iSL5ji1afCuL0UyC1zOwgpghLhrfB_DnY7Q4f5LvBEjZz4t0CYPkzoY8Ww",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/balkumbia-santisimo-agave-otros-escenarios-nando-cruz-5990958",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1395391,41.4137507 ]
+    },
+    "properties": {
+    "name":"EL PUMAREJO ",
+    "cronica":"El cielo en una habitación de Vallcarca",
+    "categoria":"",
+    "genero":"ASOCIACIÓN CULTURAL",
+    "description":"<img src=\"https://lh6.googleusercontent.com/b2BMaxID-sHdOSBzkq_KLuyGIapRLig8A-Xl7bAd2ejWmDf6fyHASL-F1iN74JtdB1gkUL7sPMJhBim1HNH9WUcJ62xXLe4SV8pASaRcmxc3I9IofP66rdErr_ZcmXl5\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/pumarejo-sala-conciertos-vallcarca-5976084",
+    "gx_media_links":"https://lh6.googleusercontent.com/b2BMaxID-sHdOSBzkq_KLuyGIapRLig8A-Xl7bAd2ejWmDf6fyHASL-F1iN74JtdB1gkUL7sPMJhBim1HNH9WUcJ62xXLe4SV8pASaRcmxc3I9IofP66rdErr_ZcmXl5",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/pumarejo-sala-conciertos-vallcarca-5976084",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2612309,41.4588094 ]
+    },
+    "properties": {
+    "name":"ESTRAPERLO                                        ",
+    "cronica":"Ciutat podrida', ciudad que ahoga",
+    "categoria":"",
+    "genero":"SALA DE CONCIERTOS",
+    "description":"<img src=\"https://lh4.googleusercontent.com/-aZX0w_b-JaKVxzyT4aBVrsF7bt02BVem_FIXNhP04-xtMkg-XsJfEkcQycTNpRxXZR-qJ7dpblMxmEsHLs_ZM5dVf07L-TiBuI0cT36wgQabRGM3ZvftxOk5czPxYVH\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/bcn-ens-ofega-arpaviejas-zombi-pujol-una-bestia-incontrolable-estraperlo-5962333",
+    "gx_media_links":"https://lh4.googleusercontent.com/-aZX0w_b-JaKVxzyT4aBVrsF7bt02BVem_FIXNhP04-xtMkg-XsJfEkcQycTNpRxXZR-qJ7dpblMxmEsHLs_ZM5dVf07L-TiBuI0cT36wgQabRGM3ZvftxOk5czPxYVH",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/bcn-ens-ofega-arpaviejas-zombi-pujol-una-bestia-incontrolable-estraperlo-5962333",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1730828,41.4306212 ]
+    },
+    "properties": {
+    "name":"CENTRE CÍVIC CAN BASTÉ                   ",
+    "cronica":"Tenemos nueva jefa en Nou Barris",
+    "categoria":"",
+    "genero":"CENTRO CÍVICO",
+    "description":"<img src=\"https://lh3.googleusercontent.com/AoWzl_in_T6tt25BewyLzStoLKTnCglN80haBFCCrkdW-rfOOtMzWETOcKhPpaKpmsZzwr4OED08KCjx89T9nCLOaLHEFKvJqd6DuLPxGBF3WkiiiKRB9sRxR1FfYLK-3Q\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-nando-cruz-festival-9b-in-black-can-baste-monique-makon-5946725",
+    "gx_media_links":"https://lh3.googleusercontent.com/AoWzl_in_T6tt25BewyLzStoLKTnCglN80haBFCCrkdW-rfOOtMzWETOcKhPpaKpmsZzwr4OED08KCjx89T9nCLOaLHEFKvJqd6DuLPxGBF3WkiiiKRB9sRxR1FfYLK-3Q",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-nando-cruz-festival-9b-in-black-can-baste-monique-makon-5946725",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1761781,41.3864888 ]
+    },
+    "properties": {
+    "name":"ESPAI FRANCESCA BONNEMAISON     ",
+    "cronica":"¡Oh, mi paraíso verde!",
+    "categoria":"",
+    "genero":"CENTRO CULTURAL",
+    "description":"<img src=\"https://lh4.googleusercontent.com/oaajKILYIFpz952lSBBY2cXwrT5DsjkmPXIqKwJQy6RwedSZEYNggNJ67YDDr7vdtU0LVL8CVaZ0KZZe09Qux5cZWmi81XftmVZLvy2Pe_mQHLABzoPZGRJvxqZP_B_z\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-nowruz-iran-musica-persa-5927795",
+    "gx_media_links":"https://lh4.googleusercontent.com/oaajKILYIFpz952lSBBY2cXwrT5DsjkmPXIqKwJQy6RwedSZEYNggNJ67YDDr7vdtU0LVL8CVaZ0KZZe09Qux5cZWmi81XftmVZLvy2Pe_mQHLABzoPZGRJvxqZP_B_z",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-nowruz-iran-musica-persa-5927795",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1566892,41.4016322 ]
+    },
+    "properties": {
+    "name":"PLAÇA DEL SOL",
+    "cronica":"Te doy una canción cuando apareces",
+    "categoria":"",
+    "genero":"PLAZA",
+    "description":"<img src=\"https://lh4.googleusercontent.com/HMaaBqRDtGGu8_wabU7WAQ-1Lfok8uhag5E7WCtpJW1T71vuntcOFm0GqOVxidQgXBosH7TDFlGY8s-BYs0UANYqGg75rqy2M44-hALoV-md2XpCY3iq6Kre5gg4QX6X\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/musica-callejera-plazas-gracia-otros-escenarios-5910356",
+    "gx_media_links":"https://lh4.googleusercontent.com/HMaaBqRDtGGu8_wabU7WAQ-1Lfok8uhag5E7WCtpJW1T71vuntcOFm0GqOVxidQgXBosH7TDFlGY8s-BYs0UANYqGg75rqy2M44-hALoV-md2XpCY3iq6Kre5gg4QX6X",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/musica-callejera-plazas-gracia-otros-escenarios-5910356",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1526015,41.4335251 ]
+    },
+    "properties": {
+    "name":"PLAÇA BOTTICELLI",
+    "cronica":"La plaza tiene que vibrar",
+    "categoria":"",
+    "genero":"PLAZA",
+    "description":"<img src=\"https://lh4.googleusercontent.com/xuiq3x3v-7Bf3FH_iVmEV4oBGSb3cqISh9zxzrHK8tn3bZBdmulNjbMBtIvPEPFD1kYq0Fq17tyEKS1tFaGE6tHaoVc9f1Q8sf2mYoFoiL7gJZv3D0rTPderLoSR5-zF2w\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/anxova-reggae-maraton-musical-horta-5892379",
+    "gx_media_links":"https://lh4.googleusercontent.com/xuiq3x3v-7Bf3FH_iVmEV4oBGSb3cqISh9zxzrHK8tn3bZBdmulNjbMBtIvPEPFD1kYq0Fq17tyEKS1tFaGE6tHaoVc9f1Q8sf2mYoFoiL7gJZv3D0rTPderLoSR5-zF2w",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/anxova-reggae-maraton-musical-horta-5892379",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4301887,41.5307162 ]
+    },
+    "properties": {
+    "name":"DISCOTECA OASIS",
+    "cronica":"Fumando shisha y bailando raï en el Maresme",
+    "categoria":"",
+    "genero":"DISCOTECA",
+    "description":"<img src=\"https://lh6.googleusercontent.com/ieF_fyXMAiOtlBN2waLXob6a9aObuOdisMtkw97-B0vAzpWatIFdYGIq7_kTv50OPj0559MONkNrUPNBeDHFEAqGyzTZgy2YW7HW8o44lzJ4R18vaCVeC6rJzzU6rh3r\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/serhani-oasis-mataro-5877696",
+    "gx_media_links":"https://lh6.googleusercontent.com/ieF_fyXMAiOtlBN2waLXob6a9aObuOdisMtkw97-B0vAzpWatIFdYGIq7_kTv50OPj0559MONkNrUPNBeDHFEAqGyzTZgy2YW7HW8o44lzJ4R18vaCVeC6rJzzU6rh3r",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/serhani-oasis-mataro-5877696",
+    "test":"c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1570593,41.3782818 ]
+    },
+    "properties": {
+    "name":"CALABRIA 66",
+    "cronica":"Todas las canciones bengalís son amorosas",
+    "categoria":"",
+    "genero":"ESPACIO VECINAL",
+    "description":"<img src=\"https://lh3.googleusercontent.com/k-hxAj5gC8WMOf6Y-a2R64ow3qgByKfUMototpalKvh22Nc067i2czNjtdIu2Thsr48Vs3g69P-3YVGK-WJdqWrORc5cpt-0cZU6uj6VM0P9Foiaj0lYL2tANUwM1vnh\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/festa-primavera-bangladesh-barcelona-escenarios-nando-cruz-5862075",
+    "gx_media_links":"https://lh3.googleusercontent.com/k-hxAj5gC8WMOf6Y-a2R64ow3qgByKfUMototpalKvh22Nc067i2czNjtdIu2Thsr48Vs3g69P-3YVGK-WJdqWrORc5cpt-0cZU6uj6VM0P9Foiaj0lYL2tANUwM1vnh",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/festa-primavera-bangladesh-barcelona-escenarios-nando-cruz-5862075",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2087535,41.4461464 ]
+    },
+    "properties": {
+    "name":"CA LA SISQUETA",
+    "cronica":"Mujeres del delta del Besós",
+    "categoria":"",
+    "genero":"LOCAL AUTOGESTIONADO",
+    "description":"<img src=\"https://lh6.googleusercontent.com/McDq48DZriKcLEr3an-8GUQN5LtkVY-hDXlZGEOKN515rZJaU0u8VMuCrxDGrMRcOuTMga159dZPzX87uOoESIEnTBxqyfNSiUFIklGPQkcknes7-EalBjFxD7DayKlp\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/santako-in-blues-sister-marion-5847728",
+    "gx_media_links":"https://lh6.googleusercontent.com/McDq48DZriKcLEr3an-8GUQN5LtkVY-hDXlZGEOKN515rZJaU0u8VMuCrxDGrMRcOuTMga159dZPzX87uOoESIEnTBxqyfNSiUFIklGPQkcknes7-EalBjFxD7DayKlp",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/santako-in-blues-sister-marion-5847728",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.181623,41.38766 ]
+    },
+    "properties": {
+    "name":"CONVENT DE SANT AGUSTÍ               ",
+    "cronica":"Inténtenlo en casa hoy mismo",
+    "categoria":"",
+    "genero":"CENTRO CÍVICO",
+    "description":"<img src=\"https://lh6.googleusercontent.com/Ubgofq_DmqucgRO-Gj1yyQPou3wjpwfiFC9yIt3Hi4bE2vzAdF35QECoh6Nh6GIu_wPILl0nL4iKbk7uVcOKRY0csVEiMoC4oyVvK3oDJUUz0etRQsA1UTcb0SCKU7cq\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/marc-egea-finis-africae-otros-escenarios-nando-cruz-5802361",
+    "gx_media_links":"https://lh6.googleusercontent.com/Ubgofq_DmqucgRO-Gj1yyQPou3wjpwfiFC9yIt3Hi4bE2vzAdF35QECoh6Nh6GIu_wPILl0nL4iKbk7uVcOKRY0csVEiMoC4oyVvK3oDJUUz0etRQsA1UTcb0SCKU7cq",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/marc-egea-finis-africae-otros-escenarios-nando-cruz-5802361",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1143103,41.381188 ]
+    },
+    "properties": {
+    "name":"UP & DOWN                                      ",
+    "cronica":"Salseando hasta que abra el Metro",
+    "categoria":"",
+    "genero":"DISCOTECA",
+    "description":"<img src=\"https://lh3.googleusercontent.com/qM0hzn-ID6REd51xupkPSBIYNtRNaGxnDaDwPtfpWWeAWQzryiKcz8gIfrdcPklX6z1afY2vb3Kw5Vy8JWxwohf3NcA7SXTTBtzTVppW3j47IZrwnG2gORncPXMkAII\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/salsa-orquesta-zaperoko-down-5788205",
+    "gx_media_links":"https://lh3.googleusercontent.com/qM0hzn-ID6REd51xupkPSBIYNtRNaGxnDaDwPtfpWWeAWQzryiKcz8gIfrdcPklX6z1afY2vb3Kw5Vy8JWxwohf3NcA7SXTTBtzTVppW3j47IZrwnG2gORncPXMkAII",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/salsa-orquesta-zaperoko-down-5788205",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1585386,41.3990398 ]
+    },
+    "properties": {
+    "name":"ASSOCIACIÓ CULTURAL LA FELPA    ",
+    "cronica":"De piedra, los que no cantan",
+    "categoria":"",
+    "genero":"ASOCIACIÓN CULTURAL",
+    "description":"<img src=\"https://lh6.googleusercontent.com/DW2hm9Hg9ulECxQhSYHeCmTmPiohBM6rIqSnbhzp1uk8ztvezgINCaXLGKq3Wtjv5cm7WL5WbbluHwIW0GKEOROm0J3mfvvMw8dADuxQZg17-G2oVhUjjIY1QiXDM9k\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/piedra-los-que-cantan-5773506",
+    "gx_media_links":"https://lh6.googleusercontent.com/DW2hm9Hg9ulECxQhSYHeCmTmPiohBM6rIqSnbhzp1uk8ztvezgINCaXLGKq3Wtjv5cm7WL5WbbluHwIW0GKEOROm0J3mfvvMw8dADuxQZg17-G2oVhUjjIY1QiXDM9k",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/piedra-los-que-cantan-5773506",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2118568,41.4165105 ]
+    },
+    "properties": {
+    "name":"CENTRE CÍVIC BESÓS                          ",
+    "cronica":"¡El flamenco es lo peor! ¡Aaay!",
+    "categoria":"",
+    "genero":"CENTRO CÍVICO",
+    "description":"<img src=\"https://lh5.googleusercontent.com/0TEOEBU-2IX7kBdbUg5fK_4Mnf3keieqS1kMVEPvz6wwbKZTsIU-Gsi-SIq9IZU88nN9Gyya74vXQNEumQrLRzH3awCoWHnDjFGfoanO0DDbmw4BPBfD2VgF5ZEcZNQ\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/flamenco-ginesa-ortega-centre-civic-besos-5758741",
+    "gx_media_links":"https://lh5.googleusercontent.com/0TEOEBU-2IX7kBdbUg5fK_4Mnf3keieqS1kMVEPvz6wwbKZTsIU-Gsi-SIq9IZU88nN9Gyya74vXQNEumQrLRzH3awCoWHnDjFGfoanO0DDbmw4BPBfD2VgF5ZEcZNQ",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/flamenco-ginesa-ortega-centre-civic-besos-5758741",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1582717,41.3771789 ]
+    },
+    "properties": {
+    "name":"SANT ANTONI REGGAE SPLASH",
+    "cronica":"Chapuzón jamaicano a seis grados",
+    "categoria":"",
+    "genero":"FIESTA MAYOR",
+    "description":"<img src=\"https://lh6.googleusercontent.com/eZkWoJI_I0tUsEIJqBmR4Tu0HMMg6ohXbI4SxU_6mnzycrdG_1B8pNJCEhA24bBNJ_bPN3iPXTw6tqtCsm4NnUj2bn07z9xT1kr2KS-XiFxi5HOR4YNQyltbl1xDlEawCA\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-general-levy-sant-antoni-5744838",
+    "gx_media_links":"https://lh6.googleusercontent.com/eZkWoJI_I0tUsEIJqBmR4Tu0HMMg6ohXbI4SxU_6mnzycrdG_1B8pNJCEhA24bBNJ_bPN3iPXTw6tqtCsm4NnUj2bn07z9xT1kr2KS-XiFxi5HOR4YNQyltbl1xDlEawCA",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-general-levy-sant-antoni-5744838",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1900558,41.4471577 ]
+    },
+    "properties": {
+    "name":"ROCK'N'TRINI                                             ",
+    "cronica":"Un refugio bajo la Ronda de Dalt",
+    "categoria":"",
+    "genero":"LOCAL AUTOGESTIONADO",
+    "description":"<img src=\"https://lh3.googleusercontent.com/dQnv1-6JRkdjJDz9A-IwBLKB0hbHwpsL5m-8Yb5JP4nUjv3xZwfuILoy80AzVb7nPUKC3a-uI2JerqnhwLdnmOkuoiJwX2-kQxD9TfyiGpNEgOcxjoHO0w0-BJLAjTWH\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/rockntrini-aniversario-rockabilly-5731264",
+    "gx_media_links":"https://lh3.googleusercontent.com/dQnv1-6JRkdjJDz9A-IwBLKB0hbHwpsL5m-8Yb5JP4nUjv3xZwfuILoy80AzVb7nPUKC3a-uI2JerqnhwLdnmOkuoiJwX2-kQxD9TfyiGpNEgOcxjoHO0w0-BJLAjTWH",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/rockntrini-aniversario-rockabilly-5731264",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1107912,41.3660036 ]
+    },
+    "properties": {
+    "name":"C.S.O. L'ASTILLA                                   ",
+    "cronica":"Butrön a Eurovisión",
+    "categoria":"",
+    "genero":"OKUPA",
+    "description":"<img src=\"https://lh4.googleusercontent.com/YtX9ovmXRlPyVNVrCwlJTg1tTURvcBfpUM_ZhqqSBJs3iixtXEVZ5b4WbkN7uKqMCdBsEVwNuNn7H5A0SCgk0LxC51SDj7x0MNXqwZIgFARLDXw4Q4ad4_2_8D9VUhs\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/butrn-eurovision-5721081",
+    "gx_media_links":"https://lh4.googleusercontent.com/YtX9ovmXRlPyVNVrCwlJTg1tTURvcBfpUM_ZhqqSBJs3iixtXEVZ5b4WbkN7uKqMCdBsEVwNuNn7H5A0SCgk0LxC51SDj7x0MNXqwZIgFARLDXw4Q4ad4_2_8D9VUhs",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/butrn-eurovision-5721081",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1854961,41.3856919 ]
+    },
+    "properties": {
+    "name":"DIO BAR                                             ",
+    "cronica":"Noche de tambores, lluvia de astillas",
+    "categoria":"",
+    "genero":"SALA DE CONCIERTOS",
+    "description":"<img src=\"https://lh5.googleusercontent.com/cYr9cUbLgm2X05tjX0pSiG0zrW8hd5PkVwt9kYgpULwBGzxCp2T6SqPajeS-1oyOQSAmu2sxO3EEWERlUdvof_RXMd8oMWqf_OT-pokJFTw2jJ_yWg4Bw5pfSW08a_9b\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-diobar-musica-senegal-5699006",
+    "gx_media_links":"https://lh5.googleusercontent.com/cYr9cUbLgm2X05tjX0pSiG0zrW8hd5PkVwt9kYgpULwBGzxCp2T6SqPajeS-1oyOQSAmu2sxO3EEWERlUdvof_RXMd8oMWqf_OT-pokJFTw2jJ_yWg4Bw5pfSW08a_9b",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-diobar-musica-senegal-5699006",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.191236,41.399419 ]
+    },
+    "properties": {
+    "name":"BE GOOD                                                      ",
+    "cronica":"El ruido es la nueva lepra",
+    "categoria":"",
+    "genero":"SALA DE CONCIERTOS",
+    "description":"<img src=\"https://lh4.googleusercontent.com/_d2e12SH76_zQDpjAA7xvEJj4ri7HmU8AEUJzKg8ixDY4mIUxhup24jxDN5IHRRvnbVKvFaDlQf85l4E5pSwS2H5f8y7W1TT_07TYpkZmXZRuIqM7RaegKOvQM9A7gZ_\" height=\"200\" width=\"auto\" /><br><br>El ruido es la nueva lepra.",
+    "gx_media_links":"https://lh4.googleusercontent.com/_d2e12SH76_zQDpjAA7xvEJj4ri7HmU8AEUJzKg8ixDY4mIUxhup24jxDN5IHRRvnbVKvFaDlQf85l4E5pSwS2H5f8y7W1TT_07TYpkZmXZRuIqM7RaegKOvQM9A7gZ_",
+    "link_periodico":"El ruido es la nueva lepra.",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.181289,41.3827346 ]
+    },
+    "properties": {
+    "name":"ESPAI KU                                                ",
+    "cronica":"Soy de Salta y hago falta",
+    "categoria":"",
+    "genero":"TALLER",
+    "description":"<img src=\"https://lh5.googleusercontent.com/4Y4yrYSXrGzHBDnu77DBK1syVeLJ9zX4it4OvUjMTHbPWQWzj_B20BiwaY8UFUzQ9GyE8vz-IZ9mVPaPQrlkrySzzWxnvT-hZfFURr56ZOHqBJyDDktKbPpiOGSkB03d\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-nando-cruz-mariana-carrizo-5668480",
+    "gx_media_links":"https://lh5.googleusercontent.com/4Y4yrYSXrGzHBDnu77DBK1syVeLJ9zX4it4OvUjMTHbPWQWzj_B20BiwaY8UFUzQ9GyE8vz-IZ9mVPaPQrlkrySzzWxnvT-hZfFURr56ZOHqBJyDDktKbPpiOGSkB03d",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-nando-cruz-mariana-carrizo-5668480",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1818443,41.3846656 ]
+    },
+    "properties": {
+    "name":"EUSKAL ETXEA                                     ",
+    "cronica":"Pintxos eta inprobisazioa",
+    "categoria":"",
+    "genero":"TALLER-ESTUDIO",
+    "description":"<img src=\"https://lh5.googleusercontent.com/wF2mKAw4QC-b7nanY6Gg7tP576mUruCcenmA8OeFmOYMrtQxaP_slgycCU9O9-o6EZ85abP9CE98rLKOPPSzhFxO6ET4rtXwBDM8jjoq4r4884CtTRqYf54j_etrMKRb\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/basu-rap-euskal-etxea-sona-5653142",
+    "gx_media_links":"https://lh5.googleusercontent.com/wF2mKAw4QC-b7nanY6Gg7tP576mUruCcenmA8OeFmOYMrtQxaP_slgycCU9O9-o6EZ85abP9CE98rLKOPPSzhFxO6ET4rtXwBDM8jjoq4r4884CtTRqYf54j_etrMKRb",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/basu-rap-euskal-etxea-sona-5653142",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8752422,41.8897229 ]
+    },
+    "properties": {
+    "name":"FESTIVAL CÀNTUT                                   ",
+    "cronica":"Las canciones que cantábamos, cantamos y cantaremos",
+    "categoria":"",
+    "genero":"RESTAURANTE",
+    "description":"<img src=\"https://lh4.googleusercontent.com/GuigfqFBN0TANYDFBWxu6R5AY4y-9WvCG0-UEogwziMwl0Oca0QtGbcGYlnKXUurBTQbUb4lZy9HowdBgxS4hhGb_K5eae1270yIm6Kdi56ppqvQKsjBpbZu61tBHEk\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/las-canciones-que-cantabamos-cantamos-cantaremos-5640917",
+    "gx_media_links":"https://lh4.googleusercontent.com/GuigfqFBN0TANYDFBWxu6R5AY4y-9WvCG0-UEogwziMwl0Oca0QtGbcGYlnKXUurBTQbUb4lZy9HowdBgxS4hhGb_K5eae1270yIm6Kdi56ppqvQKsjBpbZu61tBHEk",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/las-canciones-que-cantabamos-cantamos-cantaremos-5640917",
+    "test":"d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.213273,41.5390525 ]
+    },
+    "properties": {
+    "name":"FESTIVAL AL RAS                                    ",
+    "cronica":"Mollet del Vallès, capital europea del bluegrass",
+    "categoria":"",
+    "genero":"EQUIPAMIENTO MUNICIPAL",
+    "description":"<img src=\"https://lh3.googleusercontent.com/JbmQz2zhvHEf4ZqreIPmlRYOOSx209Piqy1uTwrK28jiBNtSFYbnT3QybiUUuYR7Hr5dM-amEddIbsA4wFTZhOPG5welatBrgrAwvHzqMa318DiT6j6eUUoyzZJXgLE\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/mollet-del-valles-bluegrass-ras-5626606",
+    "gx_media_links":"https://lh3.googleusercontent.com/JbmQz2zhvHEf4ZqreIPmlRYOOSx209Piqy1uTwrK28jiBNtSFYbnT3QybiUUuYR7Hr5dM-amEddIbsA4wFTZhOPG5welatBrgrAwvHzqMa318DiT6j6eUUoyzZJXgLE",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/mollet-del-valles-bluegrass-ras-5626606",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1638077,41.3812947 ]
+    },
+    "properties": {
+    "name":"ABSENTA DEL RAVAL                             ",
+    "cronica":"¡Por fin es martes!",
+    "categoria":"",
+    "genero":"BAR",
+    "description":"<img src=\"https://lh3.googleusercontent.com/k-DLBJ42iUzFNDhU3_hLEblc4P72n9D-Lsao438FZT_TyJojksUG-7pU5-N8Ck4RmgHGoFLop6b1ZwJSGb1ZWFwU8fe-Egrk2RrsV_L1Aig9anLGQeInLimRQ7uGzmgT\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-nando-cruz-bar-absenta-rebetiko-5611856",
+    "gx_media_links":"https://lh3.googleusercontent.com/k-DLBJ42iUzFNDhU3_hLEblc4P72n9D-Lsao438FZT_TyJojksUG-7pU5-N8Ck4RmgHGoFLop6b1ZwJSGb1ZWFwU8fe-Egrk2RrsV_L1Aig9anLGQeInLimRQ7uGzmgT",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-nando-cruz-bar-absenta-rebetiko-5611856",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1661815,41.3831109 ]
+    },
+    "properties": {
+    "name":"PLAÇA DE JOAN COROMINES        ",
+    "cronica":"Batalla de gallos detrás del Macba",
+    "categoria":"",
+    "genero":"PLAZA",
+    "description":"<img src=\"https://lh5.googleusercontent.com/U1ZDaUMQVkvqP_9b6kkxnUS-Xk0VnMzkjmzIS0txru08qcouRmki30qpiPCy-GSP3chztFGm9AdGAReYoZLEEBk0JWg-o5Rlwh-PKuSinoBtU8elzYSziH6760qZQxc\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/batalla-gallos-otros-escenarios-posibles-5598289",
+    "gx_media_links":"https://lh5.googleusercontent.com/U1ZDaUMQVkvqP_9b6kkxnUS-Xk0VnMzkjmzIS0txru08qcouRmki30qpiPCy-GSP3chztFGm9AdGAReYoZLEEBk0JWg-o5Rlwh-PKuSinoBtU8elzYSziH6760qZQxc",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/batalla-gallos-otros-escenarios-posibles-5598289",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1597791,41.3993406 ]
+    },
+    "properties": {
+    "name":"L'ASTROLABI                                               ",
+    "cronica":"Milongas en la intimidad",
+    "categoria":"",
+    "genero":"BAR",
+    "description":"<img src=\"https://lh3.googleusercontent.com/BfZm6yPCCgll28HiP10POEHlAQmtfoUdsNsX5w6LHeabRv5IRKVH5GI4wGD-WmFo584LpLJXrWAZf-TKuH0lrG-TMSSGd1H4bocgIRHsI2k3dDe7mL-3_pX3enNntYQqjQ\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/milongas-intimidad-astrolabi-5582887",
+    "gx_media_links":"https://lh3.googleusercontent.com/BfZm6yPCCgll28HiP10POEHlAQmtfoUdsNsX5w6LHeabRv5IRKVH5GI4wGD-WmFo584LpLJXrWAZf-TKuH0lrG-TMSSGd1H4bocgIRHsI2k3dDe7mL-3_pX3enNntYQqjQ",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/milongas-intimidad-astrolabi-5582887",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1802926,41.448758 ]
+    },
+    "properties": {
+    "name":"FESTIVAL SAY IT LOUD                 ",
+    "cronica":"¡'Funkies' y 'breakers', uníos!",
+    "categoria":"",
+    "genero":"ATENEU",
+    "description":"<img src=\"https://lh4.googleusercontent.com/lGO5iP-spkxYAq7NI5YfndG2MfpL0JDXMMBQhZKvs2oWtQh3o632Z6Ymnuey1Yhp1JNtIxrqh4gjEtfPz3aoAI_KzFgaFC-lbj7sclWgZmikgM6Z8cVKWbAA1zTtMz0SOA\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/funkies-breakers-unios-festival-say--it--loud-barcelona-5539416",
+    "gx_media_links":"https://lh4.googleusercontent.com/lGO5iP-spkxYAq7NI5YfndG2MfpL0JDXMMBQhZKvs2oWtQh3o632Z6Ymnuey1Yhp1JNtIxrqh4gjEtfPz3aoAI_KzFgaFC-lbj7sclWgZmikgM6Z8cVKWbAA1zTtMz0SOA",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/funkies-breakers-unios-festival-say--it--loud-barcelona-5539416",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1539855,41.3822426 ]
+    },
+    "properties": {
+    "name":"NIT TRANSFEMINISTA                            ",
+    "cronica":"El machismo mata mucho más que ETA",
+    "categoria":"",
+    "genero":"ESPACIO PÚBLICO",
+    "description":"<img src=\"https://lh6.googleusercontent.com/bdbRo2SFC2VNzgCY5vfd16tI-sGAIEdpEJEMKQMH1KTcofH4HoYL70cHHOhu-tbzOOjLOQbLEiflrV-56WYkrDbb2F9fJQvt-qHMMpz3Tg4NTi3X0ExvnLmVrK0WGzIY\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/nit-transfeminista-otros-escenarios-5476556",
+    "gx_media_links":"https://lh6.googleusercontent.com/bdbRo2SFC2VNzgCY5vfd16tI-sGAIEdpEJEMKQMH1KTcofH4HoYL70cHHOhu-tbzOOjLOQbLEiflrV-56WYkrDbb2F9fJQvt-qHMMpz3Tg4NTi3X0ExvnLmVrK0WGzIY",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/nit-transfeminista-otros-escenarios-5476556",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1972764,41.3998576 ]
+    },
+    "properties": {
+    "name":"HIJAUH USB                                           ",
+    "cronica":"Tres años de entusiasta clandestinidad",
+    "categoria":"",
+    "genero":"ASOCIACIÓN CULTURAL",
+    "description":"<img src=\"https://lh4.googleusercontent.com/8E_lL1fvhwTeUBWC18WXgXmOMSrizWQ87iaXRGfkpNWiuktPugJhITzZf5xyCuva0_mjJODTvAG26OrHll97t0RWkWZgvmuItWJvtUNrrZjB2ee6s9Q2g5ER1o-K0J1V\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-hijaub-usb-poble-nou-5445297",
+    "gx_media_links":"https://lh4.googleusercontent.com/8E_lL1fvhwTeUBWC18WXgXmOMSrizWQ87iaXRGfkpNWiuktPugJhITzZf5xyCuva0_mjJODTvAG26OrHll97t0RWkWZgvmuItWJvtUNrrZjB2ee6s9Q2g5ER1o-K0J1V",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-hijaub-usb-poble-nou-5445297",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1532157,41.4115164 ]
+    },
+    "properties": {
+    "name":"KASA DE LA MUNTANYA                     ",
+    "cronica":"Tres cuatreros en la casa okupa",
+    "categoria":"",
+    "genero":"OKUPA",
+    "description":"<img src=\"https://lh5.googleusercontent.com/Sv5YCB_Gejd-jKUmt4Utg7p4EAgPiHKPawkA_WNbEi1NjyrGqSylZLUrU_WDWjr2h6HIi67b8rdN8VCcyAMfJDMK38wAb2ZokPbjfWj5on16yEvUYyJBBgQmh0v1m9A\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/trio-cuatreros-kasa-muntanya-otros-escenarios-5406954",
+    "gx_media_links":"https://lh5.googleusercontent.com/Sv5YCB_Gejd-jKUmt4Utg7p4EAgPiHKPawkA_WNbEi1NjyrGqSylZLUrU_WDWjr2h6HIi67b8rdN8VCcyAMfJDMK38wAb2ZokPbjfWj5on16yEvUYyJBBgQmh0v1m9A",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/trio-cuatreros-kasa-muntanya-otros-escenarios-5406954",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1576333,41.400095 ]
+    },
+    "properties": {
+    "name":"L'HORA DEL JAZZ                            ",
+    "cronica":"Mediodía de resaca y sudor",
+    "categoria":"",
+    "genero":"PLAZA",
+    "description":"<img src=\"https://lh3.googleusercontent.com/cF0KAIG416zUV-nL8CJZ_StudrDhkTpoLRS_P2M0kro5M0Fsl3tv1oZFOQzoXF_BtIx7ZQOhN-llX-knSEaGFEzLe45XSE86ddGOcaxW11P7hl0JvDdacxoug8jo8AU\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/marco-mezquida-lhora-del-jazz-plaza-villa-gracia-5382462",
+    "gx_media_links":"https://lh3.googleusercontent.com/cF0KAIG416zUV-nL8CJZ_StudrDhkTpoLRS_P2M0kro5M0Fsl3tv1oZFOQzoXF_BtIx7ZQOhN-llX-knSEaGFEzLe45XSE86ddGOcaxW11P7hl0JvDdacxoug8jo8AU",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/marco-mezquida-lhora-del-jazz-plaza-villa-gracia-5382462",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1463197,41.4118689 ]
+    },
+    "properties": {
+    "name":"FESTES ALTERNATIVES DE VALLCARCA",
+    "cronica":"Vallcarca en fiesta, Vallcarca en guerra",
+    "categoria":"",
+    "genero":"ESPACIO PÚBLICO",
+    "description":"<img src=\"https://lh6.googleusercontent.com/u81O-BHSisfodbJF9uRIGzfUob1DJZ8rYyY2yFDtNTAkKSLNCJe7XJb1gJgCl-t0chTaUxUksgbotLHXF3sT4QH9F_c2gyqFG378CkveR9epCXbAOwfW0Ddb-LG94olY\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/vallcarca-fiestas-libertarias-otros-escenarios-posibles-5373477",
+    "gx_media_links":"https://lh6.googleusercontent.com/u81O-BHSisfodbJF9uRIGzfUob1DJZ8rYyY2yFDtNTAkKSLNCJe7XJb1gJgCl-t0chTaUxUksgbotLHXF3sT4QH9F_c2gyqFG378CkveR9epCXbAOwfW0Ddb-LG94olY",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/vallcarca-fiestas-libertarias-otros-escenarios-posibles-5373477",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0937431,41.3551365 ]
+    },
+    "properties": {
+    "name":"DISCOTECA MAMBO DISCO SHOW     ",
+    "cronica":"Un oasis tropical en el polígono industrial",
+    "categoria":"",
+    "genero":"DISCOTECA",
+    "description":"<img src=\"https://lh4.googleusercontent.com/3pOhhwWS0MQfnfl7H9_AVPgSoZ9vFWvSTBKeJCX19VShkC6VyskoaEgPV5BrNTPR8GCamwmQN8FdXm6gv3hZz9owWJEf2aTYnXX2h0hdkjgbFf2Rbd9lk2lhRN196pw\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/diego-rios-mambo-disco-show-cornella-5360459",
+    "gx_media_links":"https://lh4.googleusercontent.com/3pOhhwWS0MQfnfl7H9_AVPgSoZ9vFWvSTBKeJCX19VShkC6VyskoaEgPV5BrNTPR8GCamwmQN8FdXm6gv3hZz9owWJEf2aTYnXX2h0hdkjgbFf2Rbd9lk2lhRN196pw",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/diego-rios-mambo-disco-show-cornella-5360459",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1577084,41.426575 ]
+    },
+    "properties": {
+    "name":"FIESTA MAYOR DEL CARMEL          ",
+    "cronica":"Rumbas de barrio a pleno sol",
+    "categoria":"",
+    "genero":"PLAZA",
+    "description":"<img src=\"https://lh3.googleusercontent.com/4FXnViokKWI1Vs8NfblMbRIZeYUGFh4aAd5JlTAW7CYdoR6wqBGr_44Z1PY9SCMWNueYGodLSuPM-tKamT5t5fP62W-Kw5dcTiVa-cPqafy-nuT7ZYz0TBkYNiqZhvc\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-fiesta-mayor-carmel-5273842",
+    "gx_media_links":"https://lh3.googleusercontent.com/4FXnViokKWI1Vs8NfblMbRIZeYUGFh4aAd5JlTAW7CYdoR6wqBGr_44Z1PY9SCMWNueYGodLSuPM-tKamT5t5fP62W-Kw5dcTiVa-cPqafy-nuT7ZYz0TBkYNiqZhvc",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-fiesta-mayor-carmel-5273842",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.191236,41.4334446 ]
+    },
+    "properties": {
+    "name":"ATENEU L'HARMONIA                        ",
+    "cronica":"Como si tal y cual Pascual",
+    "categoria":"",
+    "genero":"ATENEU",
+    "description":"<img src=\"https://lh5.googleusercontent.com/BANxuwwWsGSr_BqBmA2nhKbMgnkQW0dBxQBzwaC1yosxRowjfCpp22sHvdgN9rXDMhPzrSp0OYBymYWAdvMVeXh0mumZvO0oz_LAOEGlJYoz4F4sXExde9vhLOarCzIhiA\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-ateneu-lharmonia-xarim-areste-5259505",
+    "gx_media_links":"https://lh5.googleusercontent.com/BANxuwwWsGSr_BqBmA2nhKbMgnkQW0dBxQBzwaC1yosxRowjfCpp22sHvdgN9rXDMhPzrSp0OYBymYWAdvMVeXh0mumZvO0oz_LAOEGlJYoz4F4sXExde9vhLOarCzIhiA",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-ateneu-lharmonia-xarim-areste-5259505",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0266476,42.149469 ]
+    },
+    "properties": {
+    "name":"FESTIVAL MORTFORT                             ",
+    "cronica":"Un hechizo bajo el olivo",
+    "categoria":"",
+    "genero":"ENTORNO RURAL",
+    "description":"<img src=\"https://lh4.googleusercontent.com/JoNPpHnQ5R7PBB56TRW581EWsrQ5qW-3MTJErLrHefqJcVXPxVwDQiAk2cOlcSojxJv7HaAbyqEvvO4JahkGDkTivc9iT6DY7eq881C0cgEDIlXuCFVeO65BSXxkkgC0\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-mortfort-5245340",
+    "gx_media_links":"https://lh4.googleusercontent.com/JoNPpHnQ5R7PBB56TRW581EWsrQ5qW-3MTJErLrHefqJcVXPxVwDQiAk2cOlcSojxJv7HaAbyqEvvO4JahkGDkTivc9iT6DY7eq881C0cgEDIlXuCFVeO65BSXxkkgC0",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/otros-escenarios-posibles-mortfort-5245340",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1930599,41.4246764 ]
+    },
+    "properties": {
+    "name":"LADYFEST                                                  ",
+    "cronica":"El pogo feminista",
+    "categoria":"",
+    "genero":"NAVE AUTOGESTIONADA",
+    "description":"<img src=\"https://lh4.googleusercontent.com/afoxOQxeM-7HtWW6dMnfWLNQp3YmEfm7r0PTiajcFwYADSDhJhY3PVsQdv4hwgUmv5Z68Qm23PZIfb0neKdZkpRiW2_YyT16zcMXYXhDbBtXl6vgaLLB-yfqSr96zctyGQ\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/festival-ladyfest-barcelona-pogo-feminista-5230339",
+    "gx_media_links":"https://lh4.googleusercontent.com/afoxOQxeM-7HtWW6dMnfWLNQp3YmEfm7r0PTiajcFwYADSDhJhY3PVsQdv4hwgUmv5Z68Qm23PZIfb0neKdZkpRiW2_YyT16zcMXYXhDbBtXl6vgaLLB-yfqSr96zctyGQ",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/festival-ladyfest-barcelona-pogo-feminista-5230339",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1173948,41.375613 ]
+    },
+    "properties": {
+    "name":"FESTA DE LA DIVERSITAT                          ",
+    "cronica":"El infinito club de fans de The Penguins",
+    "categoria":"",
+    "genero":"PARQUE",
+    "description":"<img src=\"https://lh5.googleusercontent.com/vu-d2v21OMpCqhz-JdY_tNsqbdWO4jvzfRcIN7VjXZif0RmtSgCSFXzRCr12XujX-4fgoQJZh693gl2XQVujWQtDK5ZviZHwFYWPZ-T8_yTDUnbB5NISUV96oWz_Pho1\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/the-penguins-reggae-ska-parc-marquesa-5214573",
+    "gx_media_links":"https://lh5.googleusercontent.com/vu-d2v21OMpCqhz-JdY_tNsqbdWO4jvzfRcIN7VjXZif0RmtSgCSFXzRCr12XujX-4fgoQJZh693gl2XQVujWQtDK5ZviZHwFYWPZ-T8_yTDUnbB5NISUV96oWz_Pho1",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/the-penguins-reggae-ska-parc-marquesa-5214573",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1371305,41.369321 ]
+    },
+    "properties": {
+    "name":"CAN BATLLÓ                                  ",
+    "cronica":"Quedamos un día en Can Batlló",
+    "categoria":"",
+    "genero":"CENTRO AUTOGESTIONADO",
+    "description":"<img src=\"https://lh6.googleusercontent.com/1otfXilvCKOzl8stUNnxknj6rZ6h9OWnDPqZ0c58BtQCNNPVG2lVLqNai5RrRXn1fWQ9hg05e0Pu2bbVW927mGIsoUtR7nMBkLTCH8Wu0Ych1KA6rlfjYKQmCGZ1EEzO\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/concierto-aniversario-can-batllo-5199908",
+    "gx_media_links":"https://lh6.googleusercontent.com/1otfXilvCKOzl8stUNnxknj6rZ6h9OWnDPqZ0c58BtQCNNPVG2lVLqNai5RrRXn1fWQ9hg05e0Pu2bbVW927mGIsoUtR7nMBkLTCH8Wu0Ych1KA6rlfjYKQmCGZ1EEzO",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/concierto-aniversario-can-batllo-5199908",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1364117,41.36114 ]
+    },
+    "properties": {
+    "name":"PARC DELS DRETS HUMANS              ",
+    "cronica":"¡Este chaval se come Barna en cinco años!",
+    "categoria":"",
+    "genero":"PARQUE",
+    "description":"<img src=\"https://lh6.googleusercontent.com/L1syvGIrrFCBsgdlOK4dxrLQob5QLOlwzo0i9ok9fJHtUUWaK55viz1fdjckxVCef3ISqiQtRU79q48GJPIt02inJMgwv6imzphAaDjdPAUsp1qBOnm0rxa75XFhCu7B0A\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/hip-hop-zona-franca-bascula-ese-guillao-joka-5162684",
+    "gx_media_links":"https://lh6.googleusercontent.com/L1syvGIrrFCBsgdlOK4dxrLQob5QLOlwzo0i9ok9fJHtUUWaK55viz1fdjckxVCef3ISqiQtRU79q48GJPIt02inJMgwv6imzphAaDjdPAUsp1qBOnm0rxa75XFhCu7B0A",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/hip-hop-zona-franca-bascula-ese-guillao-joka-5162684",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1356714,41.4056277 ]
+    },
+    "properties": {
+    "name":"CENTRE CÍVIC VIL.LA FLORIDA              ",
+    "cronica":"La guajira de Sant Gervasi",
+    "categoria":"",
+    "genero":"CENTRO CÍVICO",
+    "description":"<img src=\"https://lh5.googleusercontent.com/2AJdL9ZgifBPZb-9aeeldnzVjvHOUflwtmwu2Aenor-_oC78dXfAlQBrSLc1o9ochalhGi0KnrjDuYmHPKgjlK_JudwWJVUmOhNPFF-PfwQAclDL1mDxxbNTVsh8bhtg\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/guajira-sant-gervasi-otros-escenarios-5183287",
+    "gx_media_links":"https://lh5.googleusercontent.com/2AJdL9ZgifBPZb-9aeeldnzVjvHOUflwtmwu2Aenor-_oC78dXfAlQBrSLc1o9ochalhGi0KnrjDuYmHPKgjlK_JudwWJVUmOhNPFF-PfwQAclDL1mDxxbNTVsh8bhtg",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/guajira-sant-gervasi-otros-escenarios-5183287",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1671444,41.3727408 ]
+    },
+    "properties": {
+    "name":"GRAN BODEGA SALTÓ                              ",
+    "cronica":"Un vagón de tren llamado la Saltó",
+    "categoria":"",
+    "genero":"BAR",
+    "description":"<img src=\"https://lh4.googleusercontent.com/QtpbFPSs3ZOzDKIb2s7YjakA2DcECsB02oJA0loAblgEAKlKXUTz0TLCmwtz1HBt_FLNXMY6tJPrLjS7CjXVBLtNGM1cq6HPcQAW8jtloHEdsTJ5nVpNJtXKnvWRCCIh1Q\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/conciertos-bodega-la-salto-poble-sec-5150266",
+    "gx_media_links":"https://lh4.googleusercontent.com/QtpbFPSs3ZOzDKIb2s7YjakA2DcECsB02oJA0loAblgEAKlKXUTz0TLCmwtz1HBt_FLNXMY6tJPrLjS7CjXVBLtNGM1cq6HPcQAW8jtloHEdsTJ5nVpNJtXKnvWRCCIh1Q",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/conciertos-bodega-la-salto-poble-sec-5150266",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0848088,39.8896407 ]
+    },
+    "properties": {
+    "name":"FESTIVAL MAIG DI GRAS                       ",
+    "cronica":"Y Nueva Orleans se instaló en Borriana",
+    "categoria":"",
+    "genero":"ESPACIO PÚBLICO",
+    "description":"<img src=\"https://lh4.googleusercontent.com/RSL7B36NmVmAh4AOGM070Z6TxyNBic2Tdn4OrV5cNIP7UvbHhO0dCS0Sk2KPi_RXaSpkvSC8TikiJeOLXnwH4BTXJClFZv4r6EytbkJNw6hmyFYea3r1MzN6tJ1aBEA\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/nueva-orleans-borriana-maig-gras-festival-5133734",
+    "gx_media_links":"https://lh4.googleusercontent.com/RSL7B36NmVmAh4AOGM070Z6TxyNBic2Tdn4OrV5cNIP7UvbHhO0dCS0Sk2KPi_RXaSpkvSC8TikiJeOLXnwH4BTXJClFZv4r6EytbkJNw6hmyFYea3r1MzN6tJ1aBEA",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/nueva-orleans-borriana-maig-gras-festival-5133734",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.022686,41.4038694 ]
+    },
+    "properties": {
+    "name":"DISCOTECA BE DISCO                          ",
+    "cronica":"¡Yo también soy hijo de Gonzalo Hermosa!",
+    "categoria":"",
+    "genero":"DISCOTECA",
+    "description":"<img src=\"https://lh3.googleusercontent.com/Af8MLJUixz-IDaJ9XEKK9-C6WjVjrKhsTDvr6kvzxdv3xnWVRuZueHRLZ-GvrCAEK7Sz-mWCNIKuSN9hLU9MeNJx9Dger0mQ_U4OYvC_Mqg0FLOuc8s8zO1nnlwDNKw\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/chila-jatun-bolivia-disco-molins-rei-5117048",
+    "gx_media_links":"https://lh3.googleusercontent.com/Af8MLJUixz-IDaJ9XEKK9-C6WjVjrKhsTDvr6kvzxdv3xnWVRuZueHRLZ-GvrCAEK7Sz-mWCNIKuSN9hLU9MeNJx9Dger0mQ_U4OYvC_Mqg0FLOuc8s8zO1nnlwDNKw",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/chila-jatun-bolivia-disco-molins-rei-5117048",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1602887,41.4131131 ]
+    },
+    "properties": {
+    "name":"ESPAI QUIRÓ                                             ",
+    "cronica":"Pa' que lo baile Pablo y La Salut",
+    "categoria":"",
+    "genero":"ESPACIO VECINAL",
+    "description":"<img src=\"https://lh5.googleusercontent.com/sh8tJeYJwRgPZENcXlcokR5gPhm7lza1_nAIzGVRLWH5XfVeFRnWUMHvyaHvmutRkkMTTR9foV1GfJbpmbXGNO3lBUvVwRjaaRyp6GLfv_e7bbovD7eq6cmNlqXk-ENR\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/homenaje-rumbero-pablo-santcovsky-espai-quiro-5100858",
+    "gx_media_links":"https://lh5.googleusercontent.com/sh8tJeYJwRgPZENcXlcokR5gPhm7lza1_nAIzGVRLWH5XfVeFRnWUMHvyaHvmutRkkMTTR9foV1GfJbpmbXGNO3lBUvVwRjaaRyp6GLfv_e7bbovD7eq6cmNlqXk-ENR",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/homenaje-rumbero-pablo-santcovsky-espai-quiro-5100858",
+    "test":"e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1544522,41.4023645 ]
+    },
+    "properties": {
+    "name":"LA TAVERNA DEL C.A.T.                        ",
+    "cronica":"¡Los de la barra, que callen!",
+    "categoria":"",
+    "genero":"BAR",
+    "description":"<img src=\"https://lh5.googleusercontent.com/hOWWK1HFTu6a-9UZERK4ruC1zLSlMNqXSa1MAzIieAfQVHjcsjNpdZ3BMbtO8PBryEmN6YRlFv4c97-1KJjwTbU2Dj5Y03dGzBU7mDlpb0FHOWZEBymn2Hp-9H83nhI\" height=\"200\" width=\"auto\" /><br><br>http://www.elperiodico.com/es/noticias/ocio-y-cultura/carolino-christian-simelio-corrandes-taverna-del-cat-5081696",
+    "gx_media_links":"https://lh5.googleusercontent.com/hOWWK1HFTu6a-9UZERK4ruC1zLSlMNqXSa1MAzIieAfQVHjcsjNpdZ3BMbtO8PBryEmN6YRlFv4c97-1KJjwTbU2Dj5Y03dGzBU7mDlpb0FHOWZEBymn2Hp-9H83nhI",
+    "link_periodico":"http://www.elperiodico.com/es/noticias/ocio-y-cultura/carolino-christian-simelio-corrandes-taverna-del-cat-5081696",
+    "test":"e"
+    }
+  }
+]
+}
