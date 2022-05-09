@@ -1,0 +1,980 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.174453453,41.38552834 ]
+    },
+    "properties": {
+    "id":1,
+    "sitio":"Acueducto romano. Abastecimiento de agua en Barcino. Servicio de  Arqueología",
+    "direccion":"Pl. Vuit de Març, s/n. 08002 Barcelona.",
+    "info":"<strong>Acueducto  romano. Abastecimiento de agua en Barcino. Servicio de  Arqueología</a></strong><br/><br/><p>Tel.:  932&nbsp;566&nbsp;888</p><p><a href=\"http://ajuntament.barcelona.cat/arqueologiabarcelona/\"  rel=\" noopener\"  target=\"_blank\">barcelona.cat/arqueologiabarcelona/</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.181589528,41.38695088 ]
+    },
+    "properties": {
+    "id":7,
+    "sitio":"Archivo Fotográfico de Barcelona",
+    "direccion":"Pl. Pons i Clerch, 2, planta 2.ª. 08003 Barcelona.",
+    "info":"<strong>Archivo  Fotográfico de Barcelona</a></strong><br/><br/><p>Tel.:  932&nbsp;563&nbsp;420</p><p><a  href=\"http://www.barcelona.cat/arxiufotografic\">barcelona.cat/arxiufotografic</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.175760356,41.38420797 ]
+    },
+    "properties": {
+    "id":8,
+    "sitio":"Archivo Histórico de la Ciudad de Barcelona",
+    "direccion":"C. Santa Llúcia, 1. 08002 Barcelona.",
+    "info":"<strong>Archivo  Histórico de la Ciudad de Barcelona</a></strong><br/><br/><p>Tel.:  932&nbsp;562&nbsp;255</p><p><a  href=\"http://barcelona.cat/arxiuhistoric\">barcelona.cat/arxiuhistoric</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.17873003,41.39308003 ]
+    },
+    "properties": {
+    "id":9,
+    "sitio":"Biblioteca Pública Arús",
+    "direccion":"P.º Sant Joan, 26. 08010 Barcelona.",
+    "info":"<strong>Biblioteca  Pública Arús</a></strong><br/><br/><p>Tel.:  932&nbsp;565&nbsp;950</p><p><a  href=\"http://www.bpa.es/\">www.bpa.es</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.149607185,41.37146096 ]
+    },
+    "properties": {
+    "id":10,
+    "sitio":"CaixaForum - Barcelona",
+    "direccion":"Av. Francesc Ferrer i Guàrdia, 6-8. 08038 Barcelona.",
+    "info":"<strong>CaixaForum -  Barcelona</a></strong><br/><br/><p>Tel.:  934&nbsp;768&nbsp;600</p><p><a  href=\"https://caixaforum.org/ca/home\">caixaforum.org</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.19236357,41.43310431 ]
+    },
+    "properties": {
+    "id":11,
+    "sitio":"Can Fontanet - Centro de Interpretación de Els Tres Tombs de Sant Andreu",
+    "direccion":"C. Sant Adrià, 20. 08030. Barcelona.",
+    "info":"<strong>Can Fontanet -  Centro de Interpretación de Els Tres Tombs de Sant  Andreu</a></strong><br/><br/><p>Tel.:  932&nbsp;777&nbsp;012</p><p><a href=\"https://canfontanet.cat\">canfontanet.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.071525953,41.35403301 ]
+    },
+    "properties": {
+    "id":12,
+    "sitio":"Castillo de Cornellà de Llobregat",
+    "direccion":"C. Mossèn Jacint Verdaguer, s/n. 08940 Cornellà de Llobregat.",
+    "info":"<strong>Castillo de  Cornellà de Llobregat</a></strong><br/><br/><p>Tel.:  934&nbsp;745&nbsp;135</p><p><a  href=\"https://www.cornella.cat/ca/viure-a-cornella/cornella-humana/patrimoni-cultural/museus/castell-de-cornella/castell-de-cornella\">www.cornella.cat/ca/viure-a-cornella/cornella-humana/patrimoni-cultural/museus/castell-de-cornella/castell-de-cornella</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.165095785,41.36312003 ]
+    },
+    "properties": {
+    "id":13,
+    "sitio":"Castillo de Montjuïc",
+    "direccion":"Ctra. Montjuïc, 66. 08038 Barcelona.",
+    "info":"<strong>Castillo de  Montjuïc</a></strong><br/><br/><p>Tel.:  932&nbsp;564&nbsp;440</p><p><a  href=\"https://ajuntament.barcelona.cat/castelldemontjuic/ca\">ajuntament.barcelona.cat/castelldemontjuic/ca</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.166905414,41.38388148 ]
+    },
+    "properties": {
+    "id":14,
+    "sitio":"CCCB - Centro de Cultura Contemporánea de Barcelona",
+    "direccion":"C. Montalegre, 5. 08001 Barcelona.",
+    "info":"<strong>CCCB - Centro de  Cultura Contemporánea de Barcelona</a></strong><br/><br/><p>Tel.:  933&nbsp;064&nbsp;100</p><p><a href=\"http://www.cccb.org/\">www.cccb.org</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.170750985,41.38080428 ]
+    },
+    "properties": {
+    "id":15,
+    "sitio":"Centre d’Art La Capella",
+    "direccion":"C. Hospital, 56. 08001 Barcelona.",
+    "info":"<strong>Centre d’Art La  Capella</a></strong><br/><br/><p>Tel.:  932&nbsp;562&nbsp;044</p><p><a  href=\"http://www.lacapella.barcelona/\">lacapella.barcelona</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.115999499,41.36700882 ]
+    },
+    "properties": {
+    "id":16,
+    "sitio":"Centro de Arte Tecla Sala",
+    "direccion":"Av. Josep Tarradellas, 44. 08901 L’Hospitalet de Llobregat.",
+    "info":"<strong>Centro de Arte  Tecla Sala</a></strong><br/><br/><p>Tel.:  934&nbsp;032&nbsp;620</p><p><a  href=\"http://www.teclasala.net/\">www.teclasala.net</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.157169649,41.37178385 ]
+    },
+    "properties": {
+    "id":17,
+    "sitio":"Centro de Documentación y Museo de las Artes Escénicas (MAE) del  Instituto del Teatro",
+    "direccion":"Pl. Margarida Xirgu, s/n. 08004 Barcelona.",
+    "info":"<strong>Centro de  Documentación y Museo de las Artes Escénicas (MAE) del Instituto del  Teatro</a></strong><br/><br/><p>Tel.:  932&nbsp;273&nbsp;900</p><p><a href=\"http://www.cdmae.cat/\">www.cdmae.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.057840014,41.36752745 ]
+    },
+    "properties": {
+    "id":18,
+    "sitio":"Centro Jujol - Can Negre",
+    "direccion":"Pl. Catalunya, s/n. 08970 Sant Joan Despí.",
+    "info":"<strong>Centro Jujol -  Can Negre</a></strong><br/><br/><p>Tel.:  933&nbsp;737&nbsp;363</p><p><a  href=\"https://www.sjdespi.cat/ciutat-modernista/el-patrimoni-modernista\">www.sjdespi.cat/ciutat-modernista/el-patrimoni-modernista</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.176839499,41.38611802 ]
+    },
+    "properties": {
+    "id":19,
+    "sitio":"Cercle Artístic Sant Lluc",
+    "direccion":"C. Mercaders, 42. 08003 Barcelona.",
+    "info":"<strong>Cercle Artístic  Sant Lluc</a></strong><br/><br/><p>Tel.:  933&nbsp;024&nbsp;579</p><p><a  href=\"http://www.santlluc.cat/\">www.santlluc.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.156073056,41.35324084 ]
+    },
+    "properties": {
+    "id":20,
+    "sitio":"Colección de Carrozas Fúnebres",
+    "direccion":"C. Mare de Déu de Port, 56 (acceso por la ronda del Litoral, salida 13).",
+    "info":"<strong>Colección de  Carrozas Fúnebres</a></strong><br/><br/><p>Tel.:  934&nbsp;841&nbsp;920</p><p><a  href=\"http://www.cbsa.cat/cementiris/cementiri-montjuic/colleccio/\">www.cbsa.cat/cementiris/cementiri-montjuic/colleccio/</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.13111227,41.41333336 ]
+    },
+    "properties": {
+    "id":21,
+    "sitio":"CosmoCaixa",
+    "direccion":"C. Isaac Newton, 26. 08022 Barcelona.",
+    "info":"<strong>CosmoCaixa</a></strong><br/><br/><p>Tel.:  932&nbsp;126&nbsp;050</p><p><a  href=\"https://cosmocaixa.org/ca/\">CosmoCaixa.org</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.183871141,41.38561267 ]
+    },
+    "properties": {
+    "id":22,
+    "sitio":"El Born Centro de Cultura y Memoria",
+    "direccion":"Pl. Comercial, 12. 08003 Barcelona.",
+    "info":"<strong>El Born Centro  de Cultura y Memoria</a></strong><br/><br/><p>Tel.:  932&nbsp;566&nbsp;851</p><p><a  href=\"https://elbornculturaimemoria.barcelona.cat/\">elbornculturaimemoria.barcelona.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.154556627,41.37388365 ]
+    },
+    "properties": {
+    "id":23,
+    "sitio":"Espacio Bomberos - Parque de la Prevención de Barcelona",
+    "direccion":"C. Lleida, 30. 08004 Barcelona.",
+    "info":"<strong>Espacio Bomberos  - Parque de la Prevención de Barcelona</a></strong><br/><br/><p>Tel.:  932&nbsp;565&nbsp;434</p><p><a href=\"https://ajuntament.barcelona.cat/espaibombers/ca\">ajuntament.barcelona.cat/espaibombers</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.159391599,41.39635779 ]
+    },
+    "properties": {
+    "id":24,
+    "sitio":"Espacio Mercè Sala",
+    "direccion":"Estación de metro Diagonal L5 (rbla. Catalunya / c. Rosselló). 08008  Barcelona.",
+    "info":"<strong>Espacio Mercè  Sala</a></strong><br/><br/><p>Tel.: 616  041 917</p><p><a  href=\"https://fundacio.tmb.cat/ca/home\">www.fundacio.tmb.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.199910327,41.40426133 ]
+    },
+    "properties": {
+    "id":25,
+    "sitio":"Espai Subirachs",
+    "direccion":"C. Batista, 6. 08005 Barcelona.",
+    "info":"<strong>Espai  Subirachs</a></strong><br/><br/><p>Tel.:  619&nbsp;924&nbsp;701</p><p><a  href=\"http://www.subirachs.cat/\">www.subirachs.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.19160647,41.43382606 ]
+    },
+    "properties": {
+    "id":26,
+    "sitio":"Fabra i Coats. Centro de Arte Contemporáneo de Barcelona",
+    "direccion":"C. Sant Adrià, 20. 08030 Barcelona.",
+    "info":"<strong>Fabra i Coats.  Centro de Arte Contemporáneo de Barcelona</a></strong><br/><br/><p>Tel.:  932&nbsp;566&nbsp;155</p><p><a href=\"https://www.barcelona.cat/fabraicoats/centredart/ca\">barcelona.cat/fabraicoats/centredart</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1638448,41.39170836 ]
+    },
+    "properties": {
+    "id":27,
+    "sitio":"Fundación Antoni Tàpies",
+    "direccion":"C. Aragó, 255. 08007 Barcelona.",
+    "info":"<strong>Fundación Antoni  Tàpies</a></strong><br/><br/><p>Tel.:  934&nbsp;870&nbsp;315</p><p><a  href=\"http://fundaciotapies.org/\">fundaciotapies.org</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.182739099,41.38781196 ]
+    },
+    "properties": {
+    "id":28,
+    "sitio":"Fundación Foto Colectania",
+    "direccion":"P.º Picasso, 14. 08003 Barcelona.",
+    "info":"<strong>Fundación Foto  Colectania</a></strong><br/><br/><p>Tel.:  932&nbsp;171&nbsp;626</p><p><a  href=\"http://www.fotocolectania.org/\">www.fotocolectania.org</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.18227397,41.38531807 ]
+    },
+    "properties": {
+    "id":29,
+    "sitio":"Fundación Joan Brossa-Centro de las Artes Libres",
+    "direccion":"Flassaders, 40. 08003 Barcelona.",
+    "info":"<strong>Fundación Joan  Brossa-Centro de las Artes Libres</a></strong><br/><br/><p>Tel.:  934&nbsp;589&nbsp;994</p><p><a href=\"https://www.fundaciojoanbrossa.cat/\">fundaciojoanbrossa.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.159904543,41.36879141 ]
+    },
+    "properties": {
+    "id":30,
+    "sitio":"Fundación Joan Miró",
+    "direccion":"Parque de Montjuïc. Av. Miramar, 1. 08038 Barcelona.",
+    "info":"<strong>Fundación Joan  Miró</a></strong><br/><br/><p>Tel.  934&nbsp;439&nbsp;470</p><p><a  href=\"http://www.fmirobcn.org/\">www.fmirobcn.org</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.126368839,41.38276278 ]
+    },
+    "properties": {
+    "id":31,
+    "sitio":"Fundación Suñol",
+    "direccion":"C. Mejía Lequerica, 14. 08028 Barcelona.",
+    "info":"<strong>Fundación  Suñol</a></strong><br/><br/><p>Tel.:  934&nbsp;961&nbsp;032</p><p><a  href=\"https://www.fundaciosunol.org/ca/\">www.fundaciosunol.org</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.176810454,41.38630947 ]
+    },
+    "properties": {
+    "id":32,
+    "sitio":"La Casa de los Entremeses",
+    "direccion":"Pl. Beates, 2. 08003 Barcelona.",
+    "info":"<strong>La Casa de los  Entremeses</a></strong><br/><br/><p>Tel.:  932&nbsp;683&nbsp;531</p><p><a  href=\"http://www.lacasadelsentremesos.cat/\">www.lacasadelsentremesos.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.171704941,41.38264938 ]
+    },
+    "properties": {
+    "id":33,
+    "sitio":"La Virreina Centro de la Imagen",
+    "direccion":"Palau de la Virreina. La Rambla, 99. 08002 Barcelona.",
+    "info":"<strong>La Virreina  Centro de la Imagen</a></strong><br/><br/><p>Tel.:  933&nbsp;161&nbsp;000</p><p><a  href=\"http://ajuntament.barcelona.cat/lavirreina\">barcelona.cat/lavirreina</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.166866799,41.38339253 ]
+    },
+    "properties": {
+    "id":34,
+    "sitio":"MACBA. Museo de Arte Contemporáneo de Barcelona",
+    "direccion":"Pl. Àngels, 1. 08001 Barcelona.",
+    "info":"<strong>MACBA. Museo de  Arte Contemporáneo de Barcelona</a></strong><br/><br/><p>Tel.:  934&nbsp;120&nbsp;810</p><p><a href=\"http://www.macba.cat/\">www.macba.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.180214426,41.38518777 ]
+    },
+    "properties": {
+    "id":35,
+    "sitio":"MEAM. Museo Europeo de Arte Moderno",
+    "direccion":"C. Barra de Ferro, 5. 08003 Barcelona.",
+    "info":"<strong>MEAM. Museo  Europeo de Arte Moderno</a></strong><br/><br/><p>Tel.:  933&nbsp;195&nbsp;693</p><p><a  href=\"http://www.meam.es/\">www.meam.es</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.161515528,41.37821225 ]
+    },
+    "properties": {
+    "id":36,
+    "sitio":"Mercado de Sant Antoni. Servicio de Arqueología de Barcelona",
+    "direccion":"C. Comte d’Urgell, 1 (Pati Borrell). 08015 Barcelona.",
+    "info":"<strong>Mercado de Sant  Antoni. Servicio de Arqueología de Barcelona</a></strong><br/><br/><p>Tel.:  932&nbsp;566&nbsp;888</p><p><a href=\"http://ajuntament.barcelona.cat/arqueologiabarcelona/\">barcelona.cat/arqueologiabarcelona/</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.212222024,41.42835678 ]
+    },
+    "properties": {
+    "id":37,
+    "sitio":"MhiC - Museo de Historia de la Inmigración de Cataluña",
+    "direccion":"Masía de Can Serra. Ctra. Mataró, 124. 08930 Sant Adrià de Besòs.",
+    "info":"<strong>MhiC - Museo de  Historia de la Inmigración de Cataluña</a></strong><br/><br/><p>Tel.:  933&nbsp;812&nbsp;606</p><p><a href=\"https://www.mhic.online/\">www.mhic-online.net</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.189154682,41.45461327 ]
+    },
+    "properties": {
+    "id":38,
+    "sitio":"MUHBA Casa del Agua de la Trinitat Vella",
+    "direccion":"C. Torrent de Perera, s/n. 08033 Barcelona.",
+    "info":"<strong>MUHBA Casa del  Agua de la Trinitat Vella</a></strong><br/><br/><p>Tel.:  932&nbsp;562&nbsp;100</p><p><a  href=\"http://ajuntament.barcelona.cat/museuhistoria/ca\">barcelona.cat/museuhistoria</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.175370727,41.38274983 ]
+    },
+    "properties": {
+    "id":39,
+    "sitio":"MUHBA El Call",
+    "direccion":"Plta. Manuel Ribé, s/n. 08002 Barcelona.",
+    "info":"<strong>MUHBA El  Call</a></strong><br/><br/><p>Tel.:  932&nbsp;562&nbsp;122</p><p><a  href=\"https://www.barcelona.cat/museuhistoria/ca/patrimonis/els-espais-del-muhba/muhba-el-call\">barcelona.cat/museuhistoria/ca/patrimonis/els-espais-del-muhba/muhba-el-call</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.200882283,41.40764644 ]
+    },
+    "properties": {
+    "id":40,
+    "sitio":"MUHBA Oliva Artés",
+    "direccion":"C. Espronceda, 142 (parque Central del Poblenou). 08018 Barcelona.",
+    "info":"<strong>MUHBA Oliva  Artés</a></strong><br/><br/><p>Tel.:  932&nbsp;562&nbsp;100</p><p><a  href=\"https://www.barcelona.cat/museuhistoria/ca/patrimonis/els-espais-del-muhba/muhba-oliva-artes\">barcelona.cat/museuhistoria/ca/patrimonis/els-espais-del-muhba/muhba-oliva-artes</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.152866299,41.41337036 ]
+    },
+    "properties": {
+    "id":41,
+    "sitio":"MUHBA Park Güell",
+    "direccion":"C. Olot, s/n. 08024 Barcelona.",
+    "info":"<strong>MUHBA Park  Güell</a></strong><br/><br/><p>Tel.:  932&nbsp;562&nbsp;100</p><p><a  href=\"https://www.barcelona.cat/museuhistoria/ca/patrimonis/els-espais-del-muhba/muhba-park-guell\">barcelona.cat/museuhistoria/ca/patrimonis/els-espais-del-muhba/muhba-park-guell</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.17767368,41.38406488 ]
+    },
+    "properties": {
+    "id":42,
+    "sitio":"MUHBA Plaça del Rei",
+    "direccion":"Pl. Rei, s/n. 08002 Barcelona.",
+    "info":"<strong>MUHBA Plaça del  Rei</a></strong><br/><br/><p>Tel..  932&nbsp;562&nbsp;122</p><p><a  href=\"https://www.barcelona.cat/museuhistoria/ca\">barcelona.cat/museuhistoria</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.179152954,41.38166308 ]
+    },
+    "properties": {
+    "id":43,
+    "sitio":"MUHBA Puerta de Mar",
+    "direccion":"C. Regomir, 7-9 (al lado del Pati Llimona). 08002 Barcelona.",
+    "info":"<strong>MUHBA Puerta de  Mar</a></strong><br/><br/><p>Tel.:  932&nbsp;562&nbsp;100</p><p><a  href=\"https://www.barcelona.cat/museuhistoria/ca/patrimonis/els-espais-del-muhba/la-porta-de-mar-i-les-termes-portuaries\">barcelona.cat/museuhistoria/ca/patrimonis/els-espais-del-muhba/la-porta-de-mar-i-les-termes-portuaries</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.166666985,41.37161142 ]
+    },
+    "properties": {
+    "id":44,
+    "sitio":"MUHBA Refugio 307",
+    "direccion":"C. Nou de la Rambla, 175. 08004 Barcelona.",
+    "info":"<strong>MUHBA Refugio  307 </a></strong><br/><br/><p>Tel.:  932&nbsp;562&nbsp;100</p><p><a  href=\"https://www.barcelona.cat/museuhistoria/ca\">barcelona.cat/museuhistoria</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.177217085,41.38357678 ]
+    },
+    "properties": {
+    "id":45,
+    "sitio":"MUHBA Templo de Augusto",
+    "direccion":"C. Paradís, 10. 08002 Barcelona.",
+    "info":"<strong>MUHBA Templo de  Augusto</a></strong><br/><br/><p>Tel.:  932&nbsp;562&nbsp;122</p><p><a  href=\"https://www.barcelona.cat/museuhistoria/ca/patrimonis/els-espais-del-muhba/muhba-temple-daugust\">barcelona.cat/museuhistoria/ca/patrimonis/els-espais-del-muhba/muhba-temple-daugust</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.17981737,41.38223898 ]
+    },
+    "properties": {
+    "id":46,
+    "sitio":"Muralla romana. Servicio de Arqueología de Barcelona",
+    "direccion":"Pl. Traginers, s/n. 08002 Barcelona.",
+    "info":"<strong>Muralla romana.  Servicio de Arqueología de Barcelona</a></strong><br/><br/><p>Tel.:  932&nbsp;566&nbsp;888</p><p><a href=\"https://ajuntament.barcelona.cat/arqueologiabarcelona/\">ajuntament.barcelona.cat/arqueologiabarcelona</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.19497407,41.40303703 ]
+    },
+    "properties": {
+    "id":47,
+    "sitio":"Museo Can Framis. Fundación Vila Casas",
+    "direccion":"C. Roc Boronat, 116-126. 08018 Barcelona.",
+    "info":"<strong>Museo Can  Framis. Fundación Vila Casas</a></strong><br/><br/><p>Tel.:  933&nbsp;208&nbsp;736</p><p><a  href=\"http://www.fundaciovilacasas.com/\">www.fundaciovilacasas.com</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.157638741,41.36992201 ]
+    },
+    "properties": {
+    "id":48,
+    "sitio":"Museo de Arqueología de Catalunya - Barcelona",
+    "direccion":"P.º Santa Madrona, 39-41. 08038 Barcelona.",
+    "info":"<strong>Museo de  Arqueología de Catalunya - Barcelona</a></strong><br/><br/><p>Tel.:  934&nbsp;232&nbsp;149</p><p><a  href=\"http://www.macbarcelona.cat/ca/\">www.macbarcelona.cat/ca/</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.185894456,41.38098913 ]
+    },
+    "properties": {
+    "id":49,
+    "sitio":"Museo de Historia de Catalunya",
+    "direccion":"Pl. Pau Vila, 3. 08039 Barcelona.",
+    "info":"<strong>Museo de  Historia de Catalunya</a></strong><br/><br/><p>Tel.:  932&nbsp;254&nbsp;700</p><p><a  href=\"http://www.mhcat.cat/\">mhcat.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.246042927,41.45357232 ]
+    },
+    "properties": {
+    "id":50,
+    "sitio":"Museo de Badalona. Casa de la Hiedra",
+    "direccion":"C. Lladó, 55-57. 08911 Badalona.",
+    "info":"<strong>Museo de  Badalona. Casa de la Hiedra</a></strong><br/><br/><p>Tel.:  933&nbsp;841&nbsp;750</p><p><a  href=\"http://www.museudebadalona.cat/\">www.museudebadalona.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.245789783,41.45349694 ]
+    },
+    "properties": {
+    "id":51,
+    "sitio":"Museo de Badalona. Casa de los Delfines",
+    "direccion":"C. Lladó, 45-53. 08911 Badalona.",
+    "info":"<strong>Museo de  Badalona. Casa de los Delfines</a></strong><br/><br/><p>Tel.:  933&nbsp;841&nbsp;750</p><p><a  href=\"http://www.museudebadalona.cat/\">www.museudebadalona.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.247696099,41.45232461 ]
+    },
+    "properties": {
+    "id":52,
+    "sitio":"Museo de Badalona. Termas y decumanus",
+    "direccion":"Pl. Assemblea de Catalunya, 1. 08911 Badalona.",
+    "info":"<strong>Museo de  Badalona. Termas y decumanus</a></strong><br/><br/><p>Tel.:  933&nbsp;841&nbsp;750</p><p><a  href=\"http://www.museudebadalona.cat/\">www.museudebadalona.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.15849187,41.36447723 ]
+    },
+    "properties": {
+    "id":53,
+    "sitio":"Museo de Ciencias Naturales de Barcelona - Jardín Botánico",
+    "direccion":"Dr. Font i Quer, 2. 08038 Barcelona.",
+    "info":"<strong>Museo de  Ciencias Naturales de Barcelona - Jardín  Botánico</a></strong><br/><br/><p>Tel.:  932&nbsp;564&nbsp;160</p><p><a href=\"https://museuciencies.cat/\">museuciencies.cat/</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.221162943,41.4113718 ]
+    },
+    "properties": {
+    "id":54,
+    "sitio":"Museo de Ciencias Naturales de Barcelona - Parque del Fòrum",
+    "direccion":"Pl. Leonardo da Vinci, 4-5. 08019 Barcelona.",
+    "info":"<strong>Museo de  Ciencias Naturales de Barcelona - Parque del  Fòrum</a></strong><br/><br/><p>Tel.:  932&nbsp;566&nbsp;002</p><p><a href=\"https://museuciencies.cat/\">museuciencies.cat/</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.09731947,41.36109171 ]
+    },
+    "properties": {
+    "id":55,
+    "sitio":"Museo de L’Hospitalet. Edificio Casa Espanya",
+    "direccion":"C. Joan Pallarès, 38. 08901 L’Hospitalet de Llobregat.",
+    "info":"<strong>Museo de  L’Hospitalet. Edificio Casa Espanya</a></strong><br/><br/><p>Tel.:  934&nbsp;036&nbsp;110</p><p><a  href=\"http://www.museul-h.cat/\">museul-h.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.097711454,41.36049478 ]
+    },
+    "properties": {
+    "id":56,
+    "sitio":"Museo de L’Hospitalet. Edificio L’Harmonia",
+    "direccion":"Pl. Josep Bordonau i Balaguer, 6. 08901 L’Hospitalet de Llobregat.",
+    "info":"<strong>Museo de  L’Hospitalet. Edificio L’Harmonia</a></strong><br/><br/><p>Tel.:  934&nbsp;036&nbsp;110</p><p><a  href=\"http://www.museul-h.cat/\">museul-h.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.185394727,41.39889618 ]
+    },
+    "properties": {
+    "id":57,
+    "sitio":"Museo de la Música de Barcelona",
+    "direccion":"L’Auditori. C. Lepant, 150. 08013 Barcelona.",
+    "info":"<strong>Museo de la  Música de Barcelona</a></strong><br/><br/><p>Tel.:  932&nbsp;563&nbsp;650</p><p><a  href=\"https://ajuntament.barcelona.cat/museumusica/ca\">www.museumusica.bcn.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.181721914,41.38751697 ]
+    },
+    "properties": {
+    "id":58,
+    "sitio":"Museo del Chocolate de Barcelona",
+    "direccion":"C. Comerç, 36. 08003 Barcelona.",
+    "info":"<strong>Museo del  Chocolate de Barcelona</a></strong><br/><br/><p>Tel.:  932&nbsp;687&nbsp;878</p><p><a  href=\"http://www.museuxocolata.cat/\">www.museuxocolata.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.188049112,41.40260598 ]
+    },
+    "properties": {
+    "id":59,
+    "sitio":"Museo del Diseño de Barcelona",
+    "direccion":"Disseny Hub Barcelona. Pl. Glòries Catalanes, 37-38. 08018 Barcelona.",
+    "info":"<strong>Museo del Diseño  de Barcelona</a></strong><br/><br/><p>Tel.:  932&nbsp;566&nbsp;800</p><p><a  href=\"http://museudeldisseny.barcelona.cat/\">museudeldisseny.barcelona.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.120940685,41.38039308 ]
+    },
+    "properties": {
+    "id":60,
+    "sitio":"Museo del FC Barcelona",
+    "direccion":"Av. Arístides Maillol, s/n. 08028 Barcelona.",
+    "info":"<strong>Museo del FC  Barcelona</a></strong><br/><br/><p>Tel.:  902&nbsp;189&nbsp;900</p><p><a  href=\"http://www.fcbarcelona.cat/\">www.fcbarcelona.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.180866999,41.38521592 ]
+    },
+    "properties": {
+    "id":61,
+    "sitio":"Museo Etnológico y de Culturas del Mundo - Sede Montcada",
+    "direccion":"C. Montcada, 12. 08003 Barcelona.",
+    "info":"<strong>Museo Etnológico  y de Culturas del Mundo - Sede Montcada</a></strong><br/><br/><p>Tel.:  932&nbsp;562&nbsp;300</p><p><a href=\"https://www.barcelona.cat/museu-etnologic-culturesmon/ca/visita/seu-montcada\">barcelona.cat/museu-etnologic-culturesmon/ca/visita/seu-montcada</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.156374329,41.36906904 ]
+    },
+    "properties": {
+    "id":62,
+    "sitio":"Museo Etnológico y de Culturas del Mundo - Sede Parc Montjuïc",
+    "direccion":"P.º Santa Madrona, 16. 08038 Barcelona.",
+    "info":"<strong>Museo Etnológico  y de Culturas del Mundo - Sede Parc Montjuïc</a></strong><br/><br/><p>Tel.:  932&nbsp;562&nbsp;300</p><p><a href=\"https://www.barcelona.cat/museu-etnologic-culturesmon/ca/visita/seu-parc-montjuic\">barcelona.cat/museu-etnologic-culturesmon/ca/visita/seu-parc-montjuic</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.176759799,41.38440553 ]
+    },
+    "properties": {
+    "id":63,
+    "sitio":"Museo Frederic Marès",
+    "direccion":"Pl. Sant Iu, 5. 08002 Barcelona.",
+    "info":"<strong>Museo Frederic  Marès</a></strong><br/><br/><p>Tel.:  932&nbsp;563&nbsp;500</p><p><a  href=\"https://www.barcelona.cat/museufredericmares/ca/museu\">www.barcelona.cat/museufredericmares/ca/museu</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.176133899,41.37534414 ]
+    },
+    "properties": {
+    "id":64,
+    "sitio":"Museo Marítimo de Barcelona",
+    "direccion":"Av. Drassanes, s/n. 08001 Barcelona.",
+    "info":"<strong>Museo Marítimo  de Barcelona</a></strong><br/><br/><p>Tel.:  933&nbsp;429&nbsp;920</p><p><a  href=\"http://www.mmb.cat/\">www.mmb.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.153569999,41.36860897 ]
+    },
+    "properties": {
+    "id":65,
+    "sitio":"Museo Nacional de Arte de Cataluña",
+    "direccion":"Parque de Montjuïc, s/n 08038 Barcelona.",
+    "info":"<strong>Museo Nacional  de Arte de Cataluña</a></strong><br/><br/><p>Tel.:  936&nbsp;220&nbsp;360</p><p><a  href=\"http://www.museunacional.cat/ca\">museunacional.cat/ca</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.157453085,41.36630362 ]
+    },
+    "properties": {
+    "id":66,
+    "sitio":"Museo Olímpico y del Deporte Joan Antoni Samaranch",
+    "direccion":"Av. Estadi, 60. 08038 Barcelona.",
+    "info":"<strong>Museo Olímpico y  del Deporte Joan Antoni Samaranch</a></strong><br/><br/><p>Tel.: 932  925 379</p><p><a href=\"http://www.museuolimpicbcn.cat/\">www.museuolimpicbcn.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.153390812,41.39420255 ]
+    },
+    "properties": {
+    "id":67,
+    "sitio":"Museo Opisso - Hotel Astoria",
+    "direccion":"C. París, 203. 08036 Barcelona.",
+    "info":"<strong>Museo Opisso -  Hotel Astoria</a></strong><br/><br/><p>Tel.: 932  098 311</p><p><a  href=\"http://www.derbyhotels.com/\">www.derbyhotels.com</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.180829181,41.38532693 ]
+    },
+    "properties": {
+    "id":68,
+    "sitio":"Museo Picasso",
+    "direccion":"C. Montcada, 15-23. 08003 Barcelona.",
+    "info":"<strong>Museo  Picasso</a></strong><br/><br/><p>Tel.:  932&nbsp;563&nbsp;000</p><p><a  href=\"http://www.museupicasso.bcn.cat/\">www.museupicasso.bcn.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.209139537,41.44729312 ]
+    },
+    "properties": {
+    "id":69,
+    "sitio":"Museo Torre Balldovina",
+    "direccion":"Pl. Pau Casals, s/n. 08922 Santa Coloma de Gramenet.",
+    "info":"<strong>Museo Torre  Balldovina</a></strong><br/><br/><p>Tel.:  933&nbsp;857&nbsp;142</p><p><a  href=\"https://museu.gramenet.cat/\">museu.gramenet.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.086865387,41.3790349 ]
+    },
+    "properties": {
+    "id":70,
+    "sitio":"Museos de Esplugues de Llobregat (MEL). Museo de Can Tinturé",
+    "direccion":"C. Església, 36. 08950 Esplugues de Llobregat.",
+    "info":"<strong>Museos de  Esplugues de Llobregat (MEL). Museo de Can  Tinturé</a></strong><br/><br/><p>Tel.:  934&nbsp;700&nbsp;218</p><p><a href=\"https://museus.esplugues.cat/\">museus.esplugues.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.086071453,41.37862433 ]
+    },
+    "properties": {
+    "id":71,
+    "sitio":"Museos de Esplugues de Llobregat (MEL). Museo de Cerámica La Rajoleta",
+    "direccion":"Pje. Puig d’Ossa, s/n. 08950 Esplugues de Llobregat.",
+    "info":"<strong>Museos de  Esplugues de Llobregat (MEL). Museo de Cerámica La  Rajoleta</a></strong><br/><br/><p>Tel.:  934&nbsp;700&nbsp;218</p><p><a href=\"http://www.museus.esplugues.cat/\">museus.esplugues.cat</a></p>  <br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.174175426,41.37906219 ]
+    },
+    "properties": {
+    "id":72,
+    "sitio":"Palau Güell",
+    "direccion":"C. Nou de la Rambla, 3-5. 08001 Barcelona.",
+    "info":"<strong>Palau  Güell</a></strong><br/><br/><p>Tel.:  934&nbsp;725&nbsp;775</p><p><a  href=\"http://www.palauguell.cat/\">www.palauguell.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.159472299,41.39619955 ]
+    },
+    "properties": {
+    "id":73,
+    "sitio":"Palau Robert",
+    "direccion":"P.º Gràcia, 107. 08008 Barcelona.",
+    "info":"<strong>Palau  Robert</a></strong><br/><br/><p>Tel.:  932&nbsp;921&nbsp;260</p><p><a  href=\"http://palaurobert.gencat.cat/ca/inici/\">palaurobert.gencat.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.150107176,41.37091012 ]
+    },
+    "properties": {
+    "id":74,
+    "sitio":"Pabellón Mies van der Rohe",
+    "direccion":"Av. Francesc Ferrer i Guàrdia, 7. 08038 Barcelona.",
+    "info":"<strong>Pabellón Mies  van der Rohe</a></strong><br/><br/><p>Tel.:  932&nbsp;151&nbsp;011</p><p><a  href=\"http://www.miesbcn.com/\">miesbcn.com</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.112048641,41.3955082 ]
+    },
+    "properties": {
+    "id":75,
+    "sitio":"Real Monasterio de Santa Maria de Pedralbes",
+    "direccion":"Bja. Monestir, 9. 08034 Barcelona.",
+    "info":"<strong>Real Monasterio  de Santa Maria de Pedralbes</a></strong><br/><br/><p>Tel.:  932&nbsp;563&nbsp;434</p><p><a  href=\"https://monestirpedralbes.bcn.cat/\">monestirpedralbes.barcelona</a></p><p>&nbsp;</p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.17436627,41.41202681 ]
+    },
+    "properties": {
+    "id":76,
+    "sitio":"Sant Pau Recinto Modernista",
+    "direccion":"C. Sant Antoni Maria Claret, 167. 08025 Barcelona.",
+    "info":"<strong>Sant Pau Recinto  Modernista</a></strong><br/><br/><p>Tel.:  935&nbsp;537&nbsp;801</p><p><a  href=\"http://www.santpaubarcelona.org/\">www.santpaubarcelona.org</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.17568497,41.3772625 ]
+    },
+    "properties": {
+    "id":77,
+    "sitio":"Santa Mònica",
+    "direccion":"La Rambla, 7. 08002 Barcelona.",
+    "info":"<strong>Santa  Mònica</a></strong><br/><br/><p>Tel.:  935&nbsp;671&nbsp;110</p><p><a  href=\"https://artssantamonica.gencat.cat/ca/\">artssantamonica.gencat.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.080845827,41.35880289 ]
+    },
+    "properties": {
+    "id":78,
+    "sitio":"Torre de la Miranda de Cornellà de Llobregat",
+    "direccion":"Av. Salvador Allende, s/n. 08940 Cornellà de Llobregat.",
+    "info":"<strong>Torre de la  Miranda de Cornellà de Llobregat</a></strong><br/><br/><p>Tel.:  934&nbsp;745&nbsp;135</p><p><a  href=\"https://www.cornella.cat/ca/viure-a-cornella/cornella-humana/patrimoni-cultural\">www.cornella.cat/ca/viure-a-cornella/cornella-humana/patrimoni-cultural</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2122838,41.40609852 ]
+    },
+    "properties": {
+    "id":79,
+    "sitio":"Torre de les Aigües del Besòs",
+    "direccion":"Pl. Ramon Calsina, s/n. 08019 Barcelona.",
+    "info":"<strong>Torre de les  Aigües del Besòs</a></strong><br/><br/><p>Tel.:  935&nbsp;647&nbsp;703</p><p><a  href=\"http://torredelesaigues.cat/\">torredelesaigues.cat</a></p>  <br/><br/><br/><br/>"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.115031399,41.36705678 ]
+    },
+    "properties": {
+    "id":80,
+    "sitio":"TPK. Art i Pensament Contemporani",
+    "direccion":"Av. Josep Tarradellas, 44. 08901 L’Hospitalet de Llobregat (recinto  Centro de Arte Tecla Sala).",
+    "info":"<strong>TPK. Art i  Pensament Contemporani</a></strong><br/><br/><p>Tel.: 638  119 030</p><p><a  href=\"http://www.tpkonline.com/\">www.tpkonline.com</a></p>  <br/><br/><br/><br/>"
+    }
+  }
+]
+}
