@@ -2,1257 +2,1257 @@
   "data": [
     {
         "id": "1",
-        "Nombre": "ABAT OLIBA",
-        "Aprobación": "14/06/06",
-        "Biografía CAT": "(Besalú o Cornellà de Conflent 971-Cuixà, Conflent 1046). Abat benedictí, fou Comte de Berga i de Ripoll, bisbe de Vic i abat de Ripoll i de Cuixà"
+        "nom": "ABAT OLIBA",
+        "fecha": "14/06/06",
+        "biocat": "(Besalú o Cornellà de Conflent 971-Cuixà, Conflent 1046). Abat benedictí, fou Comte de Berga i de Ripoll, bisbe de Vic i abat de Ripoll i de Cuixà"
     },
     {
         "id": "2",
-        "Nombre": "ABRAHAM bar HIYYA",
-        "Aprobación": "20/06/13",
-        "Biografía CAT": "(Barcelona 1065/1070 - 1136). Matemàtic, astrònom i filòsof hebreu d'origen hispà."
+        "nom": "ABRAHAM bar HIYYA",
+        "fecha": "20/06/13",
+        "biocat": "(Barcelona 1065/1070 - 1136). Matemàtic, astrònom i filòsof hebreu d'origen hispà."
     },
     {
         "id": "3",
-        "Nombre": "ADAM SMITH",
-        "Aprobación": "20/11/07",
-        "Biografía CAT": "(Kirkcaldy, Escòcia 1723-Edimburg 1790). Economista i filòsof. Ajudà a la creació de l'economia com a disciplina acadèmica. Es considera el pare de l'economia moderna"
+        "nom": "ADAM SMITH",
+        "fecha": "20/11/07",
+        "biocat": "(Kirkcaldy, Escòcia 1723-Edimburg 1790). Economista i filòsof. Ajudà a la creació de l'economia com a disciplina acadèmica. Es considera el pare de l'economia moderna"
     },
     {
         "id": "4",
-        "Nombre": "ÀFRICA",
-        "Aprobación": "08/11/03",
-        "Biografía CAT": ""
+        "nom": "ÀFRICA",
+        "fecha": "08/11/03",
+        "biocat": ""
     },
     {
         "id": "5",
-        "Nombre": "ALBERT PÉREZ BARÓ",
-        "Aprobación": "03/06/02",
-        "Biografía CAT": "(Barcelona 1902-1989). Escriptor i cooperativista. Fou un dels fundadors del Partit Comunista"
+        "nom": "ALBERT PÉREZ BARÓ",
+        "fecha": "03/06/02",
+        "biocat": "(Barcelona 1902-1989). Escriptor i cooperativista. Fou un dels fundadors del Partit Comunista"
     },
     {
         "id": "6",
-        "Nombre": "ALEXANDRE DE RIQUER",
-        "Aprobación": "06/11/03",
-        "Biografía CAT": "(Calaf, Anoia 1856-Palma de Mallorca 1920). Fou un intel·lectual i polifacètic artista, una de les figures més importants del Modernisme."
+        "nom": "ALEXANDRE DE RIQUER",
+        "fecha": "06/11/03",
+        "biocat": "(Calaf, Anoia 1856-Palma de Mallorca 1920). Fou un intel·lectual i polifacètic artista, una de les figures més importants del Modernisme."
     },
     {
         "id": "7",
-        "Nombre": "ALFONS DAMIANS I MANTÉ",
-        "Aprobación": "04/03/99",
-        "Biografía CAT": "(Barcelona 1866-1944) Arxiver municipal. Va ser un dels principals creadors de l'Arxiu Històric de la ciutat."
+        "nom": "ALFONS DAMIANS I MANTÉ",
+        "fecha": "04/03/99",
+        "biocat": "(Barcelona 1866-1944) Arxiver municipal. Va ser un dels principals creadors de l'Arxiu Històric de la ciutat."
     },
     {
         "id": "8",
-        "Nombre": "ALT CAMP",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "ALT CAMP",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "9",
-        "Nombre": "ALT URGELL",
-        "Aprobación": "13/03/89",
-        "Biografía CAT": ""
+        "nom": "ALT URGELL",
+        "fecha": "13/03/89",
+        "biocat": ""
     },
     {
         "id": "10",
-        "Nombre": "AMBROSI CARRIÓN",
-        "Aprobación": "06/11/03",
-        "Biografía CAT": "(Barcelona 1888-Cornellà de Conflent 1973). Fou un dramaturg, novel·lista i poeta. Adaptà a l'escena catalana obres d'Èsquil, Goldoni, Shakespeare i Musset. És autor de l'obra \" El Comte Arnau\"."
+        "nom": "AMBROSI CARRIÓN",
+        "fecha": "06/11/03",
+        "biocat": "(Barcelona 1888-Cornellà de Conflent 1973). Fou un dramaturg, novel·lista i poeta. Adaptà a l'escena catalana obres d'Èsquil, Goldoni, Shakespeare i Musset. És autor de l'obra \" El Comte Arnau\"."
     },
     {
         "id": "11",
-        "Nombre": "ANDRÉS CALZADA ECHEVARRIA",
-        "Aprobación": "18/12/97",
-        "Biografía CAT": "(Barcelona 1892-Castelldefels 1938) Arquitecte i historiador. Fou Catedràtic d'Història de l'Art."
+        "nom": "ANDRÉS CALZADA ECHEVARRIA",
+        "fecha": "18/12/97",
+        "biocat": "(Barcelona 1892-Castelldefels 1938) Arquitecte i historiador. Fou Catedràtic d'Història de l'Art."
     },
     {
         "id": "12",
-        "Nombre": "ANNA MARIA JANER",
-        "Aprobación": "07/09/94",
-        "Biografía CAT": "(Cervera, Segarra 1800-Talarn, Pallars Jussà 1885. Fou una religiosa de molt renom. Va fundar la Congregació de Germanes de la Sagrada Família d'Urgell. Va ser beatificada el 2011"
+        "nom": "ANNA MARIA JANER",
+        "fecha": "07/09/94",
+        "biocat": "(Cervera, Segarra 1800-Talarn, Pallars Jussà 1885. Fou una religiosa de molt renom. Va fundar la Congregació de Germanes de la Sagrada Família d'Urgell. Va ser beatificada el 2011"
     },
     {
         "id": "13",
-        "Nombre": "ANNIE OAKLEY",
-        "Aprobación": "",
-        "Biografía CAT": "(North Star, Ohio 1860-Greenville, Ohio 1926). Fou una coneguda tiradora i es va convertir en la primera dona superestrella americana."
+        "nom": "ANNIE OAKLEY",
+        "fecha": "",
+        "biocat": "(North Star, Ohio 1860-Greenville, Ohio 1926). Fou una coneguda tiradora i es va convertir en la primera dona superestrella americana."
     },
     {
         "id": "14",
-        "Nombre": "ANTOINE GABRIEL SARTINE",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1729-Tarragona 1801). A París fou Conseller de Justícia i un dels principals jutges. Lluís XV el va nomenar lloctinent general de policia (1759-1771)."
+        "nom": "ANTOINE GABRIEL SARTINE",
+        "fecha": "",
+        "biocat": "(Barcelona 1729-Tarragona 1801). A París fou Conseller de Justícia i un dels principals jutges. Lluís XV el va nomenar lloctinent general de policia (1759-1771)."
     },
     {
         "id": "15",
-        "Nombre": "ANTOINE de SAINT EXUPÉRY",
-        "Aprobación": "12/03/09",
-        "Biografía CAT": "(Lió, França 1900 - mar Mediterràni a prop de Marsella 1944). Fou escriptor, poeta i aviador. L'obra que l'ha fet mé famós és \"Le Petit Prince\""
+        "nom": "ANTOINE de SAINT EXUPÉRY",
+        "fecha": "12/03/09",
+        "biocat": "(Lió, França 1900 - mar Mediterràni a prop de Marsella 1944). Fou escriptor, poeta i aviador. L'obra que l'ha fet mé famós és \"Le Petit Prince\""
     },
     {
         "id": "16",
-        "Nombre": "ANTONI MASSANA I BERTRAN",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1890-Raimat, Segrià 1966). Fou sacerdot Jesuita i un excel·lent compositor. Una de les seves obres més solemnes és \"Canigó\""
+        "nom": "ANTONI MASSANA I BERTRAN",
+        "fecha": "",
+        "biocat": "(Barcelona 1890-Raimat, Segrià 1966). Fou sacerdot Jesuita i un excel·lent compositor. Una de les seves obres més solemnes és \"Canigó\""
     },
     {
         "id": "17",
-        "Nombre": "ANTONIO ESCOBAR HUERTA",
-        "Aprobación": "20/07/16",
-        "Biografía CAT": "(Ceuta 1879-Barcelona 1940). Fou un General de la Guàrdia Civil destinat a Barcelona, afusellat pels franquistes el 8 de febrer 1940 per la seva lleialtat a la II República"
+        "nom": "ANTONIO ESCOBAR HUERTA",
+        "fecha": "20/07/16",
+        "biocat": "(Ceuta 1879-Barcelona 1940). Fou un General de la Guàrdia Civil destinat a Barcelona, afusellat pels franquistes el 8 de febrer 1940 per la seva lleialtat a la II República"
     },
     {
         "id": "18",
-        "Nombre": "ANTONIO RUIZ SOLER \"ANTONIO\"",
-        "Aprobación": "",
-        "Biografía CAT": "(Sevilla 1921-Madrid 1996) Va ser ballarí i coreògraf de dansa espanyola. Fou director del Ballet Nacional de España."
+        "nom": "ANTONIO RUIZ SOLER \"ANTONIO\"",
+        "fecha": "",
+        "biocat": "(Sevilla 1921-Madrid 1996) Va ser ballarí i coreògraf de dansa espanyola. Fou director del Ballet Nacional de España."
     },
     {
         "id": "19",
-        "Nombre": "ARTHUR YOUNG",
-        "Aprobación": "17/11/92",
-        "Biografía CAT": "(Suffolk, Anglaterra 1741-1820) Fou un escriptor i assagista de temàtica econòmica, estadística social i agricultura"
+        "nom": "ARTHUR YOUNG",
+        "fecha": "17/11/92",
+        "biocat": "(Suffolk, Anglaterra 1741-1820) Fou un escriptor i assagista de temàtica econòmica, estadística social i agricultura"
     },
     {
         "id": "20",
-        "Nombre": "ÀSIA",
-        "Aprobación": "06/11/05",
-        "Biografía CAT": ""
+        "nom": "ÀSIA",
+        "fecha": "06/11/05",
+        "biocat": ""
     },
     {
         "id": "21",
-        "Nombre": "AUSTRIA",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "AUSTRIA",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "22",
-        "Nombre": "ÀXEL ALEXAN ALÍAS",
-        "Aprobación": "",
-        "Biografía CAT": "(.... - 16-7-1999) Jardiner. Treballador de l'Ajuntament de Barcelona de Parcs i Jardins. Va pertanyer a diferents grups de dança."
+        "nom": "ÀXEL ALEXAN ALÍAS",
+        "fecha": "",
+        "biocat": "(.... - 16-7-1999) Jardiner. Treballador de l'Ajuntament de Barcelona de Parcs i Jardins. Va pertanyer a diferents grups de dança."
     },
     {
         "id": "23",
-        "Nombre": "BAIX EBRE",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "BAIX EBRE",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "24",
-        "Nombre": "BALDOMER LOSTAU i PRATS",
-        "Aprobación": "20/06/13",
-        "Biografía CAT": "(Barcelona 1846-1896) Polític d'idees republicanes i federalistes. Fou Diputat provincial de Barcelona (1869)."
+        "nom": "BALDOMER LOSTAU i PRATS",
+        "fecha": "20/06/13",
+        "biocat": "(Barcelona 1846-1896) Polític d'idees republicanes i federalistes. Fou Diputat provincial de Barcelona (1869)."
     },
     {
         "id": "25",
-        "Nombre": "BEAT MARCEL·LÍ CHAMPAGNAT",
-        "Aprobación": "12/03/98",
-        "Biografía CAT": "(Rosey, Marlhes, Loira 1789-Saint-Chamond, Loira 1840). Fou un prevere fundador de la Congregació dels Germans Maristes de les Escoles, dedicada a l'ensenyament. Va ser beatificat el 1955 i canonitzat el 1999."
+        "nom": "BEAT MARCEL·LÍ CHAMPAGNAT",
+        "fecha": "12/03/98",
+        "biocat": "(Rosey, Marlhes, Loira 1789-Saint-Chamond, Loira 1840). Fou un prevere fundador de la Congregació dels Germans Maristes de les Escoles, dedicada a l'ensenyament. Va ser beatificat el 1955 i canonitzat el 1999."
     },
     {
         "id": "26",
-        "Nombre": "BISBE MORGADES",
-        "Aprobación": "",
-        "Biografía CAT": "Vilafranca del Penedès, Alt Penedès 1826- Barcelona 1901). Fou un clergue i activista cultural, bisbe de Vic i de Barcelona."
+        "nom": "BISBE MORGADES",
+        "fecha": "",
+        "biocat": "Vilafranca del Penedès, Alt Penedès 1826- Barcelona 1901). Fou un clergue i activista cultural, bisbe de Vic i de Barcelona."
     },
     {
         "id": "27",
-        "Nombre": "CANÇÓ CATALANA/NOVA CANÇÓ",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "CANÇÓ CATALANA/NOVA CANÇÓ",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "28",
-        "Nombre": "CAPITAN TRUENO",
-        "Aprobación": "25/09/08",
-        "Biografía CAT": "Heroi de ficció de còmic."
+        "nom": "CAPITAN TRUENO",
+        "fecha": "25/09/08",
+        "biocat": "Heroi de ficció de còmic."
     },
     {
         "id": "29",
-        "Nombre": "CARLEMANY",
-        "Aprobación": "26/03/15",
-        "Biografía CAT": "(Prop de Lieja 742-Aquisgrà 814). Fou Rei dels francs i dels llombards i emperador d'Occident."
+        "nom": "CARLEMANY",
+        "fecha": "26/03/15",
+        "biocat": "(Prop de Lieja 742-Aquisgrà 814). Fou Rei dels francs i dels llombards i emperador d'Occident."
     },
     {
         "id": "30",
-        "Nombre": "CARLES MAGRINYÀ I SOLÉ",
-        "Aprobación": "22/10/98",
-        "Biografía CAT": "(Valls, Alt Camp 1885-Barcelona 1959). Fou un escriptor, pedagog i traductor. La darrera part de la seva vida la dedicà a l'ensenyament."
+        "nom": "CARLES MAGRINYÀ I SOLÉ",
+        "fecha": "22/10/98",
+        "biocat": "(Valls, Alt Camp 1885-Barcelona 1959). Fou un escriptor, pedagog i traductor. La darrera part de la seva vida la dedicà a l'ensenyament."
     },
     {
         "id": "31",
-        "Nombre": "CARLES RAHOLA I LLORENS",
-        "Aprobación": "29/01/14",
-        "Biografía CAT": "(Cadaqués 1881-Girona 1939). Fou periodista, historiador i polític. Va ser un dels intel·lectuals gironins i catalans de referència."
+        "nom": "CARLES RAHOLA I LLORENS",
+        "fecha": "29/01/14",
+        "biocat": "(Cadaqués 1881-Girona 1939). Fou periodista, historiador i polític. Va ser un dels intel·lectuals gironins i catalans de referència."
     },
     {
         "id": "32",
-        "Nombre": "CARLES SABATER",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1962 - Vilafranca del Penedès 1999). Cantant i actor. El 1986 formà, amb el Pep Sala, el conjunt de rock \"Sau\"."
+        "nom": "CARLES SABATER",
+        "fecha": "",
+        "biocat": "(Barcelona 1962 - Vilafranca del Penedès 1999). Cantant i actor. El 1986 formà, amb el Pep Sala, el conjunt de rock \"Sau\"."
     },
     {
         "id": "33",
-        "Nombre": "CARLOS PAU ESPAÑOL",
-        "Aprobación": "10/06/08",
-        "Biografía CAT": "(Segorbe, Castelló 1857-1937). Fou un botànic. Va estudiar farmàcia i fou un dels botànics més importants de la seva època."
+        "nom": "CARLOS PAU ESPAÑOL",
+        "fecha": "10/06/08",
+        "biocat": "(Segorbe, Castelló 1857-1937). Fou un botànic. Va estudiar farmàcia i fou un dels botànics més importants de la seva època."
     },
     {
         "id": "34",
-        "Nombre": "CASTO SENDRA I BARRUFET \"CASSEN\"",
-        "Aprobación": "",
-        "Biografía CAT": "(Tarragona 1928-Barcelona 1991). Fou un actor i humorista de teatre, cinema i televisió. Conegut amb el nom artísitc de \"Cassen\"."
+        "nom": "CASTO SENDRA I BARRUFET \"CASSEN\"",
+        "fecha": "",
+        "biocat": "(Tarragona 1928-Barcelona 1991). Fou un actor i humorista de teatre, cinema i televisió. Conegut amb el nom artísitc de \"Cassen\"."
     },
     {
         "id": "35",
-        "Nombre": "CERDANYA",
-        "Aprobación": "13/03/89",
-        "Biografía CAT": ""
+        "nom": "CERDANYA",
+        "fecha": "13/03/89",
+        "biocat": ""
     },
     {
         "id": "36",
-        "Nombre": "CINEMA",
-        "Aprobación": "04/12/96",
-        "Biografía CAT": ""
+        "nom": "CINEMA",
+        "fecha": "04/12/96",
+        "biocat": ""
     },
     {
         "id": "37",
-        "Nombre": "CIPRIANO GARCÍA SÁNCHEZ",
-        "Aprobación": "14/11/00",
-        "Biografía CAT": "(Manzanares de la Mancha, Ciudad Real 1927-Castelldefels 1995). Fou un sindicalista i polític. Conegut com el \"Cipri\""
+        "nom": "CIPRIANO GARCÍA SÁNCHEZ",
+        "fecha": "14/11/00",
+        "biocat": "(Manzanares de la Mancha, Ciudad Real 1927-Castelldefels 1995). Fou un sindicalista i polític. Conegut com el \"Cipri\""
     },
     {
         "id": "38",
-        "Nombre": "COMTE BERÀ",
-        "Aprobación": "",
-        "Biografía CAT": "(?- Rouen 844). Fou el primer Comte de Barcelona (801-820). També fou Comte de Girona i Besalú."
+        "nom": "COMTE BERÀ",
+        "fecha": "",
+        "biocat": "(?- Rouen 844). Fou el primer Comte de Barcelona (801-820). També fou Comte de Girona i Besalú."
     },
     {
         "id": "39",
-        "Nombre": "COMTES DE GODÓ",
-        "Aprobación": "",
-        "Biografía CAT": "Família d'industrials teixidors originària de Valldellou (sXVIII). Ja a Barcelona, al segle XIX es dedicaren a la indústria dels tints i dels filats. El 1881 i per sostenir el partit liberal, fundaren el diari \"La Vanguardia\" al qual donà un gran impuls R"
+        "nom": "COMTES DE GODÓ",
+        "fecha": "",
+        "biocat": "Família d'industrials teixidors originària de Valldellou (sXVIII). Ja a Barcelona, al segle XIX es dedicaren a la indústria dels tints i dels filats. El 1881 i per sostenir el partit liberal, fundaren el diari \"La Vanguardia\" al qual donà un gran impuls R"
     },
     {
         "id": "40",
-        "Nombre": "CONRAD ROURE i BOFILL",
-        "Aprobación": "20/06/13",
-        "Biografía CAT": "(Barcelona 1841-1928). Fou un dramaturg i periodista. Defensà la tendència cultural que s'oposava al català de la Renaixensa."
+        "nom": "CONRAD ROURE i BOFILL",
+        "fecha": "20/06/13",
+        "biocat": "(Barcelona 1841-1928). Fou un dramaturg i periodista. Defensà la tendència cultural que s'oposava al català de la Renaixensa."
     },
     {
         "id": "41",
-        "Nombre": "CORRIBIA",
-        "Aprobación": "",
-        "Biografía CAT": "Era un antic carrer del Barri gòtic (segle XV- 1953), que anava del carrer de la Tapineria i recorria l'exterior de la muralla fins a la Plaça Nova."
+        "nom": "CORRIBIA",
+        "fecha": "",
+        "biocat": "Era un antic carrer del Barri gòtic (segle XV- 1953), que anava del carrer de la Tapineria i recorria l'exterior de la muralla fins a la Plaça Nova."
     },
     {
         "id": "42",
-        "Nombre": "DAVID H. ROSENTHAL",
-        "Aprobación": "26/06/12",
-        "Biografía CAT": "(Nova York 1945-1992). Poeta, assagista i traductor jueu de grans escriptors catalans."
+        "nom": "DAVID H. ROSENTHAL",
+        "fecha": "26/06/12",
+        "biocat": "(Nova York 1945-1992). Poeta, assagista i traductor jueu de grans escriptors catalans."
     },
     {
         "id": "43",
-        "Nombre": "DIARI DE BARCELONA",
-        "Aprobación": "21/05/09",
-        "Biografía CAT": ""
+        "nom": "DIARI DE BARCELONA",
+        "fecha": "21/05/09",
+        "biocat": ""
     },
     {
         "id": "44",
-        "Nombre": "DINAMARCA",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "DINAMARCA",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "45",
-        "Nombre": "DOCTOR LLUIS VILA D'ABADAL",
-        "Aprobación": "10/06/08",
-        "Biografía CAT": "(Vic, Osona 1889-Barcelona 1937). Fou metge i polític. Fou un del fundadors del Diari de Vic , el 1930, i d'Unió Democràtica Catalana, el 1931. Va ser fundador del Sindicat de Metges de Catalunya."
+        "nom": "DOCTOR LLUIS VILA D'ABADAL",
+        "fecha": "10/06/08",
+        "biocat": "(Vic, Osona 1889-Barcelona 1937). Fou metge i polític. Fou un del fundadors del Diari de Vic , el 1930, i d'Unió Democràtica Catalana, el 1931. Va ser fundador del Sindicat de Metges de Catalunya."
     },
     {
         "id": "46",
-        "Nombre": "DOCTOR PERE CALAFELL I GIBERT",
-        "Aprobación": "10/06/08",
-        "Biografía CAT": "(Barcelona 1907-Banicàssim, la Plana Alta 1984). Fou metge especialitzat en pediatria. També es dedicà a la docència universitària."
+        "nom": "DOCTOR PERE CALAFELL I GIBERT",
+        "fecha": "10/06/08",
+        "biocat": "(Barcelona 1907-Banicàssim, la Plana Alta 1984). Fou metge especialitzat en pediatria. També es dedicà a la docència universitària."
     },
     {
         "id": "47",
-        "Nombre": "DOLORES IBÁRRURI GÓMEZ (La Passionària)",
-        "Aprobación": "",
-        "Biografía CAT": "(Gallarta, Biscaia 1895-Madrid 1989). Fou una dirigent obrera comunista basca. Va ser una de les fundadores del Partido Comunista de España."
+        "nom": "DOLORES IBÁRRURI GÓMEZ (La Passionària)",
+        "fecha": "",
+        "biocat": "(Gallarta, Biscaia 1895-Madrid 1989). Fou una dirigent obrera comunista basca. Va ser una de les fundadores del Partido Comunista de España."
     },
     {
         "id": "48",
-        "Nombre": "DOMÈNEC GUANSÉ I SALESES",
-        "Aprobación": "01/06/94",
-        "Biografía CAT": "(Tarragona 1894-Barcelona 1978). Fou periodista, novel·lista i traductor. Va ser molt actiu durant la República."
+        "nom": "DOMÈNEC GUANSÉ I SALESES",
+        "fecha": "01/06/94",
+        "biocat": "(Tarragona 1894-Barcelona 1978). Fou periodista, novel·lista i traductor. Va ser molt actiu durant la República."
     },
     {
         "id": "49",
-        "Nombre": "DOMÈNEC LATORRE I SOLER",
-        "Aprobación": "29/01/14",
-        "Biografía CAT": "(Barcelona 1893-1939). Fou polític i activista catalanista. Fou jutjat en un sumaríssime d'urgència i condemnat a mort, sota acusació d'independentista."
+        "nom": "DOMÈNEC LATORRE I SOLER",
+        "fecha": "29/01/14",
+        "biocat": "(Barcelona 1893-1939). Fou polític i activista catalanista. Fou jutjat en un sumaríssime d'urgència i condemnat a mort, sota acusació d'independentista."
     },
     {
         "id": "50",
-        "Nombre": "DONES D'EL",
-        "Aprobación": "10/06/08",
-        "Biografía CAT": ""
+        "nom": "DONES D'EL",
+        "fecha": "10/06/08",
+        "biocat": ""
     },
     {
         "id": "51",
-        "Nombre": "COGUL",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "COGUL",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "52",
-        "Nombre": "DONOSTIA",
-        "Aprobación": "18/12/97",
-        "Biografía CAT": ""
+        "nom": "DONOSTIA",
+        "fecha": "18/12/97",
+        "biocat": ""
     },
     {
         "id": "53",
-        "Nombre": "ÉCIJA",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "ÉCIJA",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "54",
-        "Nombre": "EL TÍBET",
-        "Aprobación": "21/05/09",
-        "Biografía CAT": ""
+        "nom": "EL TÍBET",
+        "fecha": "21/05/09",
+        "biocat": ""
     },
     {
         "id": "55",
-        "Nombre": "ELIO ANTONIO DE NEBRIJA",
-        "Aprobación": "",
-        "Biografía CAT": "(Lebrija, Sevilla 1442-Alcalá de Henares 1522). Fou un defensor de l'humanisme espanyol, autor de diverses obres sobre gramàtica i lexicografia."
+        "nom": "ELIO ANTONIO DE NEBRIJA",
+        "fecha": "",
+        "biocat": "(Lebrija, Sevilla 1442-Alcalá de Henares 1522). Fou un defensor de l'humanisme espanyol, autor de diverses obres sobre gramàtica i lexicografia."
     },
     {
         "id": "56",
-        "Nombre": "ÉMILE ZOLA",
-        "Aprobación": "",
-        "Biografía CAT": "(París 1840-1902). Escriptor, novel·lista, crític i periodista. És un dels escriptors francesos més important del segle XIX. Influenciat per les teories cintífiques, va crear un nou estil literari : el moviment naturalista Zola."
+        "nom": "ÉMILE ZOLA",
+        "fecha": "",
+        "biocat": "(París 1840-1902). Escriptor, novel·lista, crític i periodista. És un dels escriptors francesos més important del segle XIX. Influenciat per les teories cintífiques, va crear un nou estil literari : el moviment naturalista Zola."
     },
     {
         "id": "57",
-        "Nombre": "ENRIC BORRÀS I ORIOL",
-        "Aprobación": "",
-        "Biografía CAT": "(Badalona 1863-Barcelona 1957). Fou un actor de teatre. Considerat mític dins la seva generació."
+        "nom": "ENRIC BORRÀS I ORIOL",
+        "fecha": "",
+        "biocat": "(Badalona 1863-Barcelona 1957). Fou un actor de teatre. Considerat mític dins la seva generació."
     },
     {
         "id": "58",
-        "Nombre": "ENRIC GUITART I SOLDEVILA",
-        "Aprobación": "11/12/08",
-        "Biografía CAT": "(Barcelona 1863-1933). Fou un actori i director de teatre."
+        "nom": "ENRIC GUITART I SOLDEVILA",
+        "fecha": "11/12/08",
+        "biocat": "(Barcelona 1863-1933). Fou un actori i director de teatre."
     },
     {
         "id": "59",
-        "Nombre": "ENRIC MIRALLES i MOYA",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1955-Sant Feliu de Codines 2000). Fou arquitecte i professor universitari."
+        "nom": "ENRIC MIRALLES i MOYA",
+        "fecha": "",
+        "biocat": "(Barcelona 1955-Sant Feliu de Codines 2000). Fou arquitecte i professor universitari."
     },
     {
         "id": "60",
-        "Nombre": "ENRIC MOREU- REY",
-        "Aprobación": "26/10/05",
-        "Biografía CAT": "(Barcelona 1917-1992). Va ser filòleg i escriptor. Va funda la \"Societat d'Onomàstica\" el 1980"
+        "nom": "ENRIC MOREU- REY",
+        "fecha": "26/10/05",
+        "biocat": "(Barcelona 1917-1992). Va ser filòleg i escriptor. Va funda la \"Societat d'Onomàstica\" el 1980"
     },
     {
         "id": "61",
-        "Nombre": "ERNEST MOLINÉ I BRASÉS",
-        "Aprobación": "18/10/06",
-        "Biografía CAT": "(Barceona 1868 - 1940). Va ser advocat, historiador i redactor de la \"Veu de Catalunya\" (1891) i de \"La Reinaixença\" (1896)."
+        "nom": "ERNEST MOLINÉ I BRASÉS",
+        "fecha": "18/10/06",
+        "biocat": "(Barceona 1868 - 1940). Va ser advocat, historiador i redactor de la \"Veu de Catalunya\" (1891) i de \"La Reinaixença\" (1896)."
     },
     {
         "id": "62",
-        "Nombre": "ERNESTO GUEVARA DE LA SERNA (Che Guevara)",
-        "Aprobación": "25/09/08",
-        "Biografía CAT": "(Rosario, Argentina 1928-La Higuera, Bolívia 1967). Fou polític, guerriller escriptor i metge argentino-cubà. Coneguè Fidel Castro i s'uní als revolucionaris cubans."
+        "nom": "ERNESTO GUEVARA DE LA SERNA (Che Guevara)",
+        "fecha": "25/09/08",
+        "biocat": "(Rosario, Argentina 1928-La Higuera, Bolívia 1967). Fou polític, guerriller escriptor i metge argentino-cubà. Coneguè Fidel Castro i s'uní als revolucionaris cubans."
     },
     {
         "id": "63",
-        "Nombre": "ESPERANTO",
-        "Aprobación": "20/04/99",
-        "Biografía CAT": ""
+        "nom": "ESPERANTO",
+        "fecha": "20/04/99",
+        "biocat": ""
     },
     {
         "id": "64",
-        "Nombre": "ESTEVE FORTUNY I GUARO",
-        "Aprobación": "17/11/10",
-        "Biografía CAT": "(Barcelona 1954-1986). Va ser un músic català, guitarrista, compositor i cantant. Fou membre fundador del grup \"Companyia Elèctrica Dharma\""
+        "nom": "ESTEVE FORTUNY I GUARO",
+        "fecha": "17/11/10",
+        "biocat": "(Barcelona 1954-1986). Va ser un músic català, guitarrista, compositor i cantant. Fou membre fundador del grup \"Companyia Elèctrica Dharma\""
     },
     {
         "id": "65",
-        "Nombre": "ESTEVE PALUZIE I CANTALOZELLA",
-        "Aprobación": "20/11/07",
-        "Biografía CAT": "(Olot, Garrotxa 1806-Barcelona 1873). Va ser pedagog, paleògraf, historiador i editor. El 1849 obrí una Escola de Paleografia per al públic en general, a Barcelona."
+        "nom": "ESTEVE PALUZIE I CANTALOZELLA",
+        "fecha": "20/11/07",
+        "biocat": "(Olot, Garrotxa 1806-Barcelona 1873). Va ser pedagog, paleògraf, historiador i editor. El 1849 obrí una Escola de Paleografia per al públic en general, a Barcelona."
     },
     {
         "id": "66",
-        "Nombre": "EUGENI XAMMAR I PUIGVENTÓS",
-        "Aprobación": "21/11/12",
-        "Biografía CAT": "(Barcelona 1888-L'Ametlla del Vallès 1973). Va ser periodista, diplomàtic i traductor. Va ser corresponsal a Paris, Ginebra i Berlin."
+        "nom": "EUGENI XAMMAR I PUIGVENTÓS",
+        "fecha": "21/11/12",
+        "biocat": "(Barcelona 1888-L'Ametlla del Vallès 1973). Va ser periodista, diplomàtic i traductor. Va ser corresponsal a Paris, Ginebra i Berlin."
     },
     {
         "id": "67",
-        "Nombre": "FÈLIX MARTÍNEZ COMÍN",
-        "Aprobación": "17/11/09",
-        "Biografía CAT": "(Barcelona 1920-1995). Va estudiar piano i violí al Conservatori Municipal de Barcelona. Va ser compositor d'obres simfòniques per cobla i d'incomptables sardanes."
+        "nom": "FÈLIX MARTÍNEZ COMÍN",
+        "fecha": "17/11/09",
+        "biocat": "(Barcelona 1920-1995). Va estudiar piano i violí al Conservatori Municipal de Barcelona. Va ser compositor d'obres simfòniques per cobla i d'incomptables sardanes."
     },
     {
         "id": "68",
-        "Nombre": "FRANCESC PAGÈS I SERRATOSA",
-        "Aprobación": "14/02/07",
-        "Biografía CAT": "(Barcelona 1852-1899). Va ser escultor. Fou el representant de l'eclecticisme escultòric de la segona meitat del s. XIX."
+        "nom": "FRANCESC PAGÈS I SERRATOSA",
+        "fecha": "14/02/07",
+        "biocat": "(Barcelona 1852-1899). Va ser escultor. Fou el representant de l'eclecticisme escultòric de la segona meitat del s. XIX."
     },
     {
         "id": "69",
-        "Nombre": "FRANCESC VALLS I GALAN",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona ca. 1671-1747). Va ser un gran compositor barroc. Fou mestre de capella de Santa Maria del Mar i de la Catedral de Barcelona."
+        "nom": "FRANCESC VALLS I GALAN",
+        "fecha": "",
+        "biocat": "(Barcelona ca. 1671-1747). Va ser un gran compositor barroc. Fou mestre de capella de Santa Maria del Mar i de la Catedral de Barcelona."
     },
     {
         "id": "70",
-        "Nombre": "FRANCIS PICABIA",
-        "Aprobación": "10/06/96",
-        "Biografía CAT": "(Marsella 1879- París 1953). Fou sobretot pintor però també s'interessà pel grafisme, la poesia i l'escriptura. Va estar vinculat al cubisme, dadaisme i surrealisme."
+        "nom": "FRANCIS PICABIA",
+        "fecha": "10/06/96",
+        "biocat": "(Marsella 1879- París 1953). Fou sobretot pintor però també s'interessà pel grafisme, la poesia i l'escriptura. Va estar vinculat al cubisme, dadaisme i surrealisme."
     },
     {
         "id": "71",
-        "Nombre": "FRANCISCO SALZILLO",
-        "Aprobación": "",
-        "Biografía CAT": "(Múrcia 1707-1783). Fou un escultor barroc especialitzat en la producció d'imatgeria religiosa."
+        "nom": "FRANCISCO SALZILLO",
+        "fecha": "",
+        "biocat": "(Múrcia 1707-1783). Fou un escultor barroc especialitzat en la producció d'imatgeria religiosa."
     },
     {
         "id": "72",
-        "Nombre": "FRANJA DE PONENT",
-        "Aprobación": "19/01/11",
-        "Biografía CAT": ""
+        "nom": "FRANJA DE PONENT",
+        "fecha": "19/01/11",
+        "biocat": ""
     },
     {
         "id": "73",
-        "Nombre": "FREDDIE MERCURY (FARROCK BULSARA)",
-        "Aprobación": "90s",
-        "Biografía CAT": "(Stone Town, Zanzibar 1946-Londres 1991). Va ser músic, cantant i líder del grup de rock Queen."
+        "nom": "FREDDIE MERCURY (FARROCK BULSARA)",
+        "fecha": "90s",
+        "biocat": "(Stone Town, Zanzibar 1946-Londres 1991). Va ser músic, cantant i líder del grup de rock Queen."
     },
     {
         "id": "74",
-        "Nombre": "GABRIEL GARCÍA MÁRQUEZ",
-        "Aprobación": "22/06/21",
-        "Biografía CAT": "(Aracataca 1927 - Ciutat de Mèxic 2014). Va ser un escriptor colombià, especialitzat en novel·les, contes, guions i articles periodístics."
+        "nom": "GABRIEL GARCÍA MÁRQUEZ",
+        "fecha": "22/06/21",
+        "biocat": "(Aracataca 1927 - Ciutat de Mèxic 2014). Va ser un escriptor colombià, especialitzat en novel·les, contes, guions i articles periodístics."
     },
     {
         "id": "75",
-        "Nombre": "GENERAL JOSE DE SAN MARTÍN",
-        "Aprobación": "11/12/08",
-        "Biografía CAT": "(Yapeyú, Argentina 1778-Boulonge-sur-Mer, França 1850). Fou militar i polític. Les seves campanyes van ser decisives per a les independències de l'Argentina, Xile i Perú."
+        "nom": "GENERAL JOSE DE SAN MARTÍN",
+        "fecha": "11/12/08",
+        "biocat": "(Yapeyú, Argentina 1778-Boulonge-sur-Mer, França 1850). Fou militar i polític. Les seves campanyes van ser decisives per a les independències de l'Argentina, Xile i Perú."
     },
     {
         "id": "76",
-        "Nombre": "GEORGE LAWRENCE DAVIS",
-        "Aprobación": "06/03/13",
-        "Biografía CAT": "(Monmourth, Aglaterra 1830- Caldes de Montbui, Barcelona 1894). Va ser un missioner que va crear escoles i esglesies i va fundar hospitals i una imprempta."
+        "nom": "GEORGE LAWRENCE DAVIS",
+        "fecha": "06/03/13",
+        "biocat": "(Monmourth, Aglaterra 1830- Caldes de Montbui, Barcelona 1894). Va ser un missioner que va crear escoles i esglesies i va fundar hospitals i una imprempta."
     },
     {
         "id": "77",
-        "Nombre": "GERMÀ RAFAEL CESTER",
-        "Aprobación": "",
-        "Biografía CAT": "(?-Barcelona 1997). Va dedicar-se a l'educació de nens."
+        "nom": "GERMÀ RAFAEL CESTER",
+        "fecha": "",
+        "biocat": "(?-Barcelona 1997). Va dedicar-se a l'educació de nens."
     },
     {
         "id": "78",
-        "Nombre": "GERMANS BADIA",
-        "Aprobación": "17/11/92",
-        "Biografía CAT": "(Torregrossa, Pla d'Urgell 1903 i 1905 - Barcelona, 1836). Els germans Miquel i Josep foren dos polítics. Van tenir un paper important als fets del sis d'octubre de 1934. Foren assassinats per pistolers de la FAI, el 1936, com a represàlia oer la seva ant"
+        "nom": "GERMANS BADIA",
+        "fecha": "17/11/92",
+        "biocat": "(Torregrossa, Pla d'Urgell 1903 i 1905 - Barcelona, 1836). Els germans Miquel i Josep foren dos polítics. Van tenir un paper important als fets del sis d'octubre de 1934. Foren assassinats per pistolers de la FAI, el 1936, com a represàlia oer la seva ant"
     },
     {
         "id": "79",
-        "Nombre": "GERMANS WITTY",
-        "Aprobación": "16/05/00",
-        "Biografía CAT": "Arthur (Barcelona 1878-1969) Soci fundador del FC Barcelona. En fou jugador, capità i més tard president. Cofundador del Reial Club de Tennis i del Club de Golf de Pedralbes.Remer del Reial Club Marítim. President de l'Associació de Consignataris. Cofunda"
+        "nom": "GERMANS WITTY",
+        "fecha": "16/05/00",
+        "biocat": "Arthur (Barcelona 1878-1969) Soci fundador del FC Barcelona. En fou jugador, capità i més tard president. Cofundador del Reial Club de Tennis i del Club de Golf de Pedralbes.Remer del Reial Club Marítim. President de l'Associació de Consignataris. Cofunda"
     },
     {
         "id": "80",
-        "Nombre": "GRAHAM GREENE",
-        "Aprobación": "10/06/96",
-        "Biografía CAT": "(Berkhamstead, Hertfordshire 1904-Vevey, Suïssa 1991). Va ser un escriptor i dramaturg. També va treballar d'agent per l'MI6."
+        "nom": "GRAHAM GREENE",
+        "fecha": "10/06/96",
+        "biocat": "(Berkhamstead, Hertfordshire 1904-Vevey, Suïssa 1991). Va ser un escriptor i dramaturg. També va treballar d'agent per l'MI6."
     },
     {
         "id": "81",
-        "Nombre": "GREGORIO LOPEZ RAIMUNDO",
-        "Aprobación": "06/03/13",
-        "Biografía CAT": "(Tauste, Saragossa 1914-Barcelona 2007). Va ser un polític d'esquerres. Va ser secretari general i president del PSUC."
+        "nom": "GREGORIO LOPEZ RAIMUNDO",
+        "fecha": "06/03/13",
+        "biocat": "(Tauste, Saragossa 1914-Barcelona 2007). Va ser un polític d'esquerres. Va ser secretari general i president del PSUC."
     },
     {
         "id": "82",
-        "Nombre": "GUILLEM ROVIROSA i ALBET",
-        "Aprobación": "01/03/06",
-        "Biografía CAT": "(Vilanova i la Geltrú, Garraf 1897-Madrid 1964). Va ser un sindicalista, escriptor i propagandista catòlic."
+        "nom": "GUILLEM ROVIROSA i ALBET",
+        "fecha": "01/03/06",
+        "biocat": "(Vilanova i la Geltrú, Garraf 1897-Madrid 1964). Va ser un sindicalista, escriptor i propagandista catòlic."
     },
     {
         "id": "83",
-        "Nombre": "HASDAI CRESQUES",
-        "Aprobación": "20/06/13",
-        "Biografía CAT": "(Barcelona ca.1340 - 1410/1414). Va ser rabí a Barcelona i Saragossa i va escriure en català i en hebreu. Fou un reconegut filòsof i interpret de la llei jueva."
+        "nom": "HASDAI CRESQUES",
+        "fecha": "20/06/13",
+        "biocat": "(Barcelona ca.1340 - 1410/1414). Va ser rabí a Barcelona i Saragossa i va escriure en català i en hebreu. Fou un reconegut filòsof i interpret de la llei jueva."
     },
     {
         "id": "84",
-        "Nombre": "HERIBERT BARRERA I COSTA",
-        "Aprobación": "21/11/12",
-        "Biografía CAT": "(Barcelona 1917 - 2011). Va ser polític i químic. Membre d'Esquerra Republicana de Catalunya i primer president del restaurat Parlament de Catalunya (1980-1984)"
+        "nom": "HERIBERT BARRERA I COSTA",
+        "fecha": "21/11/12",
+        "biocat": "(Barcelona 1917 - 2011). Va ser polític i químic. Membre d'Esquerra Republicana de Catalunya i primer president del restaurat Parlament de Catalunya (1980-1984)"
     },
     {
         "id": "85",
-        "Nombre": "HERMENEGILD ARRUGA",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1886-1972). Va ser metge oftalmòleg i retinòleg."
+        "nom": "HERMENEGILD ARRUGA",
+        "fecha": "",
+        "biocat": "(Barcelona 1886-1972). Va ser metge oftalmòleg i retinòleg."
     },
     {
         "id": "86",
-        "Nombre": "HOMILIES D'ORGANYÀ",
-        "Aprobación": "01/06/94",
-        "Biografía CAT": "Primers escrits trobats en català (S XII)"
+        "nom": "HOMILIES D'ORGANYÀ",
+        "fecha": "01/06/94",
+        "biocat": "Primers escrits trobats en català (S XII)"
     },
     {
         "id": "87",
-        "Nombre": "JACQUES-YVES COUSTEAU",
-        "Aprobación": "20/06/13",
-        "Biografía CAT": "(Saint-André-de-Cubzac, Nova Aquitània 1910-Paris 1997). Va ser un oficial de la marina però també oceanògraf i cineasta. Va ser internacionalment conegut com el comandant del \"Calypso\"."
+        "nom": "JACQUES-YVES COUSTEAU",
+        "fecha": "20/06/13",
+        "biocat": "(Saint-André-de-Cubzac, Nova Aquitània 1910-Paris 1997). Va ser un oficial de la marina però també oceanògraf i cineasta. Va ser internacionalment conegut com el comandant del \"Calypso\"."
     },
     {
         "id": "88",
-        "Nombre": "JAMES CLERK MAXWELL",
-        "Aprobación": "",
-        "Biografía CAT": "(Edimburg 1831-Cambridge 1879). Va ser matemàtic i físic. Fou deixeble de Faraday."
+        "nom": "JAMES CLERK MAXWELL",
+        "fecha": "",
+        "biocat": "(Edimburg 1831-Cambridge 1879). Va ser matemàtic i físic. Fou deixeble de Faraday."
     },
     {
         "id": "89",
-        "Nombre": "JAUME MASSÓ I TORRENTS",
-        "Aprobación": "20/11/07",
-        "Biografía CAT": "(Barcelona 1863-1943). Fou editor, erudit i escriptor. Va fundar i dirigir la revista catalana \"l'Avenç\"."
+        "nom": "JAUME MASSÓ I TORRENTS",
+        "fecha": "20/11/07",
+        "biocat": "(Barcelona 1863-1943). Fou editor, erudit i escriptor. Va fundar i dirigir la revista catalana \"l'Avenç\"."
     },
     {
         "id": "90",
-        "Nombre": "JAUME VIDAL ALCOVER",
-        "Aprobación": "30/09/96",
-        "Biografía CAT": "(Manacor, Mallorca 1923-Barcelona 1991). Fou escriptor i filòleg. Autor d'una extensa obra poètica, narrativa i teatral."
+        "nom": "JAUME VIDAL ALCOVER",
+        "fecha": "30/09/96",
+        "biocat": "(Manacor, Mallorca 1923-Barcelona 1991). Fou escriptor i filòleg. Autor d'una extensa obra poètica, narrativa i teatral."
     },
     {
         "id": "91",
-        "Nombre": "JOAN ANTONI SAMARANCH I TORELLÓ",
-        "Aprobación": "21/11/12",
-        "Biografía CAT": "(Barcelona 1920-2010). Fou dirigent esportiu, polític i empresari. Va ser president del Comité Olímpic Internacional entre 1980 i 2001. La seva influència va ser clau per a que Barcelona fos seo olímpica l'any 1992."
+        "nom": "JOAN ANTONI SAMARANCH I TORELLÓ",
+        "fecha": "21/11/12",
+        "biocat": "(Barcelona 1920-2010). Fou dirigent esportiu, polític i empresari. Va ser president del Comité Olímpic Internacional entre 1980 i 2001. La seva influència va ser clau per a que Barcelona fos seo olímpica l'any 1992."
     },
     {
         "id": "92",
-        "Nombre": "JOAN BAPTISTA BASSET I RAMOS",
-        "Aprobación": "18/03/10",
-        "Biografía CAT": "(Alboraia, València 1654-Segòvia 1728). Va ser militar austriacista que encapçalà la revolta valenciana contra Felip V."
+        "nom": "JOAN BAPTISTA BASSET I RAMOS",
+        "fecha": "18/03/10",
+        "biocat": "(Alboraia, València 1654-Segòvia 1728). Va ser militar austriacista que encapçalà la revolta valenciana contra Felip V."
     },
     {
         "id": "93",
-        "Nombre": "JOAN BORREL I NICOLAU",
-        "Aprobación": "06/11/03",
-        "Biografía CAT": "(Barcelona 1888-1951). Va ser escultor. Va estudiar a la Llotja."
+        "nom": "JOAN BORREL I NICOLAU",
+        "fecha": "06/11/03",
+        "biocat": "(Barcelona 1888-1951). Va ser escultor. Va estudiar a la Llotja."
     },
     {
         "id": "94",
-        "Nombre": "JOAN DE LANUZA I D'OMS",
-        "Aprobación": "",
-        "Biografía CAT": "(? CA. 1636-1725). Fou un militar que partecipà en la Guerra de Successió."
+        "nom": "JOAN DE LANUZA I D'OMS",
+        "fecha": "",
+        "biocat": "(? CA. 1636-1725). Fou un militar que partecipà en la Guerra de Successió."
     },
     {
         "id": "95",
-        "Nombre": "JOAN GUAL TORRAS",
-        "Aprobación": "11/12/08",
-        "Biografía CAT": "(Barcelona 1918-1975). Va ser un baríton molt conegut per la seva potent veu."
+        "nom": "JOAN GUAL TORRAS",
+        "fecha": "11/12/08",
+        "biocat": "(Barcelona 1918-1975). Va ser un baríton molt conegut per la seva potent veu."
     },
     {
         "id": "96",
-        "Nombre": "JOAN JOSEP THARRATS",
-        "Aprobación": "",
-        "Biografía CAT": "(Girona 1918 - Barcelona 2001). Va ser pintor, teòric d'art i editor. Al principi impressionista, rebé una forta influència de Mondrian i Kandiski que derivaren el seu interès cap a l'art abstracte. Més tard, en conèixer Ponç, Cuixart, Tàpies, Brossa i al"
+        "nom": "JOAN JOSEP THARRATS",
+        "fecha": "",
+        "biocat": "(Girona 1918 - Barcelona 2001). Va ser pintor, teòric d'art i editor. Al principi impressionista, rebé una forta influència de Mondrian i Kandiski que derivaren el seu interès cap a l'art abstracte. Més tard, en conèixer Ponç, Cuixart, Tàpies, Brossa i al"
     },
     {
         "id": "97",
-        "Nombre": "JOAN PUIG I FERRETER",
-        "Aprobación": "10/06/96",
-        "Biografía CAT": "(La Selva del Camp, Baix Camp 1882- París, França, 1956). Va ser dramaturg, escriptor i polític.Fou membre Mebre del directori d' ERC (1882-1956)."
+        "nom": "JOAN PUIG I FERRETER",
+        "fecha": "10/06/96",
+        "biocat": "(La Selva del Camp, Baix Camp 1882- París, França, 1956). Va ser dramaturg, escriptor i polític.Fou membre Mebre del directori d' ERC (1882-1956)."
     },
     {
         "id": "98",
-        "Nombre": "JOAN SARDÀ I LLORET",
-        "Aprobación": "17/11/92",
-        "Biografía CAT": "(Sant Quintí de Mediona 1851-Barcelona 1898). Va ser traductor i crític literari."
+        "nom": "JOAN SARDÀ I LLORET",
+        "fecha": "17/11/92",
+        "biocat": "(Sant Quintí de Mediona 1851-Barcelona 1898). Va ser traductor i crític literari."
     },
     {
         "id": "99",
-        "Nombre": "JOAN TRIADÚ i FONT",
-        "Aprobación": "17/11/10",
-        "Biografía CAT": "(Ribes de Freser, Ripollès 1921 - Barcelona 2010). Va ser pedagog, escriptor i crític literari. Fou un activista cultural i resistent antifranquista."
+        "nom": "JOAN TRIADÚ i FONT",
+        "fecha": "17/11/10",
+        "biocat": "(Ribes de Freser, Ripollès 1921 - Barcelona 2010). Va ser pedagog, escriptor i crític literari. Fou un activista cultural i resistent antifranquista."
     },
     {
         "id": "100",
-        "Nombre": "JOAN VENTOSA CALVELL",
-        "Aprobación": "05/10/11",
-        "Biografía CAT": "(Barcelona 1879-Lausana 1959). Va ser jurista, polític i economista. El 1904 es convertí en el primer director d' \" El Poble Català\". Fou cofundador de la Lliga Regionalista juntament amb Francesc Cambó."
+        "nom": "JOAN VENTOSA CALVELL",
+        "fecha": "05/10/11",
+        "biocat": "(Barcelona 1879-Lausana 1959). Va ser jurista, polític i economista. El 1904 es convertí en el primer director d' \" El Poble Català\". Fou cofundador de la Lliga Regionalista juntament amb Francesc Cambó."
     },
     {
         "id": "101",
-        "Nombre": "JOAN VILADOMAT I MASSANA",
-        "Aprobación": "06/03/13",
-        "Biografía CAT": "(Manlleu, Osona 1885-Barcelona 1940). Va ser un músic i compositor molt vincular al Paral·lel."
+        "nom": "JOAN VILADOMAT I MASSANA",
+        "fecha": "06/03/13",
+        "biocat": "(Manlleu, Osona 1885-Barcelona 1940). Va ser un músic i compositor molt vincular al Paral·lel."
     },
     {
         "id": "102",
-        "Nombre": "JOAN- BAPTISTA ROCA I CABALL",
-        "Aprobación": "16/11/93",
-        "Biografía CAT": "(Barcelona 1898- 1976). Va ser advocat i polític. Fundador d'UDC (1931)."
+        "nom": "JOAN- BAPTISTA ROCA I CABALL",
+        "fecha": "16/11/93",
+        "biocat": "(Barcelona 1898- 1976). Va ser advocat i polític. Fundador d'UDC (1931)."
     },
     {
         "id": "103",
-        "Nombre": "JOAN- BAPTISTA XURIGUERA",
-        "Aprobación": "",
-        "Biografía CAT": "(Menàrguens, Lleida 1908- Barcelona 1987). Va ser escriptor, traductor i filòleg. Gramàtic, escriptor i periodista. Va treballar a l'Ajuntament com a ordenador del Museu d'Història."
+        "nom": "JOAN- BAPTISTA XURIGUERA",
+        "fecha": "",
+        "biocat": "(Menàrguens, Lleida 1908- Barcelona 1987). Va ser escriptor, traductor i filòleg. Gramàtic, escriptor i periodista. Va treballar a l'Ajuntament com a ordenador del Museu d'Història."
     },
     {
         "id": "104",
-        "Nombre": "JOAQUIM AMAT- PINIELLA",
-        "Aprobación": "29/01/14",
-        "Biografía CAT": "(Manresa, Bages 1913-l'Hospitalet de Llobregat, Barcelona 1974). Va ser escriptor i polític. Fou supervivent del camp de concentració de Mauthausen."
+        "nom": "JOAQUIM AMAT- PINIELLA",
+        "fecha": "29/01/14",
+        "biocat": "(Manresa, Bages 1913-l'Hospitalet de Llobregat, Barcelona 1974). Va ser escriptor i polític. Fou supervivent del camp de concentració de Mauthausen."
     },
     {
         "id": "105",
-        "Nombre": "JOAQUIM XICOY I BASSEGODA",
-        "Aprobación": "17/10/13",
-        "Biografía CAT": "(Barcelona 1925 - 2006). Va ser advocat i polític. Fou membre de la junta de govern del Col·legi d'Advocats de Catalunya (1954- 58) i membre d'Òmnium Cultural i de la Fundació Congrés de Cultura Catalana. Va ser President del Parlament de Catalunya (1988-9"
+        "nom": "JOAQUIM XICOY I BASSEGODA",
+        "fecha": "17/10/13",
+        "biocat": "(Barcelona 1925 - 2006). Va ser advocat i polític. Fou membre de la junta de govern del Col·legi d'Advocats de Catalunya (1954- 58) i membre d'Òmnium Cultural i de la Fundació Congrés de Cultura Catalana. Va ser President del Parlament de Catalunya (1988-9"
     },
     {
         "id": "106",
-        "Nombre": "JOAQUÍN RODRIGO VIDRE",
-        "Aprobación": "",
-        "Biografía CAT": "(Sagunt, València 1902-Madrid 1999). Va ser compositor i músic. La seva producció és una síntesi de l'estil galant dels sXVIII i de l'art musical tradicional. La seva obra més internacional resta \"El concierto de Aranjuez\"."
+        "nom": "JOAQUÍN RODRIGO VIDRE",
+        "fecha": "",
+        "biocat": "(Sagunt, València 1902-Madrid 1999). Va ser compositor i músic. La seva producció és una síntesi de l'estil galant dels sXVIII i de l'art musical tradicional. La seva obra més internacional resta \"El concierto de Aranjuez\"."
     },
     {
         "id": "107",
-        "Nombre": "JORDI FOLCH I PI",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1911-Boston, Massachusetts 1979). Va ser metge i bioquímic. Es va dedicar gran part de la seva vida a la investigació de la neuroquímica."
+        "nom": "JORDI FOLCH I PI",
+        "fecha": "",
+        "biocat": "(Barcelona 1911-Boston, Massachusetts 1979). Va ser metge i bioquímic. Es va dedicar gran part de la seva vida a la investigació de la neuroquímica."
     },
     {
         "id": "108",
-        "Nombre": "JORDI SOLÉ TURA",
-        "Aprobación": "26/06/12",
-        "Biografía CAT": "(Mollet del Vallès, Vallès Oriental 1930- Barcelona 2009). Va ser advocat, polític i professor universitari. Fou un dels ponents encarregats d'elaborar la Constitució Espanyola."
+        "nom": "JORDI SOLÉ TURA",
+        "fecha": "26/06/12",
+        "biocat": "(Mollet del Vallès, Vallès Oriental 1930- Barcelona 2009). Va ser advocat, polític i professor universitari. Fou un dels ponents encarregats d'elaborar la Constitució Espanyola."
     },
     {
         "id": "109",
-        "Nombre": "JORGE LUIS BORGES",
-        "Aprobación": "",
-        "Biografía CAT": "(Buenos Aires, Argentina 1899 - Ginebra, Suïssa 1986). Va ser un dels escriptors més destacats de la seva generació."
+        "nom": "JORGE LUIS BORGES",
+        "fecha": "",
+        "biocat": "(Buenos Aires, Argentina 1899 - Ginebra, Suïssa 1986). Va ser un dels escriptors més destacats de la seva generació."
     },
     {
         "id": "110",
-        "Nombre": "JOSÉ ARANGUREN ROLDÁN",
-        "Aprobación": "17/09/94",
-        "Biografía CAT": "(Ferrol, La Corunya 1875-Barcelona, 1939). Va ser general de la Guàrdia Civil. Fou afusellat per mantenir-se fidel a la República."
+        "nom": "JOSÉ ARANGUREN ROLDÁN",
+        "fecha": "17/09/94",
+        "biocat": "(Ferrol, La Corunya 1875-Barcelona, 1939). Va ser general de la Guàrdia Civil. Fou afusellat per mantenir-se fidel a la República."
     },
     {
         "id": "111",
-        "Nombre": "JOSE LUIS ARRIBAS CASTRO",
-        "Aprobación": "01/12/06",
-        "Biografía CAT": "(Barcelona 1934-2006). Va ser locutor radiofònic. Conegut popularment com \"Don Pollo\""
+        "nom": "JOSE LUIS ARRIBAS CASTRO",
+        "fecha": "01/12/06",
+        "biocat": "(Barcelona 1934-2006). Va ser locutor radiofònic. Conegut popularment com \"Don Pollo\""
     },
     {
         "id": "112",
-        "Nombre": "JOSÉ ORTEGA Y GASSET",
-        "Aprobación": "",
-        "Biografía CAT": "(Madrid 1883-1955). Va ser assagista i filòsof. Tractà la problemàtica político-social a la seva obra més difosa: \"La rebelión de las masas\"."
+        "nom": "JOSÉ ORTEGA Y GASSET",
+        "fecha": "",
+        "biocat": "(Madrid 1883-1955). Va ser assagista i filòsof. Tractà la problemàtica político-social a la seva obra més difosa: \"La rebelión de las masas\"."
     },
     {
         "id": "113",
-        "Nombre": "JOSÉ PÉREZ DEL RIO",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1909-Sant Pere de Vilamajor 1994). Va ser científic. Fou Doctor en Ciencies del Mar."
+        "nom": "JOSÉ PÉREZ DEL RIO",
+        "fecha": "",
+        "biocat": "(Barcelona 1909-Sant Pere de Vilamajor 1994). Va ser científic. Fou Doctor en Ciencies del Mar."
     },
     {
         "id": "114",
-        "Nombre": "JOSE SEGRELLES I ALBERT",
-        "Aprobación": "26/10/05",
-        "Biografía CAT": "(Albaida, València 1885-1969). Va ser pintor, il·lustrador i cartellista. Medalla d'Or a l'Exposició Internacional de Barcelona de 1929."
+        "nom": "JOSE SEGRELLES I ALBERT",
+        "fecha": "26/10/05",
+        "biocat": "(Albaida, València 1885-1969). Va ser pintor, il·lustrador i cartellista. Medalla d'Or a l'Exposició Internacional de Barcelona de 1929."
     },
     {
         "id": "115",
-        "Nombre": "JOSEP CONANGLA I FONTANILLA",
-        "Aprobación": "26/10/05",
-        "Biografía CAT": "(Montblanc, Conca de Barberà 1875- l'Havana, Cuba 1965). Va ser polític i assagista. L'any 1928 redactà una constitució provisional de la República Catalana. El 1932 fou nomenat delegat per a Cuba i Amèrica Central per la Generalitat de Catalunya."
+        "nom": "JOSEP CONANGLA I FONTANILLA",
+        "fecha": "26/10/05",
+        "biocat": "(Montblanc, Conca de Barberà 1875- l'Havana, Cuba 1965). Va ser polític i assagista. L'any 1928 redactà una constitució provisional de la República Catalana. El 1932 fou nomenat delegat per a Cuba i Amèrica Central per la Generalitat de Catalunya."
     },
     {
         "id": "116",
-        "Nombre": "JOSEP DE TOGORES I LLACH",
-        "Aprobación": "",
-        "Biografía CAT": "(Cerdanyola del Vallès 1893-Barcelona 1970). Va ser pintor. L'any 1907 va anar a Paris on entrà en contacte amb l'obra de Cézanne. Va veure's influenciat per diferents estils al llarg de la seva vida."
+        "nom": "JOSEP DE TOGORES I LLACH",
+        "fecha": "",
+        "biocat": "(Cerdanyola del Vallès 1893-Barcelona 1970). Va ser pintor. L'any 1907 va anar a Paris on entrà en contacte amb l'obra de Cézanne. Va veure's influenciat per diferents estils al llarg de la seva vida."
     },
     {
         "id": "117",
-        "Nombre": "JOSEP GUINOVART",
-        "Aprobación": "08/11/16",
-        "Biografía CAT": "(Barcelona 1927-2007). Va ser pintor, dibuixant i gravador. És considerat un dels màxims representants de l'informalisme de la segona meitat del segle XX."
+        "nom": "JOSEP GUINOVART",
+        "fecha": "08/11/16",
+        "biocat": "(Barcelona 1927-2007). Va ser pintor, dibuixant i gravador. És considerat un dels màxims representants de l'informalisme de la segona meitat del segle XX."
     },
     {
         "id": "118",
-        "Nombre": "JOSEP MARIA CAPDEVILA",
-        "Aprobación": "16/11/93",
-        "Biografía CAT": "(Olot, Garrotxa 1892- Banyoles, Pla de l'Estany 1972). Va ser escriptor i filosof. Fou un dels fundadors de la Societat Catalana de Filosofia."
+        "nom": "JOSEP MARIA CAPDEVILA",
+        "fecha": "16/11/93",
+        "biocat": "(Olot, Garrotxa 1892- Banyoles, Pla de l'Estany 1972). Va ser escriptor i filosof. Fou un dels fundadors de la Societat Catalana de Filosofia."
     },
     {
         "id": "119",
-        "Nombre": "JOSEP MARIA SUBIRACHS I SITJAR",
-        "Aprobación": "07/05/14",
-        "Biografía CAT": "(Barcelona 1927 -2014). Fou pintor, escultor, gravador, escenògraf i crític d'art. Destacà especialment en l'escultura. Des de 1987 es dedicà bàsicament a dissenyar i esculpir la Façana de la Passió del Temple Expiatori de la Sagrada Família de Barcelona."
+        "nom": "JOSEP MARIA SUBIRACHS I SITJAR",
+        "fecha": "07/05/14",
+        "biocat": "(Barcelona 1927 -2014). Fou pintor, escultor, gravador, escenògraf i crític d'art. Destacà especialment en l'escultura. Des de 1987 es dedicà bàsicament a dissenyar i esculpir la Façana de la Passió del Temple Expiatori de la Sagrada Família de Barcelona."
     },
     {
         "id": "120",
-        "Nombre": "JOSEP MESTRES I CABANES",
-        "Aprobación": "",
-        "Biografía CAT": "(Manresa, Bages 1898- Barcelona 1990). Fou escenògraf i pintor. Realitzà els decorats per a diverses obres per al Teatre del Liceu."
+        "nom": "JOSEP MESTRES I CABANES",
+        "fecha": "",
+        "biocat": "(Manresa, Bages 1898- Barcelona 1990). Fou escenògraf i pintor. Realitzà els decorats per a diverses obres per al Teatre del Liceu."
     },
     {
         "id": "121",
-        "Nombre": "JOSEP PONS I MOGAS",
-        "Aprobación": "19/01/11",
-        "Biografía CAT": "(Barcelona 1944-2010). Fou lluitador veïnal del barri de la Bordeta, on va nèixer. Fou activista social i líder veïnal compromès amb el barri durant la dictadura, la transiciói la democràcia."
+        "nom": "JOSEP PONS I MOGAS",
+        "fecha": "19/01/11",
+        "biocat": "(Barcelona 1944-2010). Fou lluitador veïnal del barri de la Bordeta, on va nèixer. Fou activista social i líder veïnal compromès amb el barri durant la dictadura, la transiciói la democràcia."
     },
     {
         "id": "122",
-        "Nombre": "JOSEP ROCAROL",
-        "Aprobación": "20/04/99",
-        "Biografía CAT": "(Barcelona 1882-1961). Va ser pintor i escenògraf. El juliol de 1936 evità, amb la seva actuació, la crema i destrucció del Monestir de Pedralbes i dels seus tresors artístics"
+        "nom": "JOSEP ROCAROL",
+        "fecha": "20/04/99",
+        "biocat": "(Barcelona 1882-1961). Va ser pintor i escenògraf. El juliol de 1936 evità, amb la seva actuació, la crema i destrucció del Monestir de Pedralbes i dels seus tresors artístics"
     },
     {
         "id": "123",
-        "Nombre": "JOSEP SANTA-MARIA I GELBERT",
-        "Aprobación": "18/03/10",
-        "Biografía CAT": "(Tolosa de Llenguadoc 1812-Barcelona 1867). Fou polític. Va ser alcalde de Barcelona (1858-1863)."
+        "nom": "JOSEP SANTA-MARIA I GELBERT",
+        "fecha": "18/03/10",
+        "biocat": "(Tolosa de Llenguadoc 1812-Barcelona 1867). Fou polític. Va ser alcalde de Barcelona (1858-1863)."
     },
     {
         "id": "124",
-        "Nombre": "JOSEP SERRA ESTRUCH",
-        "Aprobación": "",
-        "Biografía CAT": "(Bràfim, Alt Camp 1921-Barcelona 1997). Va ser escriptor, especialista en mitjans de comunicació. Va fundar l'any 1970 l'Escola EMAV, primera escola professional de mitjans audiovisuals a tot l'Estat."
+        "nom": "JOSEP SERRA ESTRUCH",
+        "fecha": "",
+        "biocat": "(Bràfim, Alt Camp 1921-Barcelona 1997). Va ser escriptor, especialista en mitjans de comunicació. Va fundar l'any 1970 l'Escola EMAV, primera escola professional de mitjans audiovisuals a tot l'Estat."
     },
     {
         "id": "125",
-        "Nombre": "JUAN REBULL I TORROJA",
-        "Aprobación": "14/02/07",
-        "Biografía CAT": "(Reus, Baix Camp 1899-Barcelona 1981). Va ser escultor, considerat un dels més importants del segle XX a Catalunya. Treballà amb el marbrista Bechini i estudià a Llotja. Pensionat pel Centre Artístic el 1921, viatjà a Londres i Paris."
+        "nom": "JUAN REBULL I TORROJA",
+        "fecha": "14/02/07",
+        "biocat": "(Reus, Baix Camp 1899-Barcelona 1981). Va ser escultor, considerat un dels més importants del segle XX a Catalunya. Treballà amb el marbrista Bechini i estudià a Llotja. Pensionat pel Centre Artístic el 1921, viatjà a Londres i Paris."
     },
     {
         "id": "126",
-        "Nombre": "JULI GARRETA I ARBOIX",
-        "Aprobación": "",
-        "Biografía CAT": "(Sant Feliu de Guíxols, Baix Empordà 1875- 1925). Va ser un dels compositor sardanistes més eminents. Transformà la sardana en una forma apta per a concert i contribuí que fos coneguda internacionalment."
+        "nom": "JULI GARRETA I ARBOIX",
+        "fecha": "",
+        "biocat": "(Sant Feliu de Guíxols, Baix Empordà 1875- 1925). Va ser un dels compositor sardanistes més eminents. Transformà la sardana en una forma apta per a concert i contribuí que fos coneguda internacionalment."
     },
     {
         "id": "127",
-        "Nombre": "JULIO CORTÁZAR",
-        "Aprobación": "",
-        "Biografía CAT": "(Ixelles, Brusel·les 1914-París 1984). Va ser narrador i traductor. Visqué molts anys a París on fou traductor de la UNESCO i allí obtingué la nacionalitat francesa. La seva obra es caracteritza per la cerca d'un llenguatge propi amb un humor subtil i des"
+        "nom": "JULIO CORTÁZAR",
+        "fecha": "",
+        "biocat": "(Ixelles, Brusel·les 1914-París 1984). Va ser narrador i traductor. Visqué molts anys a París on fou traductor de la UNESCO i allí obtingué la nacionalitat francesa. La seva obra es caracteritza per la cerca d'un llenguatge propi amb un humor subtil i des"
     },
     {
         "id": "128",
-        "Nombre": "LA BARRETINA",
-        "Aprobación": "21/05/09",
-        "Biografía CAT": "Lligadura tradicional catalana de llana (barret)"
+        "nom": "LA BARRETINA",
+        "fecha": "21/05/09",
+        "biocat": "Lligadura tradicional catalana de llana (barret)"
     },
     {
         "id": "129",
-        "Nombre": "LA RIOJA",
-        "Aprobación": "22/10/98",
-        "Biografía CAT": ""
+        "nom": "LA RIOJA",
+        "fecha": "22/10/98",
+        "biocat": ""
     },
     {
         "id": "130",
-        "Nombre": "LLANO DE LA ENCOMIENDA",
-        "Aprobación": "29/11/94",
-        "Biografía CAT": "(Ceuta, 1880 -Ciutat de Mèxic 1963). Fou un militar que va aconseguir el grau de Capità General. Durant la guerra civil espanyola es va mantenir lleial a la Segona República."
+        "nom": "LLANO DE LA ENCOMIENDA",
+        "fecha": "29/11/94",
+        "biocat": "(Ceuta, 1880 -Ciutat de Mèxic 1963). Fou un militar que va aconseguir el grau de Capità General. Durant la guerra civil espanyola es va mantenir lleial a la Segona República."
     },
     {
         "id": "131",
-        "Nombre": "LLUIS CARULLA I CANALS",
-        "Aprobación": "12/03/09",
-        "Biografía CAT": "(Espluga de Francolí, Conca de Barberà 1904-Barcelona 1990). Va ser un industrial, empresari i mecenes. Va fundar l'empresa \"Gallina Blanca\"."
+        "nom": "LLUIS CARULLA I CANALS",
+        "fecha": "12/03/09",
+        "biocat": "(Espluga de Francolí, Conca de Barberà 1904-Barcelona 1990). Va ser un industrial, empresari i mecenes. Va fundar l'empresa \"Gallina Blanca\"."
     },
     {
         "id": "132",
-        "Nombre": "LLUÍS MARIA XIRINACS",
-        "Aprobación": "26/06/12",
-        "Biografía CAT": "(Barcelona 1931-Ogassa, Ripollès 2007). Va ser un polític pacifista, doctor en filosofia, sacerdot i autor català. Va intervenir a la caputxinada a finals dels 60. Fou impulsor de l'Assamblea de Catalunya i promotor de la Marxa de la Llibertat."
+        "nom": "LLUÍS MARIA XIRINACS",
+        "fecha": "26/06/12",
+        "biocat": "(Barcelona 1931-Ogassa, Ripollès 2007). Va ser un polític pacifista, doctor en filosofia, sacerdot i autor català. Va intervenir a la caputxinada a finals dels 60. Fou impulsor de l'Assamblea de Catalunya i promotor de la Marxa de la Llibertat."
     },
     {
         "id": "133",
-        "Nombre": "LLUÏSA CASAGEMAS I COLL",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona ca. 1873-Madrid 1942?). Va ser compositora. Va ser la primera dona que va compondre una òpera a Catalunya."
+        "nom": "LLUÏSA CASAGEMAS I COLL",
+        "fecha": "",
+        "biocat": "(Barcelona ca. 1873-Madrid 1942?). Va ser compositora. Va ser la primera dona que va compondre una òpera a Catalunya."
     },
     {
         "id": "134",
-        "Nombre": "LUXEMBURG",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "LUXEMBURG",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "135",
-        "Nombre": "LYON",
-        "Aprobación": "19/11/98",
-        "Biografía CAT": ""
+        "nom": "LYON",
+        "fecha": "19/11/98",
+        "biocat": ""
     },
     {
         "id": "136",
-        "Nombre": "MAELLA",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "MAELLA",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "137",
-        "Nombre": "MANOLO HUGUÉ",
-        "Aprobación": "14/02/07",
-        "Biografía CAT": "(Barcelona 1872 - Caldes de Montbui, Vallès Oriental 1945). Va ser un artista noucentista polifacètic que rebé influències avantguardistes. Destacà sobretot com a escultor, pintor i dissenyador de joies."
+        "nom": "MANOLO HUGUÉ",
+        "fecha": "14/02/07",
+        "biocat": "(Barcelona 1872 - Caldes de Montbui, Vallès Oriental 1945). Va ser un artista noucentista polifacètic que rebé influències avantguardistes. Destacà sobretot com a escultor, pintor i dissenyador de joies."
     },
     {
         "id": "138",
-        "Nombre": "MANUEL IBAÑEZ ESCOFET",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1917-1990). Va ser periodista. Va ser director adjunt del diari \"La Vanguardia\". Fou assessor en matèries informatives, de Josep Tarradelles i Jordi Pujol."
+        "nom": "MANUEL IBAÑEZ ESCOFET",
+        "fecha": "",
+        "biocat": "(Barcelona 1917-1990). Va ser periodista. Va ser director adjunt del diari \"La Vanguardia\". Fou assessor en matèries informatives, de Josep Tarradelles i Jordi Pujol."
     },
     {
         "id": "139",
-        "Nombre": "MARIANO DE LA CRUZ",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1921-1999). Va ser psiquiatra i cronista taurí."
+        "nom": "MARIANO DE LA CRUZ",
+        "fecha": "",
+        "biocat": "(Barcelona 1921-1999). Va ser psiquiatra i cronista taurí."
     },
     {
         "id": "140",
-        "Nombre": "MARISCAL SUCRE",
-        "Aprobación": "04/12/95",
-        "Biografía CAT": "(Cumaná, Veneçuela 1795 - Serra de Berruecos, Colòmbia 1830). Va ser militar i polític. Va ser lloctinent de Simón Bolívar."
+        "nom": "MARISCAL SUCRE",
+        "fecha": "04/12/95",
+        "biocat": "(Cumaná, Veneçuela 1795 - Serra de Berruecos, Colòmbia 1830). Va ser militar i polític. Va ser lloctinent de Simón Bolívar."
     },
     {
         "id": "141",
-        "Nombre": "MIGUEL ANGEL ASTURIAS",
-        "Aprobación": "",
-        "Biografía CAT": "(Guatemala 1899 - Madrid 1974). Fou diplomàtic i escriptor. Basà la seva obra narrativa i poètica en les tradicions maïes. Va ser Nobel de Literatura l'any 1967."
+        "nom": "MIGUEL ANGEL ASTURIAS",
+        "fecha": "",
+        "biocat": "(Guatemala 1899 - Madrid 1974). Fou diplomàtic i escriptor. Basà la seva obra narrativa i poètica en les tradicions maïes. Va ser Nobel de Literatura l'any 1967."
     },
     {
         "id": "142",
-        "Nombre": "MIQUEL LLOBET I SOLÉS",
-        "Aprobación": "20/11/07",
-        "Biografía CAT": "(Barcelona 1875-1938). Va ser compositor i guitarrista. Fou un dels màxims exponents de la guitarra catalana."
+        "nom": "MIQUEL LLOBET I SOLÉS",
+        "fecha": "20/11/07",
+        "biocat": "(Barcelona 1875-1938). Va ser compositor i guitarrista. Fou un dels màxims exponents de la guitarra catalana."
     },
     {
         "id": "143",
-        "Nombre": "MIQUEL LLOR I FORCADA",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1894 - 1966). Va ser un gran narrador i novel·lista. La seva obra s'inscriu dins el corrent psicològic. Destaca la seva gran novel·la \"Laura a la ciutat dels sants\" (1931)"
+        "nom": "MIQUEL LLOR I FORCADA",
+        "fecha": "",
+        "biocat": "(Barcelona 1894 - 1966). Va ser un gran narrador i novel·lista. La seva obra s'inscriu dins el corrent psicològic. Destaca la seva gran novel·la \"Laura a la ciutat dels sants\" (1931)"
     },
     {
         "id": "144",
-        "Nombre": "MIQUEL PORTER MOIX",
-        "Aprobación": "18/10/06",
-        "Biografía CAT": "(Barcelona 1930- Altafulla, Tarragonès 2004). Va ser historiador, crític cinematogràfic i divulgador de cinema. Va imulsar la història del cinema català. Dirigí la secció cinematogràfica de l'Institut del Teatre de Barcelona (1975-77) i fou cap del Serve"
+        "nom": "MIQUEL PORTER MOIX",
+        "fecha": "18/10/06",
+        "biocat": "(Barcelona 1930- Altafulla, Tarragonès 2004). Va ser historiador, crític cinematogràfic i divulgador de cinema. Va imulsar la història del cinema català. Dirigí la secció cinematogràfica de l'Institut del Teatre de Barcelona (1975-77) i fou cap del Serve"
     },
     {
         "id": "145",
-        "Nombre": "MIQUEL SOLDEVILA i VALLS",
-        "Aprobación": "01/03/06",
-        "Biografía CAT": "(Sant Andreu del Palomar 1886-Barcelona 1956). Va ser pintor, dibuixant i esmaltador.Va estudiar a l'Escola de Belles Arts de Llotja on fou deixeble de Torrescassana."
+        "nom": "MIQUEL SOLDEVILA i VALLS",
+        "fecha": "01/03/06",
+        "biocat": "(Sant Andreu del Palomar 1886-Barcelona 1956). Va ser pintor, dibuixant i esmaltador.Va estudiar a l'Escola de Belles Arts de Llotja on fou deixeble de Torrescassana."
     },
     {
         "id": "146",
-        "Nombre": "MIQUEL UTRILLO I MORLIUS",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1862 - Sitges, Garraf 1934). Va ser enginyer, pintor, decorador, crític d'art i promotor artístic. S'orientà a París cap a les activitats artístiques. Gran amic de Rusiñol i de Casas formà amb ells el núcli més representatiu del modernisme plà"
+        "nom": "MIQUEL UTRILLO I MORLIUS",
+        "fecha": "",
+        "biocat": "(Barcelona 1862 - Sitges, Garraf 1934). Va ser enginyer, pintor, decorador, crític d'art i promotor artístic. S'orientà a París cap a les activitats artístiques. Gran amic de Rusiñol i de Casas formà amb ells el núcli més representatiu del modernisme plà"
     },
     {
         "id": "147",
-        "Nombre": "MOISÈS BROGGI I VALLÈS",
-        "Aprobación": "06/03/13",
-        "Biografía CAT": "(Barcelona 1908-2012). Va ser metge i pacifista. Estudià Medicina a la Universitat de Barcelona, on es llicencià el 1931 sota la direcció d'august Pi i Sunyer i Joan Trias i Pujol, i on s'especialitzà en cirurgia."
+        "nom": "MOISÈS BROGGI I VALLÈS",
+        "fecha": "06/03/13",
+        "biocat": "(Barcelona 1908-2012). Va ser metge i pacifista. Estudià Medicina a la Universitat de Barcelona, on es llicencià el 1931 sota la direcció d'august Pi i Sunyer i Joan Trias i Pujol, i on s'especialitzà en cirurgia."
     },
     {
         "id": "148",
-        "Nombre": "MOSÉ ben NAKMÁN (NAHMÁNIDES)",
-        "Aprobación": "20/06/13",
-        "Biografía CAT": "(Girona 1194 - Acre, Palestina? 1270). Va ser un destacat filòsof, talmudista i cabalista."
+        "nom": "MOSÉ ben NAKMÁN (NAHMÁNIDES)",
+        "fecha": "20/06/13",
+        "biocat": "(Girona 1194 - Acre, Palestina? 1270). Va ser un destacat filòsof, talmudista i cabalista."
     },
     {
         "id": "149",
-        "Nombre": "NELSON MANDELA",
-        "Aprobación": "26/03/15",
-        "Biografía CAT": "(Umtata, Sud-Àfrica 1918-Johannesburg 2013). Va ser polític i un dels liders emblemàtics de la lluita contra el sistema polític de l'apartheid. Va ser el primer president de la República de Sud-àfrica (1994-1999) escollit per sufragi universal a les prime"
+        "nom": "NELSON MANDELA",
+        "fecha": "26/03/15",
+        "biocat": "(Umtata, Sud-Àfrica 1918-Johannesburg 2013). Va ser polític i un dels liders emblemàtics de la lluita contra el sistema polític de l'apartheid. Va ser el primer president de la República de Sud-àfrica (1994-1999) escollit per sufragi universal a les prime"
     },
     {
         "id": "150",
-        "Nombre": "NIKOLA TESLA",
-        "Aprobación": "26/03/15",
-        "Biografía CAT": "(Smiljan, actual Croàcia 1856-Nova York 1943). Físic matemàtic, inventor i enginyer elèctric. El 1882 arribà a Paris per treballar en una de les companyies d'Edison, on va realitzart la seva major aprotació: la teoria del corrent altern en electricitat, l"
+        "nom": "NIKOLA TESLA",
+        "fecha": "26/03/15",
+        "biocat": "(Smiljan, actual Croàcia 1856-Nova York 1943). Físic matemàtic, inventor i enginyer elèctric. El 1882 arribà a Paris per treballar en una de les companyies d'Edison, on va realitzart la seva major aprotació: la teoria del corrent altern en electricitat, l"
     },
     {
         "id": "151",
-        "Nombre": "NISSIM ben REUBEN GIRONDÍ",
-        "Aprobación": "",
-        "Biografía CAT": "(Girona o Barcelona, ca. 1310 - Barcelona ca.1375). Va ser metge i destacat talmudista. Fou rabí de la comunitat de Barcelona i tingué gran influència en el segle XIV per les seves obres. Escriví nombrosos comentaris bíblics."
+        "nom": "NISSIM ben REUBEN GIRONDÍ",
+        "fecha": "",
+        "biocat": "(Girona o Barcelona, ca. 1310 - Barcelona ca.1375). Va ser metge i destacat talmudista. Fou rabí de la comunitat de Barcelona i tingué gran influència en el segle XIV per les seves obres. Escriví nombrosos comentaris bíblics."
     },
     {
         "id": "152",
-        "Nombre": "OLIMPÍADA POPULAR",
-        "Aprobación": "20/07/16",
-        "Biografía CAT": "Jocs populars internacionals i antifeixistes programats pel juliol de 1936. No es van fer per l'inici de la Guerra Civil"
+        "nom": "OLIMPÍADA POPULAR",
+        "fecha": "20/07/16",
+        "biocat": "Jocs populars internacionals i antifeixistes programats pel juliol de 1936. No es van fer per l'inici de la Guerra Civil"
     },
     {
         "id": "153",
-        "Nombre": "ORIOL RIBA I ARDERIU",
-        "Aprobación": "08/01/15",
-        "Biografía CAT": "(Barcelona 1923 - 2011).Va ser geòleg i professor emèrit d'estratigrafia de la Fac ultat de Geologia de la Universitat de Barcelona. Va ser un geòleg dels més coneguts i dels que més be coneixien el país."
+        "nom": "ORIOL RIBA I ARDERIU",
+        "fecha": "08/01/15",
+        "biocat": "(Barcelona 1923 - 2011).Va ser geòleg i professor emèrit d'estratigrafia de la Fac ultat de Geologia de la Universitat de Barcelona. Va ser un geòleg dels més coneguts i dels que més be coneixien el país."
     },
     {
         "id": "154",
-        "Nombre": "PACO CANDEL",
-        "Aprobación": "15/01/08",
-        "Biografía CAT": "(Cases Altes, Racó d'Ademús 1925 - Barcelona 2007). Va ser escriptor i periodista. El seu compromís social el vinculà amb la política, concretament al PSUC, tot i que no milità."
+        "nom": "PACO CANDEL",
+        "fecha": "15/01/08",
+        "biocat": "(Cases Altes, Racó d'Ademús 1925 - Barcelona 2007). Va ser escriptor i periodista. El seu compromís social el vinculà amb la política, concretament al PSUC, tot i que no milità."
     },
     {
         "id": "155",
-        "Nombre": "PACO PUERTO OTERO",
-        "Aprobación": "16/03/11",
-        "Biografía CAT": "(Cabezas de San Juan, Sevilla 1947- Barcelona 1992). Va ser líder sindical. Fou empresonat diverses vegades fins que el 1976 li fou aplicada l'amnistia RD-Llei 30 de juliol. Participà en el 1r congrés de CCOO i formà part de la seva Comissió Executiva."
+        "nom": "PACO PUERTO OTERO",
+        "fecha": "16/03/11",
+        "biocat": "(Cabezas de San Juan, Sevilla 1947- Barcelona 1992). Va ser líder sindical. Fou empresonat diverses vegades fins que el 1976 li fou aplicada l'amnistia RD-Llei 30 de juliol. Participà en el 1r congrés de CCOO i formà part de la seva Comissió Executiva."
     },
     {
         "id": "156",
-        "Nombre": "PADRE SOLER (ANTONI SOLER RAMOS)",
-        "Aprobación": "",
-        "Biografía CAT": "(Olot, La Garrotxa 1729-El Escorial, Madrid 1783). Va ser compositor i organista. Fou un dels màxims representants de la música per a teclat de la península de finals del període Barroc i principis del Classicisme."
+        "nom": "PADRE SOLER (ANTONI SOLER RAMOS)",
+        "fecha": "",
+        "biocat": "(Olot, La Garrotxa 1729-El Escorial, Madrid 1783). Va ser compositor i organista. Fou un dels màxims representants de la música per a teclat de la península de finals del període Barroc i principis del Classicisme."
     },
     {
         "id": "157",
-        "Nombre": "PADRE USERA (JERÓNIMO USERA)",
-        "Aprobación": "22/05/97",
-        "Biografía CAT": "( Madrid 1810 - La Habana, Cuba 1891). Va ser religiós i misioner. Va ser fundador de la congregació religiosa \" Las hermanas del Amor de Dios\""
+        "nom": "PADRE USERA (JERÓNIMO USERA)",
+        "fecha": "22/05/97",
+        "biocat": "( Madrid 1810 - La Habana, Cuba 1891). Va ser religiós i misioner. Va ser fundador de la congregació religiosa \" Las hermanas del Amor de Dios\""
     },
     {
         "id": "158",
-        "Nombre": "PAKISTÁN",
-        "Aprobación": "08/04/08",
-        "Biografía CAT": ""
+        "nom": "PAKISTÁN",
+        "fecha": "08/04/08",
+        "biocat": ""
     },
     {
         "id": "159",
-        "Nombre": "PAPA JOAN PAU II",
-        "Aprobación": "14/07/06",
-        "Biografía CAT": "(Wadowice, Cracòvia 1920 - Ciutat del Vaticà 2005). Nom que adoptà Karol Wojtyla en ésser elegit Papa el 1978."
+        "nom": "PAPA JOAN PAU II",
+        "fecha": "14/07/06",
+        "biocat": "(Wadowice, Cracòvia 1920 - Ciutat del Vaticà 2005). Nom que adoptà Karol Wojtyla en ésser elegit Papa el 1978."
     },
     {
         "id": "160",
-        "Nombre": "PAU GIL I SERRA",
-        "Aprobación": "16/03/11",
-        "Biografía CAT": "(Barcelona 1816 - Paris 1896). Va ser banquer i mecenes. Als 17 anys va traslladar-se a Paris on va viure durant 62 anys.Es dedicà amb èxit a les finances juntament amb el seu germà Pere. Al seu testament deixà escrit que la meitat de la eva fortuna es de"
+        "nom": "PAU GIL I SERRA",
+        "fecha": "16/03/11",
+        "biocat": "(Barcelona 1816 - Paris 1896). Va ser banquer i mecenes. Als 17 anys va traslladar-se a Paris on va viure durant 62 anys.Es dedicà amb èxit a les finances juntament amb el seu germà Pere. Al seu testament deixà escrit que la meitat de la eva fortuna es de"
     },
     {
         "id": "161",
-        "Nombre": "PEP MAURI",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1930-1998). Va ser jugador i entrenador de futbol."
+        "nom": "PEP MAURI",
+        "fecha": "",
+        "biocat": "(Barcelona 1930-1998). Va ser jugador i entrenador de futbol."
     },
     {
         "id": "162",
-        "Nombre": "PERE CATALA ROCA",
-        "Aprobación": "26/03/15",
-        "Biografía CAT": "(Valls, Alt Camp 1923-Barcelona 2009). Va ser fotògrafi i historiador. S'especialitzà en el món casteller."
+        "nom": "PERE CATALA ROCA",
+        "fecha": "26/03/15",
+        "biocat": "(Valls, Alt Camp 1923-Barcelona 2009). Va ser fotògrafi i historiador. S'especialitzà en el món casteller."
     },
     {
         "id": "163",
-        "Nombre": "PERE III EL CERIMONIÓS",
-        "Aprobación": "04/03/99",
-        "Biografía CAT": "(Balaguer, Noguera 1319-Barcelona 1387). Va ser Rei de la Corona d'Aragó, hi reincorporà el regne de Mallorca i els comtats de Rosselló i Cerdanya. Més tard s'apoderà també de l'Alguer que fou repoblat per catalans. Durant el seu mandat nasqué la instituc"
+        "nom": "PERE III EL CERIMONIÓS",
+        "fecha": "04/03/99",
+        "biocat": "(Balaguer, Noguera 1319-Barcelona 1387). Va ser Rei de la Corona d'Aragó, hi reincorporà el regne de Mallorca i els comtats de Rosselló i Cerdanya. Més tard s'apoderà també de l'Alguer que fou repoblat per catalans. Durant el seu mandat nasqué la instituc"
     },
     {
         "id": "164",
-        "Nombre": "PERE PRUNA I OCERANS",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona 1904-1977). Va ser pintor. Va estar actiu des de molt jove a París, sota la protecció de Pablo Picassso. Es conserven pintures murals seves al monestir de Montserrat."
+        "nom": "PERE PRUNA I OCERANS",
+        "fecha": "",
+        "biocat": "(Barcelona 1904-1977). Va ser pintor. Va estar actiu des de molt jove a París, sota la protecció de Pablo Picassso. Es conserven pintures murals seves al monestir de Montserrat."
     },
     {
         "id": "165",
-        "Nombre": "PESSETA",
-        "Aprobación": "",
-        "Biografía CAT": "Des de stembre de 1868 ha estat la moneda de l'Estat Espanyol. El 28/2/2002 ha deixat de tenir curs legal."
+        "nom": "PESSETA",
+        "fecha": "",
+        "biocat": "Des de stembre de 1868 ha estat la moneda de l'Estat Espanyol. El 28/2/2002 ha deixat de tenir curs legal."
     },
     {
         "id": "166",
-        "Nombre": "PINTORS CASTELUCHO",
-        "Aprobación": "04/06/98",
-        "Biografía CAT": "Antoni Castelucho i Vendrell (Barcelona 1835-París 1910), i Claudi Castelucho Vendrell (Barcelona 1870-París 1927), Emili Castelucho i Diana (Barcelona 1879-París 1939). Va ser una família d'artistes i marxants que establiren galeries d'art a París, on es"
+        "nom": "PINTORS CASTELUCHO",
+        "fecha": "04/06/98",
+        "biocat": "Antoni Castelucho i Vendrell (Barcelona 1835-París 1910), i Claudi Castelucho Vendrell (Barcelona 1870-París 1927), Emili Castelucho i Diana (Barcelona 1879-París 1939). Va ser una família d'artistes i marxants que establiren galeries d'art a París, on es"
     },
     {
         "id": "167",
-        "Nombre": "PÍO BAROJA",
-        "Aprobación": "",
-        "Biografía CAT": "(Sant Sebastià, Pais Basc 1872-Madrid 1956). Va ser un dels escriptors més importants de la Generació del 98. Va estudiar medicina i duant un temps exercí com a metge."
+        "nom": "PÍO BAROJA",
+        "fecha": "",
+        "biocat": "(Sant Sebastià, Pais Basc 1872-Madrid 1956). Va ser un dels escriptors més importants de la Generació del 98. Va estudiar medicina i duant un temps exercí com a metge."
     },
     {
         "id": "168",
-        "Nombre": "RAFAEL ANGLADA I RUBÍ",
-        "Aprobación": "",
-        "Biografía CAT": "(Santa Coloma de Farners, La Selva 1921- Barcelona 1993). Va ser actor i autor de teatre. Es va vincular des de molt jove al Teatre Lliure."
+        "nom": "RAFAEL ANGLADA I RUBÍ",
+        "fecha": "",
+        "biocat": "(Santa Coloma de Farners, La Selva 1921- Barcelona 1993). Va ser actor i autor de teatre. Es va vincular des de molt jove al Teatre Lliure."
     },
     {
         "id": "169",
-        "Nombre": "RAFAEL CESTER ACEBO",
-        "Aprobación": "",
-        "Biografía CAT": "(Barcelona ? - 1997). Fou un religiós que es dedicà a l'educació dels infants de raça gitana al Somorrostro. També va impulsar el menjador del carrer de la Lleona de la Mare Teresa de Calcuta per a pobres indigents. Va promoure pisos per a malalts de Sida"
+        "nom": "RAFAEL CESTER ACEBO",
+        "fecha": "",
+        "biocat": "(Barcelona ? - 1997). Fou un religiós que es dedicà a l'educació dels infants de raça gitana al Somorrostro. També va impulsar el menjador del carrer de la Lleona de la Mare Teresa de Calcuta per a pobres indigents. Va promoure pisos per a malalts de Sida"
     },
     {
         "id": "170",
-        "Nombre": "RAIMON PANIKKAR ALEMANY",
-        "Aprobación": "08/01/15",
-        "Biografía CAT": "(Barcelona 1918-Tavertet, Oosna 2010). Va ser filòsof i teòleg i desenvolupà una filosofia interreligiosa i intercultural. Va ser ordenat sacerdot el 1946 a Roma."
+        "nom": "RAIMON PANIKKAR ALEMANY",
+        "fecha": "08/01/15",
+        "biocat": "(Barcelona 1918-Tavertet, Oosna 2010). Va ser filòsof i teòleg i desenvolupà una filosofia interreligiosa i intercultural. Va ser ordenat sacerdot el 1946 a Roma."
     },
     {
         "id": "171",
-        "Nombre": "RAMÓN ALABERN I MOLES",
-        "Aprobación": "08/04/03",
-        "Biografía CAT": "(Begues, Baix Llobregat 1811- Madrid 1888). Va ser gravador i fotògraf. Va ser el daguerrotipista encarregat de realitzar la primera fotografia a Espanya (1839)"
+        "nom": "RAMÓN ALABERN I MOLES",
+        "fecha": "08/04/03",
+        "biocat": "(Begues, Baix Llobregat 1811- Madrid 1888). Va ser gravador i fotògraf. Va ser el daguerrotipista encarregat de realitzar la primera fotografia a Espanya (1839)"
     },
     {
         "id": "172",
-        "Nombre": "RAMON FERNÁNDEZ- JURADO",
-        "Aprobación": "",
-        "Biografía CAT": "(Almeria 1914- Barcelona 1984). Va ser dirigent obrer i polític socialista. Va ser militant del POUM. També va ser poeta i professor de català."
+        "nom": "RAMON FERNÁNDEZ- JURADO",
+        "fecha": "",
+        "biocat": "(Almeria 1914- Barcelona 1984). Va ser dirigent obrer i polític socialista. Va ser militant del POUM. També va ser poeta i professor de català."
     },
     {
         "id": "173",
-        "Nombre": "RAMÓN J. SENDER",
-        "Aprobación": "06/11/03",
-        "Biografía CAT": "(Xalamera, Baix Cinca, Aragó 1901-San Diego, California 1982). Escriptor i viatger. Algun dels seus viatges el va inspirar per escriure."
+        "nom": "RAMÓN J. SENDER",
+        "fecha": "06/11/03",
+        "biocat": "(Xalamera, Baix Cinca, Aragó 1901-San Diego, California 1982). Escriptor i viatger. Algun dels seus viatges el va inspirar per escriure."
     },
     {
         "id": "174",
-        "Nombre": "RAMON MARGALEF I LÓPEZ",
-        "Aprobación": "22/06/21",
-        "Biografía CAT": "(Barcelona 1919 - 2004) fou un biòleg català, que va destacar pel seu treball en els camps de la limnologia, oceanografia i ecologia."
+        "nom": "RAMON MARGALEF I LÓPEZ",
+        "fecha": "22/06/21",
+        "biocat": "(Barcelona 1919 - 2004) fou un biòleg català, que va destacar pel seu treball en els camps de la limnologia, oceanografia i ecologia."
     },
     {
         "id": "175",
-        "Nombre": "RAMON MARÍA DEL VALLE- INCLÁN",
-        "Aprobación": "11/03/81",
-        "Biografía CAT": "(Villanueva de Arosa, Pontevedra 1866 - Santiago de Compostela, La Corunya 1936). Va ser dramaturg, poeta i novel·lista.Va formar part del corrent modernista d'Espanya i proper a l'esperit de la Generació del 98."
+        "nom": "RAMON MARÍA DEL VALLE- INCLÁN",
+        "fecha": "11/03/81",
+        "biocat": "(Villanueva de Arosa, Pontevedra 1866 - Santiago de Compostela, La Corunya 1936). Va ser dramaturg, poeta i novel·lista.Va formar part del corrent modernista d'Espanya i proper a l'esperit de la Generació del 98."
     },
     {
         "id": "176",
-        "Nombre": "RAMON PORQUERAS",
-        "Aprobación": "11/12/08",
-        "Biografía CAT": "(Barcelona 1925-Sarcelles, França 2008). Va ser una figura del sindicalisme de postguerra i d'exili a Espanya, i també la memòria històrica de la UGT a Catalunya en la clandestinitat."
+        "nom": "RAMON PORQUERAS",
+        "fecha": "11/12/08",
+        "biocat": "(Barcelona 1925-Sarcelles, França 2008). Va ser una figura del sindicalisme de postguerra i d'exili a Espanya, i també la memòria històrica de la UGT a Catalunya en la clandestinitat."
     },
     {
         "id": "177",
-        "Nombre": "RICARD SALVAT I FERRÉ",
-        "Aprobación": "21/05/09",
-        "Biografía CAT": "(Tortosa, Baix Ebre 1934 - Barcelona 2009). Va ser escriptor, director teatral i professor universitari. Fou director del Festival Internacional de Teatre de Sitges (1977- 1986). Fou un del noms de referència del teatre català, fundador de l'Escola d'Art D"
+        "nom": "RICARD SALVAT I FERRÉ",
+        "fecha": "21/05/09",
+        "biocat": "(Tortosa, Baix Ebre 1934 - Barcelona 2009). Va ser escriptor, director teatral i professor universitari. Fou director del Festival Internacional de Teatre de Sitges (1977- 1986). Fou un del noms de referència del teatre català, fundador de l'Escola d'Art D"
     },
     {
         "id": "178",
-        "Nombre": "RICARD VILADESAU CANER",
-        "Aprobación": "08/01/15",
-        "Biografía CAT": "(Calonge, Baix Empordà 1918-Barcelona 2005). Va ser músic i compositor de sardanes i havaneres, i un dels millors instrumentistes de tenora de Catalunya."
+        "nom": "RICARD VILADESAU CANER",
+        "fecha": "08/01/15",
+        "biocat": "(Calonge, Baix Empordà 1918-Barcelona 2005). Va ser músic i compositor de sardanes i havaneres, i un dels millors instrumentistes de tenora de Catalunya."
     },
     {
         "id": "179",
-        "Nombre": "ROMÀ BONET SINTES",
-        "Aprobación": "18/03/10",
-        "Biografía CAT": "(Barcelona 1886-1966). Va ser dibuixant, caricaturista i pintor. Era dibuixant de diversos setmanaris humorístics de Barcelona, Madrid i Bilbao. Va guanyar la medalla d'Or del concurs de Cartells de l'Exposició Internacional del 1929"
+        "nom": "ROMÀ BONET SINTES",
+        "fecha": "18/03/10",
+        "biocat": "(Barcelona 1886-1966). Va ser dibuixant, caricaturista i pintor. Era dibuixant de diversos setmanaris humorístics de Barcelona, Madrid i Bilbao. Va guanyar la medalla d'Or del concurs de Cartells de l'Exposició Internacional del 1929"
     },
     {
         "id": "180",
-        "Nombre": "RONDA DE MAR",
-        "Aprobación": "23/10/97",
-        "Biografía CAT": ""
+        "nom": "RONDA DE MAR",
+        "fecha": "23/10/97",
+        "biocat": ""
     },
     {
         "id": "181",
-        "Nombre": "ROSA BARBA CASANOVAS",
-        "Aprobación": "22/06/21",
-        "Biografía CAT": "(Barcelona, 1948 - 2000). Va ser una arquitecta i professora d'Urbanisme catalana."
+        "nom": "ROSA BARBA CASANOVAS",
+        "fecha": "22/06/21",
+        "biocat": "(Barcelona, 1948 - 2000). Va ser una arquitecta i professora d'Urbanisme catalana."
     },
     {
         "id": "182",
-        "Nombre": "SALARICH I VERDAGUER",
-        "Aprobación": "17/11/92",
-        "Biografía CAT": "(Vic, Osona 1816-Caldes d'Estrac, Maresme 1884). Va ser metge, historiador i escriptor. A més de la seva obra dedicada a Vic i narracions romàntiques, escriví obres de caràcter social, temes agrícoles i monografies locals."
+        "nom": "SALARICH I VERDAGUER",
+        "fecha": "17/11/92",
+        "biocat": "(Vic, Osona 1816-Caldes d'Estrac, Maresme 1884). Va ser metge, historiador i escriptor. A més de la seva obra dedicada a Vic i narracions romàntiques, escriví obres de caràcter social, temes agrícoles i monografies locals."
     },
     {
         "id": "183",
-        "Nombre": "SAN JUAN LORENZO",
-        "Aprobación": "07/03/97",
-        "Biografía CAT": "(Cetina, Saragossa 1340 - Regne de Granada 1397). Va ser un frare franciscà. Va morir martiritzat a Granada mentre predicava."
+        "nom": "SAN JUAN LORENZO",
+        "fecha": "07/03/97",
+        "biocat": "(Cetina, Saragossa 1340 - Regne de Granada 1397). Va ser un frare franciscà. Va morir martiritzat a Granada mentre predicava."
     },
     {
         "id": "184",
-        "Nombre": "SANT PETERSBURG",
-        "Aprobación": "01/06/94",
-        "Biografía CAT": ""
+        "nom": "SANT PETERSBURG",
+        "fecha": "01/06/94",
+        "biocat": ""
     },
     {
         "id": "185",
-        "Nombre": "SANTA MARIA JOSEFA",
-        "Aprobación": "25/09/08",
-        "Biografía CAT": "(Vitòria, Pais Basc 1842 - Bilbao 1912). Va ser religiosa i fundadora de l'Ordre de Siervas de Jesús de la Caridad a Barcelona, el 1908."
+        "nom": "SANTA MARIA JOSEFA",
+        "fecha": "25/09/08",
+        "biocat": "(Vitòria, Pais Basc 1842 - Bilbao 1912). Va ser religiosa i fundadora de l'Ordre de Siervas de Jesús de la Caridad a Barcelona, el 1908."
     },
     {
         "id": "186",
-        "Nombre": "SANTIAGO MARCÓ URRUTIA",
-        "Aprobación": "26/10/05",
-        "Biografía CAT": "(Tarragona 1885- Barcelona 1949). Va ser decorador, esmaltador i teòric de l'art. Fou president del Foment de les Arts Decoratives. També és autor d'escrits de divulgació artística."
+        "nom": "SANTIAGO MARCÓ URRUTIA",
+        "fecha": "26/10/05",
+        "biocat": "(Tarragona 1885- Barcelona 1949). Va ser decorador, esmaltador i teòric de l'art. Fou president del Foment de les Arts Decoratives. També és autor d'escrits de divulgació artística."
     },
     {
         "id": "187",
-        "Nombre": "SHOAH",
-        "Aprobación": "18/03/10",
-        "Biografía CAT": ""
+        "nom": "SHOAH",
+        "fecha": "18/03/10",
+        "biocat": ""
     },
     {
         "id": "188",
-        "Nombre": "TALLERS DEL FERROCARRIL DEL NORD",
-        "Aprobación": "22/06/21",
-        "Biografía CAT": ""
+        "nom": "TALLERS DEL FERROCARRIL DEL NORD",
+        "fecha": "22/06/21",
+        "biocat": ""
     },
     {
         "id": "189",
-        "Nombre": "TARRÉS",
-        "Aprobación": "04/03/99",
-        "Biografía CAT": ""
+        "nom": "TARRÉS",
+        "fecha": "04/03/99",
+        "biocat": ""
     },
     {
         "id": "190",
-        "Nombre": "TECNOLOGIA",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "TECNOLOGIA",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "191",
-        "Nombre": "THEODORE ROOSVELT",
-        "Aprobación": "20/11/07",
-        "Biografía CAT": "(Nova York 1858-Oyster Bay, Nova York 1919). Va ser polític. Governador de l'estat de Nova York (1898) i vicepresident amb McKinley (1900), esdevingué president dels Estats Units en ésser assassinat aquest (1901), i l'any 1904 fou reelegit."
+        "nom": "THEODORE ROOSVELT",
+        "fecha": "20/11/07",
+        "biocat": "(Nova York 1858-Oyster Bay, Nova York 1919). Va ser polític. Governador de l'estat de Nova York (1898) i vicepresident amb McKinley (1900), esdevingué president dels Estats Units en ésser assassinat aquest (1901), i l'any 1904 fou reelegit."
     },
     {
         "id": "192",
-        "Nombre": "TIERNO GALVAN",
-        "Aprobación": "",
-        "Biografía CAT": "(Madrid 1918-1986). Va ser polític i jurista. També va ser doctor en filosofia i lletres. Va ser alcalde de Madrid (1979-1986)"
+        "nom": "TIERNO GALVAN",
+        "fecha": "",
+        "biocat": "(Madrid 1918-1986). Va ser polític i jurista. També va ser doctor en filosofia i lletres. Va ser alcalde de Madrid (1979-1986)"
     },
     {
         "id": "193",
-        "Nombre": "TIKAL",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "TIKAL",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "194",
-        "Nombre": "TINO FOLGAR",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "TINO FOLGAR",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "195",
-        "Nombre": "TOMÀS CARRERAS I ARTAU",
-        "Aprobación": "",
-        "Biografía CAT": "(Girona 1879 - Barcelona 1954). Va ser filòsof, advocat i etnòleg. Va ser catedràtic d'ètica. Va crear l'Arxiu d'Etnografia i Folklore de Catalunya."
+        "nom": "TOMÀS CARRERAS I ARTAU",
+        "fecha": "",
+        "biocat": "(Girona 1879 - Barcelona 1954). Va ser filòsof, advocat i etnòleg. Va ser catedràtic d'ètica. Va crear l'Arxiu d'Etnografia i Folklore de Catalunya."
     },
     {
         "id": "196",
-        "Nombre": "TUNIS",
-        "Aprobación": "06/05/86",
-        "Biografía CAT": ""
+        "nom": "TUNIS",
+        "fecha": "06/05/86",
+        "biocat": ""
     },
     {
         "id": "197",
-        "Nombre": "VIA PATERNA",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "VIA PATERNA",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "198",
-        "Nombre": "VICENTE ALEIXANDRE",
-        "Aprobación": "17/12/98",
-        "Biografía CAT": "(Sevilla 1898-Madrid 1984). Va ser un dels poetes més importants de la \"Geneneració del 27\". Fou elegit acadèmic de la Real Academia Española el 1950. Arrencant del simbolisme, assimilà el superrealisme en els seus versos. Va ser Nobel de Literatura l'an"
+        "nom": "VICENTE ALEIXANDRE",
+        "fecha": "17/12/98",
+        "biocat": "(Sevilla 1898-Madrid 1984). Va ser un dels poetes més importants de la \"Geneneració del 27\". Fou elegit acadèmic de la Real Academia Española el 1950. Arrencant del simbolisme, assimilà el superrealisme en els seus versos. Va ser Nobel de Literatura l'an"
     },
     {
         "id": "199",
-        "Nombre": "VICENTE BLASCO IBÁÑEZ",
-        "Aprobación": "",
-        "Biografía CAT": "(València 1867-Menton, França, 1928). Va ser escriptor, periodista i polític. Molt jove s'uní al Partido Federal de la Región Valenciana. Fou elegit diputat i fundà \"El Pueblo\" on publicà per capítols algunes de les seves obres de tall costumista sobre l"
+        "nom": "VICENTE BLASCO IBÁÑEZ",
+        "fecha": "",
+        "biocat": "(València 1867-Menton, França, 1928). Va ser escriptor, periodista i polític. Molt jove s'uní al Partido Federal de la Región Valenciana. Fou elegit diputat i fundà \"El Pueblo\" on publicà per capítols algunes de les seves obres de tall costumista sobre l"
     },
     {
         "id": "200",
-        "Nombre": "VÍCTIMES DEL TERRORISME",
-        "Aprobación": "12/03/09",
-        "Biografía CAT": ""
+        "nom": "VÍCTIMES DEL TERRORISME",
+        "fecha": "12/03/09",
+        "biocat": ""
     },
     {
         "id": "201",
-        "Nombre": "VÍCTOR HUGO",
-        "Aprobación": "26/10/06",
-        "Biografía CAT": "(Besançon, França 1802-París 1885). Va ser poeta, dramaturg i novelista del corrent romàntic. També fou polític i intel·lectual: participà en la revolució del 1848 i s'oposà a Napoleó III."
+        "nom": "VÍCTOR HUGO",
+        "fecha": "26/10/06",
+        "biocat": "(Besançon, França 1802-París 1885). Va ser poeta, dramaturg i novelista del corrent romàntic. També fou polític i intel·lectual: participà en la revolució del 1848 i s'oposà a Napoleó III."
     },
     {
         "id": "202",
-        "Nombre": "VIENA",
-        "Aprobación": "21/11/12",
-        "Biografía CAT": ""
+        "nom": "VIENA",
+        "fecha": "21/11/12",
+        "biocat": ""
     },
     {
         "id": "203",
-        "Nombre": "VIGO",
-        "Aprobación": "",
-        "Biografía CAT": ""
+        "nom": "VIGO",
+        "fecha": "",
+        "biocat": ""
     },
     {
         "id": "204",
-        "Nombre": "VILLA DE ANDORRA",
-        "Aprobación": "05/10/93",
-        "Biografía CAT": ""
+        "nom": "VILLA DE ANDORRA",
+        "fecha": "05/10/93",
+        "biocat": ""
     },
     {
         "id": "205",
-        "Nombre": "VIMBODÍ",
-        "Aprobación": "06/11/03",
-        "Biografía CAT": ""
+        "nom": "VIMBODÍ",
+        "fecha": "06/11/03",
+        "biocat": ""
     },
     {
         "id": "206",
-        "Nombre": "VOLTAIRE",
-        "Aprobación": "26/06/12",
-        "Biografía CAT": "(París 1694-1778). Va ser advocat, escriptor i filòsof. Va formar part de la maçoneria i va ser un dels prinicipals representants de la Il·lustració. Fou escollit membre de l'Acadèmia Francesa."
+        "nom": "VOLTAIRE",
+        "fecha": "26/06/12",
+        "biocat": "(París 1694-1778). Va ser advocat, escriptor i filòsof. Va formar part de la maçoneria i va ser un dels prinicipals representants de la Il·lustració. Fou escollit membre de l'Acadèmia Francesa."
     },
     {
         "id": "207",
-        "Nombre": "VOLUNTARIAT",
-        "Aprobación": "10/06/96",
-        "Biografía CAT": ""
+        "nom": "VOLUNTARIAT",
+        "fecha": "10/06/96",
+        "biocat": ""
     },
     {
         "id": "208",
-        "Nombre": "XÀTIVA",
-        "Aprobación": "21/11/12",
-        "Biografía CAT": ""
+        "nom": "XÀTIVA",
+        "fecha": "21/11/12",
+        "biocat": ""
     },
     {
         "id": "209",
-        "Nombre": "XAVIER CUGAT I MINGALL",
-        "Aprobación": "",
-        "Biografía CAT": "(Girona 1901 - Barcelona 1990). Va ser músic i dibuixant. Establert a l'Havana esdevingué violinista clàssic. Va ser un dels principals difusors de la música afrocubana i iberoamericana."
+        "nom": "XAVIER CUGAT I MINGALL",
+        "fecha": "",
+        "biocat": "(Girona 1901 - Barcelona 1990). Va ser músic i dibuixant. Establert a l'Havana esdevingué violinista clàssic. Va ser un dels principals difusors de la música afrocubana i iberoamericana."
     }
 ]
 }
